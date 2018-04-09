@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-04-09T09:31:13.483410744</meta:creation-date><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><dc:date>2018-04-09T11:23:57.548339049</dc:date><meta:editing-duration>PT1H27M31S</meta:editing-duration><meta:editing-cycles>10</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="3" meta:object-count="0" meta:page-count="8" meta:paragraph-count="59" meta:word-count="564" meta:character-count="3376" meta:non-whitespace-character-count="2829"/></office:meta>
+ <office:meta><meta:creation-date>2018-04-09T09:31:13.483410744</meta:creation-date><meta:generator>LibreOffice/5.2.7.2$Linux_ARM_EABI LibreOffice_project/20m0$Build-2</meta:generator><dc:date>2018-04-09T09:46:17.831566028</dc:date><meta:editing-duration>PT1H28M1S</meta:editing-duration><meta:editing-cycles>11</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="3" meta:object-count="0" meta:page-count="8" meta:paragraph-count="59" meta:word-count="564" meta:character-count="3377" meta:non-whitespace-character-count="2830"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">92895</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">184150</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">40924</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">21632</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">19801</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">10938</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">11666</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">68945</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">8072</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">184538</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">92895</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">40922</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">114526</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">184150</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">19800</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">195086</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -29,88 +29,88 @@
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
    <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
-   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintFaxName" config:type="string"/>
    <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
    <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
    <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string"/>
-   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
-   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">662611</config:config-item>
-   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
-   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
-   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="RsidRoot" config:type="int">441081</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">706253</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
    <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
-   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
    <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">441081</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -129,14 +129,14 @@
  </office:font-face-decls>
  <office:styles>
   <style:default-style style:family="graphic">
-   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
    <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="sv" fo:country="SE" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <style:default-style style:family="paragraph">
-   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.251cm" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="sv" fo:country="SE" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:default-style>
   <style:default-style style:family="table">
@@ -147,17 +147,17 @@
   </style:default-style>
   <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
   <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:keep-with-next="always"/>
    <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="DejaVu Sans" style:font-family-asian="&apos;DejaVu Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="DejaVu Sans" style:font-family-complex="&apos;DejaVu Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" loext:contextual-spacing="false" fo:line-height="120%"/>
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="120%"/>
   </style:style>
   <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
    <style:text-properties style:font-size-asian="12pt"/>
   </style:style>
   <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
-   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
    <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-size-complex="12pt" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
@@ -165,11 +165,11 @@
    <style:text-properties style:font-size-asian="12pt"/>
   </style:style>
   <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="130%" fo:font-weight="bold" style:font-size-asian="130%" style:font-weight-asian="bold" style:font-size-complex="130%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1965in" loext:contextual-spacing="false" style:border-line-width-bottom="0in 0.0016in 0.0008in" fo:padding="0in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false" style:border-line-width-bottom="0cm 0.004cm 0.002cm" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.14pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
    <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
   </style:style>
   <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
@@ -177,55 +177,55 @@
    <style:text-properties fo:font-size="28pt" fo:font-weight="bold" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Contents_20_Heading" style:display-name="Contents Heading" style:family="paragraph" style:parent-style-name="Heading" style:class="index">
-   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
    <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Contents_20_1" style:display-name="Contents 1" style:family="paragraph" style:parent-style-name="Index" style:class="index">
-   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
-     <style:tab-stop style:position="6.9252in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+     <style:tab-stop style:position="17.59cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
   <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.139in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.353cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="115%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Contents_20_2" style:display-name="Contents 2" style:family="paragraph" style:parent-style-name="Index" style:class="index">
-   <style:paragraph-properties fo:margin-left="0.1965in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
-     <style:tab-stop style:position="6.7283in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+     <style:tab-stop style:position="17.09cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
   <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.0972in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.247cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="101%" fo:font-weight="bold" style:font-size-asian="101%" style:font-weight-asian="bold" style:font-size-complex="101%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="95%" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="95%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="95%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_5" style:display-name="Heading 5" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="5" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0417in" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="85%" fo:font-weight="bold" style:font-size-asian="85%" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_6" style:display-name="Heading 6" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="6" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0417in" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="85%" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="85%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="85%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_7" style:display-name="Heading 7" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="7" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0417in" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="80%" fo:font-weight="bold" style:font-size-asian="80%" style:font-weight-asian="bold" style:font-size-complex="80%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_8" style:display-name="Heading 8" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="8" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0417in" loext:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="80%" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="80%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="80%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Contents_20_3" style:display-name="Contents 3" style:family="paragraph" style:parent-style-name="Index" style:class="index">
-   <style:paragraph-properties fo:margin-left="0.3929in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false">
+   <style:paragraph-properties fo:margin-left="0.998cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
-     <style:tab-stop style:position="6.5319in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+     <style:tab-stop style:position="16.591cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
@@ -233,28 +233,29 @@
   <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
    <style:paragraph-properties text:number-lines="false" text:line-number="0">
     <style:tab-stops>
-     <style:tab-stop style:position="3.4626in" style:type="center"/>
-     <style:tab-stop style:position="6.9252in" style:type="right"/>
+     <style:tab-stop style:position="8.795cm" style:type="center"/>
+     <style:tab-stop style:position="17.59cm" style:type="right"/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
   <style:style style:name="Page_20_4" style:display-name="Page 4" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
-   <loext:graphic-properties draw:fill-image-width="0in" draw:fill-image-height="0in"/>
+   <loext:graphic-properties draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
    <style:paragraph-properties style:page-number="auto" style:shadow="none" text:number-lines="true" text:line-number="1" style:writing-mode="page">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:font-size-asian="10.5pt"/>
   </style:style>
+  <style:style style:name="Frame_20_contents" style:display-name="Frame contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
   <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
    <style:text-properties fo:color="#000080" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="Index_20_Link" style:display-name="Index Link" style:family="text"/>
   <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
   <style:style style:name="Graphics" style:family="graphic">
-   <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
   </style:style>
   <style:style style:name="Frame" style:family="graphic">
-   <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" fo:margin-left="0.0791in" fo:margin-right="0.0791in" fo:margin-top="0.0791in" fo:margin-bottom="0.0791in" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0.0591in" fo:border="0.06pt solid #000000"/>
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" fo:margin-left="0.201cm" fo:margin-right="0.201cm" fo:margin-top="0.201cm" fo:margin-bottom="0.201cm" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0.15cm" fo:border="0.06pt solid #000000"/>
   </style:style>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" style:num-prefix=" " style:num-suffix=" " style:num-format="1">
@@ -310,84 +311,84 @@
   </text:outline-style>
   <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
   <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
-  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="0006baf9" officeooo:paragraph-rsid="0006baf9"/>
   </style:style>
-  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="0006baf9" officeooo:paragraph-rsid="0006baf9"/>
-  </style:style>
-  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:language="sv" fo:country="SE" officeooo:rsid="00083391" officeooo:paragraph-rsid="00083391"/>
   </style:style>
-  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="transparent"/>
   </style:style>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="11pt" fo:language="sv" fo:country="SE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00083391" officeooo:paragraph-rsid="00083391" style:text-blinking="false" fo:background-color="transparent"/>
   </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-underline-style="none" style:text-blinking="false" fo:background-color="transparent"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#434343" style:text-line-through-style="none" style:text-line-through-type="none" style:text-underline-style="none" style:text-blinking="false" fo:background-color="transparent"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#353744" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" officeooo:paragraph-rsid="0008c6df" style:text-blinking="false" fo:background-color="transparent"/>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0006baf9" officeooo:paragraph-rsid="0006baf9"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="11pt" fo:language="sv" fo:country="SE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00083391" officeooo:paragraph-rsid="00083391" style:text-blinking="false" fo:background-color="transparent"/>
+   <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#353744" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" officeooo:paragraph-rsid="0008c6df" style:text-blinking="false" fo:background-color="transparent"/>
   </style:style>
   <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="transparent"/>
+   <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="11pt" fo:language="sv" fo:country="SE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="00083391" officeooo:paragraph-rsid="00083391" style:text-blinking="false" fo:background-color="transparent"/>
   </style:style>
   <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
-   <style:text-properties fo:language="sv" fo:country="SE" officeooo:rsid="00083391" officeooo:paragraph-rsid="00083391"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
-   <style:text-properties fo:font-weight="normal"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0008c6df"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#ffffff" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Courier New" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="#000000"/>
-  </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="138%" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+   <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="transparent"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="138%" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:language="sv" fo:country="SE" officeooo:rsid="00083391" officeooo:paragraph-rsid="00083391"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="138%" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="138%" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="0008c6df" style:text-blinking="false" fo:background-color="transparent"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="138%" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="138%" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#ffffff" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Courier New" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="#000000"/>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0008c6df"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#ffffff" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Courier New" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="#000000"/>
   </style:style>
   <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
@@ -398,27 +399,27 @@
   <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Bild">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Contents_20_Heading">
+   <style:paragraph-properties fo:break-before="page"/>
   </style:style>
   <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Bild">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Bild">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties officeooo:paragraph-rsid="0008c6df"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Contents_20_2">
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Contents_20_2">
    <style:paragraph-properties>
     <style:tab-stops>
-     <style:tab-stop style:position="6.7283in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+     <style:tab-stop style:position="17.09cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Contents_20_Heading">
-   <style:paragraph-properties fo:break-before="page"/>
   </style:style>
   <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Contents_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
-     <style:tab-stop style:position="6.9252in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+     <style:tab-stop style:position="17.59cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
@@ -428,9 +429,36 @@
   <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Contents_20_3">
    <style:paragraph-properties>
     <style:tab-stops>
-     <style:tab-stop style:position="6.5319in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+     <style:tab-stop style:position="16.591cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-underline-style="none" style:text-blinking="false" fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Courier New" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0008c6df"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="0008c6df"/>
@@ -456,82 +484,33 @@
   <style:style style:name="T8" style:family="text">
    <style:text-properties fo:font-weight="normal"/>
   </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties officeooo:rsid="000ac6cd"/>
+  </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
-   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0in" fo:border="none"/>
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none"/>
   </style:style>
   <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:run-through="foreground" style:wrap="none" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0in" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard" loext:rel-width-rel="paragraph"/>
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard" loext:rel-width-rel="paragraph"/>
   </style:style>
   <style:style style:name="fr3" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0in" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard" loext:rel-width-rel="paragraph"/>
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard" loext:rel-width-rel="paragraph"/>
   </style:style>
   <style:style style:name="fr4" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:vertical-pos="top" style:vertical-rel="baseline" fo:padding="0in" fo:border="none" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+   <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:vertical-pos="top" style:vertical-rel="baseline" fo:padding="0cm" fo:border="none" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties style:editable="false">
-    <style:columns fo:column-count="1" fo:column-gap="0in"/>
+    <style:columns fo:column-count="1" fo:column-gap="0cm"/>
    </style:section-properties>
   </style:style>
-  <text:list-style style:name="L1">
-   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-  </text:list-style>
   <style:page-layout style:name="pm1">
-   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
-    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style/>
    <style:footer-style>
-    <style:header-footer-properties fo:min-height="0in" fo:margin-top="0.1965in"/>
+    <style:header-footer-properties fo:min-height="0cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.499cm"/>
    </style:footer-style>
   </style:page-layout>
  </office:automatic-styles>
@@ -551,15 +530,15 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Bild"/>
    </text:sequence-decls>
-   <text:h text:style-name="P21" text:outline-level="1" text:is-list-header="true"><text:bookmark-start text:name="__RefHeading___Toc115_640105787"/>Sammanfattning<text:bookmark-end text:name="__RefHeading___Toc115_640105787"/></text:h>
+   <text:h text:style-name="P8" text:outline-level="1" text:is-list-header="true"><text:bookmark-start text:name="__RefHeading___Toc115_640105787"/>Sammanfattning<text:bookmark-end text:name="__RefHeading___Toc115_640105787"/></text:h>
    <text:p text:style-name="Horizontal_20_Line"/>
-   <text:p text:style-name="P5"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a992-1668-183b-c8b99d7ded2f"/>En sammanfattning...</text:p>
-   <text:p text:style-name="P3"/>
-   <text:h text:style-name="P23" text:outline-level="1" text:is-list-header="true"><text:bookmark text:name="docs-internal-guid-22889f0f-a992-40b8-74ed-8c5cc445af34"/><text:bookmark-start text:name="__RefHeading___Toc113_640105787"/>Abstract<text:bookmark-end text:name="__RefHeading___Toc113_640105787"/></text:h>
+   <text:p text:style-name="P4"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a992-1668-183b-c8b99d7ded2f"/>En sammanfattning...</text:p>
+   <text:p text:style-name="P2"/>
+   <text:h text:style-name="P23" text:outline-level="1" text:is-list-header="true"><text:bookmark-start text:name="__RefHeading___Toc113_640105787"/><text:bookmark text:name="docs-internal-guid-22889f0f-a992-40b8-74ed-8c5cc445af34"/>Abstract<text:bookmark-end text:name="__RefHeading___Toc113_640105787"/></text:h>
    <text:p text:style-name="Horizontal_20_Line"/>
-   <text:p text:style-name="P4"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a992-c498-f09d-dbf850bf2f21"/>En sammanfattning… på engelska… </text:p>
-   <text:p text:style-name="P14"/>
-   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a992-c498-f09d-dbf850bf2f21"/>En sammanfattning… på engelska… </text:p>
+   <text:p text:style-name="P19"/>
+   <text:p text:style-name="P2"/>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">
     <text:table-of-content-source text:outline-level="10">
      <text:index-title-template text:style-name="Contents_20_Heading">Innehållsförteckning</text:index-title-template>
@@ -646,61 +625,61 @@
     </text:table-of-content-source>
     <text:index-body>
      <text:index-title text:style-name="Sect1" text:name="Table of Contents1_Head">
-      <text:p text:style-name="P28">Innehållsförteckning</text:p>
+      <text:p text:style-name="P25">Innehållsförteckning</text:p>
      </text:index-title>
      <text:p text:style-name="P29"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc115_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Sammanfattning<text:tab/>1</text:a></text:p>
      <text:p text:style-name="P29"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc113_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Abstract<text:tab/>2</text:a></text:p>
      <text:p text:style-name="P29"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc326_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1 Inledning<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P27"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc537_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.1 Bakgrund<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P27"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc549_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.2 Syfte<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P27"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc551_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.3 Avgränsningar<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P28"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc537_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.1 Bakgrund<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P28"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc549_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.2 Syfte<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P28"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc551_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.3 Avgränsningar<text:tab/>4</text:a></text:p>
      <text:p text:style-name="P29"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc553_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2 Metod<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P27"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc555_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1 Tillvägagångssätt<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P27"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc557_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2 Testmiljö<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P28"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc555_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1 Tillvägagångssätt<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P28"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc557_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2 Testmiljö<text:tab/>5</text:a></text:p>
      <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc559_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2.1 Linux<text:tab/>5</text:a></text:p>
      <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc571_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2.2 VirtualBox<text:tab/>5</text:a></text:p>
      <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc573_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2.3 GNS3<text:tab/>6</text:a></text:p>
      <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc575_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2.4 Raspberry P<text:tab/>7</text:a></text:p>
      <text:p text:style-name="P29"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc577_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3 Resultat<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P27"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc579_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.1 Android<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P27"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc581_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2 VPN<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P28"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc579_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.1 Android<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P28"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc581_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2 VPN<text:tab/>8</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
-   <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3"/>
-   <text:h text:style-name="P24" text:outline-level="1" text:restart-numbering="true" text:start-value="-1"><text:bookmark text:name="docs-internal-guid-7b5b2929-a996-8478-06ee-a18403b1bd2e"/><text:bookmark-start text:name="__RefHeading___Toc326_640105787"/>Inledning<text:bookmark-end text:name="__RefHeading___Toc326_640105787"/></text:h>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P2"/>
+   <text:h text:style-name="P24" text:outline-level="1" text:restart-numbering="true" text:start-value="-1"><text:bookmark-start text:name="__RefHeading___Toc326_640105787"/><text:bookmark text:name="docs-internal-guid-7b5b2929-a996-8478-06ee-a18403b1bd2e"/>Inledning<text:bookmark-end text:name="__RefHeading___Toc326_640105787"/></text:h>
    <text:p text:style-name="Horizontal_20_Line"/>
-   <text:h text:style-name="P30" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc537_640105787"/><text:bookmark text:name="docs-internal-guid-37de8b54-a99a-458c-89ed-96e0b2bb2c3c"/>Bakgrund<text:bookmark-end text:name="__RefHeading___Toc537_640105787"/></text:h>
-   <text:p text:style-name="P8"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a99d-a60f-68f0-4a19b19f56d5"/>När våra barn börjar komma upp i åren och vill ha en mobil som man kan ringa och surfa med så blir detta är ju ett gissel för föräldrar som både vill kunna skydda sina barn från allt dåligt som finns på internet, samtidigt som det är oerhört smidigt att alltid kunna komma i kontakt med dem. Det går naturligtvis inte att skydda barnen till 100% då det alltid finns sätt att gå runt de skydd som vi sätter upp. Man kan till exempel bara ta en annan telefon eller dator som inte har några begränsningar för att göra de man vill. Men de är inte heller syftet med denna undersökning. Att begränsa vad barnen har tillgång till är bara en del av de stora hela. Huvudsyftet med denna undersökning är att förhindra barn att komma åt “dåligt” innehåll av misstag, eller att barnet kan bli kontaktad av någon okänd person som vill ont. Att barnet i vilket fall kan komma åt “dålig” information på annat vis kan man inte göra så mycket åt annat än genom uppfostran. De viktiga är att barnet i fråga skall veta att de man gör inte är ok ifrån vad man som förälder sätter för gränser</text:p>
-   <text:p text:style-name="P15"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="docs-internal-guid-d3044648-a99e-1d10-b3a8-ebc636fea825"/><text:bookmark-start text:name="__RefHeading___Toc549_640105787"/>Syfte<text:bookmark-end text:name="__RefHeading___Toc549_640105787"/></text:h>
-   <text:p text:style-name="P9"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a99e-518d-725d-05ef7e65fd4c"/>Syftet med detta arbete är att skapa / bygga ihop ett system där man som förälder kan kontrollera och begränsa vad barnen har tillgång till på sina smartphones. Man skall kunna begränsa vilka appar som finns tillgängliga i telefonen. Begränsa tillgången till olämpligt innehåll på internet.</text:p>
-   <text:p text:style-name="P11"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a99e-775d-0b66-7847ee739f02"/><text:bookmark-start text:name="__RefHeading___Toc551_640105787"/>Avgränsningar<text:bookmark-end text:name="__RefHeading___Toc551_640105787"/></text:h>
-   <text:p text:style-name="P18">Vi har valt att begränsa oss till opensource / gratis mjukvara, alternativt egenutvecklat för att kunna skapa ett system som skall vara tillgängligt för alla som kan ha intresse för d</text:p>
+   <text:h text:style-name="P30" text:outline-level="2"><text:bookmark text:name="docs-internal-guid-37de8b54-a99a-458c-89ed-96e0b2bb2c3c"/><text:bookmark-start text:name="__RefHeading___Toc537_640105787"/>Bakgrund<text:bookmark-end text:name="__RefHeading___Toc537_640105787"/></text:h>
+   <text:p text:style-name="P9"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a99d-a60f-68f0-4a19b19f56d5"/>När våra barn börjar komma upp i åren och vill ha en mobil som man kan ringa och surfa med så blir detta är ju ett gissel för föräldrar som både vill kunna skydda sina barn från allt dåligt som finns på internet, samtidigt som det är oerhört smidigt att alltid kunna komma i kontakt med dem. Det går naturligtvis inte att skydda barnen till 100% då det alltid finns sätt att gå runt de skydd som vi sätter upp. Man kan till exempel bara ta en annan telefon eller dator som inte har några begränsningar för att göra de man vill. Men de är inte heller syftet med denna undersökning. Att begränsa vad barnen har tillgång till är bara en del av de stora hela. Huvudsyftet med denna undersökning är att förhindra barn att komma åt “dåligt” innehåll av misstag, eller att barnet kan bli kontaktad av någon okänd person som vill ont. Att barnet i vilket fall kan komma åt “dålig” information på annat vis kan man inte göra så mycket åt annat än genom uppfostran. De viktiga är att barnet i fråga skall veta att de man gör inte är ok ifrån vad man som förälder sätter för gränser</text:p>
+   <text:p text:style-name="P20"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc549_640105787"/><text:bookmark text:name="docs-internal-guid-d3044648-a99e-1d10-b3a8-ebc636fea825"/>Syfte<text:bookmark-end text:name="__RefHeading___Toc549_640105787"/></text:h>
+   <text:p text:style-name="P10"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a99e-518d-725d-05ef7e65fd4c"/>Syftet med detta arbete är att skapa / bygga ihop ett system där man som förälder kan kontrollera och begränsa vad barnen har tillgång till på sina smartphones. Man skall kunna begränsa vilka appar som finns tillgängliga i telefonen. Begränsa tillgången till olämpligt innehåll på internet.</text:p>
+   <text:p text:style-name="P12"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc551_640105787"/><text:bookmark text:name="docs-internal-guid-dff6e8a1-a99e-775d-0b66-7847ee739f02"/>Avgränsningar<text:bookmark-end text:name="__RefHeading___Toc551_640105787"/></text:h>
+   <text:p text:style-name="P15">Vi har valt att begränsa oss till opensource / gratis mjukvara, alternativt egenutvecklat för att kunna skapa ett system som skall vara tillgängligt för alla som kan ha intresse för d</text:p>
    <text:p text:style-name="Text_20_body"><text:line-break/></text:p>
    <text:p text:style-name="Text_20_body"/>
-   <text:h text:style-name="P22" text:outline-level="1"><text:bookmark text:name="docs-internal-guid-f1ee9a44-a99f-513d-1ddf-17983fd9c134"/><text:bookmark-start text:name="__RefHeading___Toc553_640105787"/>Metod<text:bookmark-end text:name="__RefHeading___Toc553_640105787"/></text:h>
+   <text:h text:style-name="P22" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc553_640105787"/><text:bookmark text:name="docs-internal-guid-f1ee9a44-a99f-513d-1ddf-17983fd9c134"/>Metod<text:bookmark-end text:name="__RefHeading___Toc553_640105787"/></text:h>
    <text:p text:style-name="Horizontal_20_Line"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a99f-82bd-60f7-41dbe6ef064a"/><text:bookmark-start text:name="__RefHeading___Toc555_640105787"/>Tillvägagångssätt <text:bookmark-end text:name="__RefHeading___Toc555_640105787"/></text:h>
-   <text:p text:style-name="P18">Asd</text:p>
-   <text:p text:style-name="P19"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="docs-internal-guid-298880b8-a99f-e05e-fb57-159941012cf8"/><text:bookmark-start text:name="__RefHeading___Toc557_640105787"/>Testmiljö<text:bookmark-end text:name="__RefHeading___Toc557_640105787"/></text:h>
-   <text:p text:style-name="P12"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a0-be80-4d7b-65742933e2b6"/><text:span text:style-name="T2">För att testa alla dessa krav så har vi satt upp en testmiljö i </text:span><text:span text:style-name="T4">Linux</text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T2">(</text:span><text:span text:style-name="T4">Debian 9 “Stretch”</text:span><text:span text:style-name="T6">[länk]</text:span><text:span text:style-name="T2">), bestående utav </text:span><text:span text:style-name="T4">GNS3</text:span><text:span text:style-name="T6">[länk]</text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T2">( emulerar en nätverksmiljö )</text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T4">VirtualBox</text:span><text:span text:style-name="T6">[länk]</text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T2">( Emulerar datorer ). </text:span><text:span text:style-name="T4">Wireshark</text:span><text:span text:style-name="T6">[länk]</text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T2">används för att analysera trafiken som vi skapar i den virtuella miljön. På detta vis kan vi prova funktionaliteten utan att införskaffa särskild hårdvara eller påverka de de befintliga system som vi har hemma idag. För en mer permanent lösning så kan man med fördel införskaffa en </text:span><text:span text:style-name="T4">Raspberry Pi</text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T2">för att hantera vpn och innehållsfiltreringen</text:span></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc555_640105787"/><text:bookmark text:name="docs-internal-guid-dff6e8a1-a99f-82bd-60f7-41dbe6ef064a"/>Tillvägagångssätt <text:bookmark-end text:name="__RefHeading___Toc555_640105787"/></text:h>
+   <text:p text:style-name="P15">Asd</text:p>
+   <text:p text:style-name="P16"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc557_640105787"/><text:bookmark text:name="docs-internal-guid-298880b8-a99f-e05e-fb57-159941012cf8"/>Testmiljö<text:bookmark-end text:name="__RefHeading___Toc557_640105787"/></text:h>
+   <text:p text:style-name="P13"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a0-be80-4d7b-65742933e2b6"/><text:span text:style-name="T2">För att testa alla dessa krav så har vi satt upp en testmiljö i </text:span><text:span text:style-name="T4">Linux</text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T2">(</text:span><text:span text:style-name="T4">Debian 9 “Stretch”</text:span><text:span text:style-name="T6">[länk]</text:span><text:span text:style-name="T2">), bestående utav </text:span><text:span text:style-name="T4">GNS3</text:span><text:span text:style-name="T6">[länk]</text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T2">( emulerar en nätverksmiljö )</text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T4">VirtualBox</text:span><text:span text:style-name="T6">[länk]</text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T2">( Emulerar datorer ). </text:span><text:span text:style-name="T4">Wireshark</text:span><text:span text:style-name="T6">[länk]</text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T2">används för att analysera trafiken som vi skapar i den virtuella miljön. På detta vis kan vi prova funktionaliteten utan att införskaffa särskild hårdvara eller påverka de de befintliga system som vi har hemma idag. För en mer permanent lösning så kan man med fördel införskaffa en </text:span><text:span text:style-name="T4">Raspberry Pi</text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T2">för att hantera vpn och innehållsfiltreringen</text:span></text:p>
    <text:p text:style-name="Text_20_body"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a1-00e0-05bf-b73494504116"/><text:bookmark-start text:name="__RefHeading___Toc559_640105787"/>Linux<text:bookmark-end text:name="__RefHeading___Toc559_640105787"/></text:h>
-   <text:p text:style-name="P18">Version: Debian 9 “Stretch”</text:p>
-   <text:p text:style-name="P18">Val av linuxversion är inte av så stor betydelse då detta bör fungera med de flesta system. Valet föll på debian för att det fanns färdiga installationsfiler för de mjukvaror som används i denna undersökning.</text:p>
-   <text:p text:style-name="P18"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a2-05b1-1dac-20f4b8038628"/><text:bookmark-start text:name="__RefHeading___Toc571_640105787"/>VirtualBox<text:bookmark-end text:name="__RefHeading___Toc571_640105787"/></text:h>
-   <text:p text:style-name="P18">Version: 5.2.8</text:p>
-   <text:p text:style-name="P18">Installation: Hämta hem senaste installationsfilen (.deb) och installera med</text:p>
-   <text:p text:style-name="P17"/>
-   <text:p text:style-name="P20">sudo dpkg -i virtualbox-5.2_5.2.8-121009~Debian~stretch_amd64.deb</text:p>
-   <text:p text:style-name="P17"><text:span text:style-name="T8"><text:line-break/></text:span><text:span text:style-name="T3">Eventuella saknade paket kan installeras med </text:span><text:span text:style-name="T4">apt-get</text:span></text:p>
-   <text:p text:style-name="P6"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a2-a555-5f17-11eaee5887e1"/><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="as-char" svg:width="3.5102in" draw:z-index="1">
-     <draw:text-box fo:min-height="2.2291in">
-      <text:p text:style-name="P26"><draw:frame draw:style-name="fr2" draw:name="Image1" text:anchor-type="as-char" svg:width="3.5102in" style:rel-width="100%" svg:height="2.2291in" style:rel-height="scale" draw:z-index="2"><draw:image>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc559_640105787"/><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a1-00e0-05bf-b73494504116"/>Linux<text:bookmark-end text:name="__RefHeading___Toc559_640105787"/></text:h>
+   <text:p text:style-name="P15">Version: Debian 9 “Stretch”</text:p>
+   <text:p text:style-name="P15">Val av linuxversion är inte av så stor betydelse då detta bör fungera med de flesta system. Valet föll på debian för att det fanns färdiga installationsfiler för de mjukvaror som används i denna undersökning.</text:p>
+   <text:p text:style-name="P15"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc571_640105787"/><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a2-05b1-1dac-20f4b8038628"/>VirtualBox<text:bookmark-end text:name="__RefHeading___Toc571_640105787"/></text:h>
+   <text:p text:style-name="P15">Version: 5.2.8</text:p>
+   <text:p text:style-name="P15">Installation: Hämta hem senaste installationsfilen (.deb) och installera med</text:p>
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P17">sudo dpkg -i virtualbox-5.2_5.2.8-121009~Debian~stretch_amd64.deb</text:p>
+   <text:p text:style-name="P14"><text:span text:style-name="T8"><text:line-break/></text:span><text:span text:style-name="T3">Eventuella saknade paket kan installeras med </text:span><text:span text:style-name="T4">apt-get</text:span></text:p>
+   <text:p text:style-name="P5"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a2-a555-5f17-11eaee5887e1"/><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="as-char" svg:width="8.916cm" draw:z-index="1">
+     <draw:text-box fo:min-height="5.662cm">
+      <text:p text:style-name="P27"><draw:frame draw:style-name="fr2" draw:name="Image1" text:anchor-type="as-char" svg:width="8.916cm" style:rel-width="100%" svg:height="5.662cm" style:rel-height="scale" draw:z-index="2"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAoEAAAGYCAIAAACyAK8hAAAgAElEQVR4AeydB3wTZR/Hn8tq
           mjRJ94bSDW1pyyjQllHK3ktZshEQGSJLQBAZIrJF3DJkiIgIIiDIXgUKFCiU7r1308y73Hg/
           l8MzpG2opfP1ifngc8/8P99L73fPRjD9B8APJAAJQAKQACQACTQuAQ6GYY1bIiwNEoAEIAFI
@@ -2211,13 +2190,13 @@
        </draw:frame><text:line-break/>Bild <text:sequence text:ref-name="refBild0" text:name="Bild" text:formula="ooow:Bild+1" style:num-format="1">1</text:sequence>: <text:span text:style-name="T1">VirtualBox</text:span></text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"/>
-   <text:p text:style-name="P12"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a3-1112-e869-cfc92803ad52"/><text:span text:style-name="T2">Väl inne i </text:span><text:span text:style-name="T4">VirtualBox </text:span><text:span text:style-name="T2">så kan man skapa sina virtuella maskiner. </text:span><text:span text:style-name="T4">Untangle</text:span><text:span text:style-name="T6">[länk]</text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T2">är en Router / Gateway som är linuxbaserad och gratis att ladda hem</text:span></text:p>
-   <text:p text:style-name="P12"><text:span text:style-name="T2"/></text:p>
-   <text:p text:style-name="P7"><text:bookmark text:name="docs-internal-guid-aa402276-a9a3-442d-5afb-d981496c3a70"/><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="as-char" svg:width="4.1563in" draw:z-index="3">
-     <draw:text-box fo:min-height="2.9898in">
-      <text:p text:style-name="P25"><draw:frame draw:style-name="fr3" draw:name="Image2" text:anchor-type="as-char" svg:y="-2.9374in" svg:width="4.1563in" style:rel-width="100%" svg:height="2.9898in" style:rel-height="scale" draw:z-index="4"><draw:image>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P13"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a3-1112-e869-cfc92803ad52"/><text:span text:style-name="T2">Väl inne i </text:span><text:span text:style-name="T4">VirtualBox </text:span><text:span text:style-name="T2">så kan man skapa sina virtuella maskiner. </text:span><text:span text:style-name="T4">Untangle</text:span><text:span text:style-name="T6">[länk]</text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T2">är en Router / Gateway som är linuxbaserad och gratis att ladda hem</text:span></text:p>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P6"><text:bookmark text:name="docs-internal-guid-aa402276-a9a3-442d-5afb-d981496c3a70"/><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="as-char" svg:width="10.557cm" draw:z-index="3">
+     <draw:text-box fo:min-height="7.594cm">
+      <text:p text:style-name="P26"><draw:frame draw:style-name="fr3" draw:name="Image2" text:anchor-type="as-char" svg:y="-7.461cm" svg:width="10.557cm" style:rel-width="100%" svg:height="7.594cm" style:rel-height="scale" draw:z-index="4"><draw:image>
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAskAAAIBCAIAAAA07LVjAAAgAElEQVR4AeydB1gUxxfA546j
           CkivR0dUsCDYgmBBLChNQQV7QQ1WBCXGGCv2Hoyxa/6JsQOKBVHBjogFG0pVpBcpR722+//2
           VjeXo90pKOXttx/Mzrx5895vF+7dzOwM7eTf/0OCg83hlJWVVVdVc3lcDMPITPgJBIAAEAAC
@@ -3065,12 +3044,12 @@
      </draw:text-box>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body"/>
-   <text:p text:style-name="P10">Notera att två stycken nätverkskort behövs i den virtuella routern</text:p>
-   <text:p text:style-name="P17"/>
-   <text:p text:style-name="P17"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a6-1083-1440-690d223a9238"/><text:bookmark-start text:name="__RefHeading___Toc573_640105787"/>GNS3<text:bookmark-end text:name="__RefHeading___Toc573_640105787"/></text:h>
-   <text:p text:style-name="P18">Version: 2.1.4</text:p>
-   <text:p text:style-name="P13"><text:soft-page-break/><text:line-break/><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a6-7403-edea-5d8432a05b34"/><text:span text:style-name="T5"><draw:frame draw:style-name="fr4" draw:name="Image3" text:anchor-type="as-char" svg:width="5in" svg:height="2.6043in" draw:z-index="0"><draw:image>
+   <text:p text:style-name="P11">Notera att två stycken nätverkskort behövs i den virtuella routern</text:p>
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P14"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc573_640105787"/><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a6-1083-1440-690d223a9238"/>GNS3<text:bookmark-end text:name="__RefHeading___Toc573_640105787"/></text:h>
+   <text:p text:style-name="P15">Version: 2.1.4</text:p>
+   <text:p text:style-name="P18"><text:soft-page-break/><text:line-break/><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a6-7403-edea-5d8432a05b34"/><text:span text:style-name="T5"><draw:frame draw:style-name="fr4" draw:name="Image3" text:anchor-type="as-char" svg:width="12.7cm" svg:height="6.615cm" draw:z-index="0"><draw:image>
        <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAjYAAAEnCAIAAAA1tp7BAAAgAElEQVR4AeydCXxU1fn3n7vM
         TDJJyL6zhjUQEWVXMAEKiOuf1tZWcIEifVtbUNRWbRXFWmzBF32tf7XUKGpxqRVErYCKgOwg
         +05IIPs2WWefe+95P+ee5DJMJvtMMpM8V5yce+5zlvs9N/nNc+5ZuNzcXMADCSABJIAEkEDg
@@ -3527,21 +3506,21 @@
        </office:binary-data>
       </draw:image>
      </draw:frame></text:span></text:p>
-   <text:p text:style-name="P14"><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P16"><text:bookmark text:name="docs-internal-guid-2ffd06a6-a9a6-a6e5-f469-0bdb7eb0eedb"/><text:span text:style-name="T7">sudo apt-get install gns3-gui</text:span></text:p>
-   <text:p text:style-name="P16"><text:span text:style-name="T7"/></text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc575_640105787"/>Raspberry P<text:bookmark-end text:name="__RefHeading___Toc575_640105787"/></text:h>
-   <text:p text:style-name="P14"><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P14"><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P14"><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P14"><text:span text:style-name="T5"/></text:p>
-   <text:h text:style-name="P22" text:outline-level="1"><text:bookmark text:name="docs-internal-guid-cca4b15b-a9a7-01b3-5ea1-5bd31bd21c4f"/><text:bookmark-start text:name="__RefHeading___Toc577_640105787"/>Resultat<text:bookmark-end text:name="__RefHeading___Toc577_640105787"/></text:h>
+   <text:p text:style-name="P33"/>
+   <text:p text:style-name="P34"><text:bookmark text:name="docs-internal-guid-2ffd06a6-a9a6-a6e5-f469-0bdb7eb0eedb"/>sudo apt-get install gns3-gui</text:p>
+   <text:p text:style-name="P34"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc575_640105787"/>Raspberry P<text:span text:style-name="T9">i</text:span><text:bookmark-end text:name="__RefHeading___Toc575_640105787"/></text:h>
+   <text:p text:style-name="P33"/>
+   <text:p text:style-name="P33"/>
+   <text:p text:style-name="P33"/>
+   <text:p text:style-name="P33"/>
+   <text:h text:style-name="P22" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc577_640105787"/><text:bookmark text:name="docs-internal-guid-cca4b15b-a9a7-01b3-5ea1-5bd31bd21c4f"/>Resultat<text:bookmark-end text:name="__RefHeading___Toc577_640105787"/></text:h>
    <text:p text:style-name="Horizontal_20_Line"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a7-4f15-7220-21bed7f9f73d"/><text:bookmark-start text:name="__RefHeading___Toc579_640105787"/>Android<text:bookmark-end text:name="__RefHeading___Toc579_640105787"/></text:h>
-   <text:p text:style-name="P18">asd</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc579_640105787"/><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a7-4f15-7220-21bed7f9f73d"/>Android<text:bookmark-end text:name="__RefHeading___Toc579_640105787"/></text:h>
+   <text:p text:style-name="P15">asd</text:p>
    <text:p text:style-name="Text_20_body"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc581_640105787"/>VPN<text:bookmark-end text:name="__RefHeading___Toc581_640105787"/></text:h>
-   <text:p text:style-name="P18">asd</text:p>
+   <text:p text:style-name="P15">asd</text:p>
    <text:p text:style-name="Text_20_body"><text:line-break/></text:p>
   </office:text>
  </office:body>
