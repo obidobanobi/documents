@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-04-09T09:31:13.483410744</meta:creation-date><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><dc:date>2018-04-09T11:01:24.059413700</dc:date><meta:editing-duration>PT1H15M20S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="2" meta:object-count="0" meta:page-count="6" meta:paragraph-count="39" meta:word-count="508" meta:character-count="3058" meta:non-whitespace-character-count="2565"/></office:meta>
+ <office:meta><meta:creation-date>2018-04-09T09:31:13.483410744</meta:creation-date><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><dc:date>2018-04-09T11:06:08.232101395</dc:date><meta:editing-duration>PT1H20M4S</meta:editing-duration><meta:editing-cycles>7</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="3" meta:object-count="0" meta:page-count="8" meta:paragraph-count="57" meta:word-count="556" meta:character-count="3324" meta:non-whitespace-character-count="2786"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">139771</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">56912</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">40924</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">21632</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">12917</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">151301</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">12166</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">64077</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">139771</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">56912</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">40922</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">161401</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">78542</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -329,66 +329,77 @@
   </style:style>
   <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
-   <style:text-properties fo:language="sv" fo:country="SE" officeooo:rsid="00083391" officeooo:paragraph-rsid="00083391"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="transparent"/>
   </style:style>
   <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
+   <style:text-properties fo:language="sv" fo:country="SE" officeooo:rsid="00083391" officeooo:paragraph-rsid="00083391"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
    <style:text-properties fo:font-weight="normal"/>
   </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-  </style:style>
   <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0008c6df"/>
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
   </style:style>
   <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0008c6df"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#ffffff" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Courier New" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="#000000"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="138%" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="transparent"/>
   </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="138%" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="0008c6df" style:text-blinking="false" fo:background-color="transparent"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="138%" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#ffffff" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Courier New" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="#000000"/>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Contents_20_2">
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Contents_20_2">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="6.7283in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Contents_20_Heading">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Contents_20_Heading">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Contents_20_1">
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Contents_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="6.9252in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="0008c6df"/>
   </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Contents_20_3">
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Contents_20_3">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="6.5319in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
@@ -411,7 +422,7 @@
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#ff0000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="none" style:text-blinking="false" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
   <style:style style:name="T6" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#434343" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="14pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" fo:background-color="transparent" loext:char-shading-value="0"/>
+   <style:text-properties fo:color="#000000" fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
    <style:text-properties fo:font-weight="normal"/>
@@ -495,14 +506,14 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:h text:style-name="P18" text:outline-level="1" text:is-list-header="true"><text:bookmark-start text:name="__RefHeading___Toc115_640105787"/>Sammanfattning<text:bookmark-end text:name="__RefHeading___Toc115_640105787"/></text:h>
+   <text:h text:style-name="P21" text:outline-level="1" text:is-list-header="true"><text:bookmark-start text:name="__RefHeading___Toc115_640105787"/>Sammanfattning<text:bookmark-end text:name="__RefHeading___Toc115_640105787"/></text:h>
    <text:p text:style-name="Horizontal_20_Line"/>
    <text:p text:style-name="P5"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a992-1668-183b-c8b99d7ded2f"/>En sammanfattning...</text:p>
    <text:p text:style-name="P3"/>
-   <text:h text:style-name="P20" text:outline-level="1" text:is-list-header="true"><text:bookmark text:name="docs-internal-guid-22889f0f-a992-40b8-74ed-8c5cc445af34"/><text:bookmark-start text:name="__RefHeading___Toc113_640105787"/>Abstract<text:bookmark-end text:name="__RefHeading___Toc113_640105787"/></text:h>
+   <text:h text:style-name="P23" text:outline-level="1" text:is-list-header="true"><text:bookmark text:name="docs-internal-guid-22889f0f-a992-40b8-74ed-8c5cc445af34"/><text:bookmark-start text:name="__RefHeading___Toc113_640105787"/>Abstract<text:bookmark-end text:name="__RefHeading___Toc113_640105787"/></text:h>
    <text:p text:style-name="Horizontal_20_Line"/>
    <text:p text:style-name="P4"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a992-c498-f09d-dbf850bf2f21"/>En sammanfattning… på engelska… </text:p>
-   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P14"/>
    <text:p text:style-name="P3"/>
    <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">
     <text:table-of-content-source text:outline-level="10">
@@ -590,52 +601,58 @@
     </text:table-of-content-source>
     <text:index-body>
      <text:index-title text:style-name="Sect1" text:name="Table of Contents1_Head">
-      <text:p text:style-name="P23">Innehållsförteckning</text:p>
+      <text:p text:style-name="P26">Innehållsförteckning</text:p>
      </text:index-title>
-     <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc115_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Sammanfattning<text:tab/>1</text:a></text:p>
-     <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc113_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Abstract<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc326_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1 Inledning<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc537_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.1 Bakgrund<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc549_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.2 Syfte<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc551_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.3 Avgränsningar<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc553_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2 Metod<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc555_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1 Tillvägagångssätt<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P22"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc557_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2 Testmiljö<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P26"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc559_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2.1 Linux<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P27"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc115_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Sammanfattning<text:tab/>1</text:a></text:p>
+     <text:p text:style-name="P27"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc113_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Abstract<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P27"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc326_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1 Inledning<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P25"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc537_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.1 Bakgrund<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P25"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc549_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.2 Syfte<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P25"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc551_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.3 Avgränsningar<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P27"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc553_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2 Metod<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P25"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc555_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1 Tillvägagångssätt<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P25"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc557_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2 Testmiljö<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P29"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc559_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2.1 Linux<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P29"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc571_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2.2 VirtualBox<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P29"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc573_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2.3 GNS3<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P29"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc575_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2.4 Raspberry P<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P27"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc577_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3 Resultat<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P25"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc579_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.1 Android<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P25"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc581_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2 VPN<text:tab/>8</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"/>
-   <text:h text:style-name="P21" text:outline-level="1" text:restart-numbering="true" text:start-value="-1"><text:bookmark text:name="docs-internal-guid-7b5b2929-a996-8478-06ee-a18403b1bd2e"/><text:bookmark-start text:name="__RefHeading___Toc326_640105787"/>Inledning<text:bookmark-end text:name="__RefHeading___Toc326_640105787"/></text:h>
+   <text:h text:style-name="P24" text:outline-level="1" text:restart-numbering="true" text:start-value="-1"><text:bookmark text:name="docs-internal-guid-7b5b2929-a996-8478-06ee-a18403b1bd2e"/><text:bookmark-start text:name="__RefHeading___Toc326_640105787"/>Inledning<text:bookmark-end text:name="__RefHeading___Toc326_640105787"/></text:h>
    <text:p text:style-name="Horizontal_20_Line"/>
-   <text:h text:style-name="P25" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc537_640105787"/><text:bookmark text:name="docs-internal-guid-37de8b54-a99a-458c-89ed-96e0b2bb2c3c"/>Bakgrund<text:bookmark-end text:name="__RefHeading___Toc537_640105787"/></text:h>
+   <text:h text:style-name="P28" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc537_640105787"/><text:bookmark text:name="docs-internal-guid-37de8b54-a99a-458c-89ed-96e0b2bb2c3c"/>Bakgrund<text:bookmark-end text:name="__RefHeading___Toc537_640105787"/></text:h>
    <text:p text:style-name="P8"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a99d-a60f-68f0-4a19b19f56d5"/>När våra barn börjar komma upp i åren och vill ha en mobil som man kan ringa och surfa med så blir detta är ju ett gissel för föräldrar som både vill kunna skydda sina barn från allt dåligt som finns på internet, samtidigt som det är oerhört smidigt att alltid kunna komma i kontakt med dem. Det går naturligtvis inte att skydda barnen till 100% då det alltid finns sätt att gå runt de skydd som vi sätter upp. Man kan till exempel bara ta en annan telefon eller dator som inte har några begränsningar för att göra de man vill. Men de är inte heller syftet med denna undersökning. Att begränsa vad barnen har tillgång till är bara en del av de stora hela. Huvudsyftet med denna undersökning är att förhindra barn att komma åt “dåligt” innehåll av misstag, eller att barnet kan bli kontaktad av någon okänd person som vill ont. Att barnet i vilket fall kan komma åt “dålig” information på annat vis kan man inte göra så mycket åt annat än genom uppfostran. De viktiga är att barnet i fråga skall veta att de man gör inte är ok ifrån vad man som förälder sätter för gränser</text:p>
-   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P15"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="docs-internal-guid-d3044648-a99e-1d10-b3a8-ebc636fea825"/><text:bookmark-start text:name="__RefHeading___Toc549_640105787"/>Syfte<text:bookmark-end text:name="__RefHeading___Toc549_640105787"/></text:h>
    <text:p text:style-name="P9"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a99e-518d-725d-05ef7e65fd4c"/>Syftet med detta arbete är att skapa / bygga ihop ett system där man som förälder kan kontrollera och begränsa vad barnen har tillgång till på sina smartphones. Man skall kunna begränsa vilka appar som finns tillgängliga i telefonen. Begränsa tillgången till olämpligt innehåll på internet.</text:p>
-   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P11"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a99e-775d-0b66-7847ee739f02"/><text:bookmark-start text:name="__RefHeading___Toc551_640105787"/>Avgränsningar<text:bookmark-end text:name="__RefHeading___Toc551_640105787"/></text:h>
-   <text:p text:style-name="P15">Vi har valt att begränsa oss till opensource / gratis mjukvara, alternativt egenutvecklat för att kunna skapa ett system som skall vara tillgängligt för alla som kan ha intresse för d</text:p>
+   <text:p text:style-name="P18">Vi har valt att begränsa oss till opensource / gratis mjukvara, alternativt egenutvecklat för att kunna skapa ett system som skall vara tillgängligt för alla som kan ha intresse för d</text:p>
    <text:p text:style-name="Text_20_body"><text:line-break/></text:p>
    <text:p text:style-name="Text_20_body"/>
-   <text:h text:style-name="P19" text:outline-level="1"><text:bookmark text:name="docs-internal-guid-f1ee9a44-a99f-513d-1ddf-17983fd9c134"/><text:bookmark-start text:name="__RefHeading___Toc553_640105787"/>Metod<text:bookmark-end text:name="__RefHeading___Toc553_640105787"/></text:h>
+   <text:h text:style-name="P22" text:outline-level="1"><text:bookmark text:name="docs-internal-guid-f1ee9a44-a99f-513d-1ddf-17983fd9c134"/><text:bookmark-start text:name="__RefHeading___Toc553_640105787"/>Metod<text:bookmark-end text:name="__RefHeading___Toc553_640105787"/></text:h>
    <text:p text:style-name="Horizontal_20_Line"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a99f-82bd-60f7-41dbe6ef064a"/><text:bookmark-start text:name="__RefHeading___Toc555_640105787"/>Tillvägagångssätt <text:bookmark-end text:name="__RefHeading___Toc555_640105787"/></text:h>
-   <text:p text:style-name="P15">Asd</text:p>
-   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P18">Asd</text:p>
+   <text:p text:style-name="P19"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="docs-internal-guid-298880b8-a99f-e05e-fb57-159941012cf8"/><text:bookmark-start text:name="__RefHeading___Toc557_640105787"/>Testmiljö<text:bookmark-end text:name="__RefHeading___Toc557_640105787"/></text:h>
-   <text:p text:style-name="P11"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a0-be80-4d7b-65742933e2b6"/><text:span text:style-name="T1">För att testa alla dessa krav så har vi satt upp en testmiljö i </text:span><text:span text:style-name="T3">Linux</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T1">(</text:span><text:span text:style-name="T3">Debian 9 “Stretch”</text:span><text:span text:style-name="T5">[länk]</text:span><text:span text:style-name="T1">), bestående utav </text:span><text:span text:style-name="T3">GNS3</text:span><text:span text:style-name="T5">[länk]</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T1">( emulerar en nätverksmiljö )</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T3">VirtualBox</text:span><text:span text:style-name="T5">[länk]</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T1">( Emulerar datorer ). </text:span><text:span text:style-name="T3">Wireshark</text:span><text:span text:style-name="T5">[länk]</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T1">används för att analysera trafiken som vi skapar i den virtuella miljön. På detta vis kan vi prova funktionaliteten utan att införskaffa särskild hårdvara eller påverka de de befintliga system som vi har hemma idag. För en mer permanent lösning så kan man med fördel införskaffa en </text:span><text:span text:style-name="T3">Raspberry Pi</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T1">för att hantera vpn och innehållsfiltreringen</text:span></text:p>
+   <text:p text:style-name="P12"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a0-be80-4d7b-65742933e2b6"/><text:span text:style-name="T1">För att testa alla dessa krav så har vi satt upp en testmiljö i </text:span><text:span text:style-name="T3">Linux</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T1">(</text:span><text:span text:style-name="T3">Debian 9 “Stretch”</text:span><text:span text:style-name="T5">[länk]</text:span><text:span text:style-name="T1">), bestående utav </text:span><text:span text:style-name="T3">GNS3</text:span><text:span text:style-name="T5">[länk]</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T1">( emulerar en nätverksmiljö )</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T3">VirtualBox</text:span><text:span text:style-name="T5">[länk]</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T1">( Emulerar datorer ). </text:span><text:span text:style-name="T3">Wireshark</text:span><text:span text:style-name="T5">[länk]</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T1">används för att analysera trafiken som vi skapar i den virtuella miljön. På detta vis kan vi prova funktionaliteten utan att införskaffa särskild hårdvara eller påverka de de befintliga system som vi har hemma idag. För en mer permanent lösning så kan man med fördel införskaffa en </text:span><text:span text:style-name="T3">Raspberry Pi</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T1">för att hantera vpn och innehållsfiltreringen</text:span></text:p>
    <text:p text:style-name="Text_20_body"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a1-00e0-05bf-b73494504116"/><text:bookmark-start text:name="__RefHeading___Toc559_640105787"/>Linux<text:bookmark-end text:name="__RefHeading___Toc559_640105787"/></text:h>
-   <text:p text:style-name="P15">Version: Debian 9 “Stretch”</text:p>
-   <text:p text:style-name="P15">Val av linuxversion är inte av så stor betydelse då detta bör fungera med de flesta system. Valet föll på debian för att det fanns färdiga installationsfiler för de mjukvaror som används i denna undersökning.</text:p>
-   <text:p text:style-name="P15"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a2-05b1-1dac-20f4b8038628"/>VirtualBox</text:h>
-   <text:p text:style-name="P15">Version: 5.2.8</text:p>
-   <text:p text:style-name="P15">Installation: Hämta hem senaste installationsfilen (.deb) och installera med</text:p>
-   <text:p text:style-name="P14"/>
-   <text:p text:style-name="P17">sudo dpkg -i virtualbox-5.2_5.2.8-121009~Debian~stretch_amd64.deb</text:p>
-   <text:p text:style-name="P14"><text:span text:style-name="T7"><text:line-break/></text:span><text:span text:style-name="T2">Eventuella saknade paket kan installeras med </text:span><text:span text:style-name="T3">apt-get</text:span></text:p>
+   <text:p text:style-name="P18">Version: Debian 9 “Stretch”</text:p>
+   <text:p text:style-name="P18">Val av linuxversion är inte av så stor betydelse då detta bör fungera med de flesta system. Valet föll på debian för att det fanns färdiga installationsfiler för de mjukvaror som används i denna undersökning.</text:p>
+   <text:p text:style-name="P18"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a2-05b1-1dac-20f4b8038628"/><text:bookmark-start text:name="__RefHeading___Toc571_640105787"/>VirtualBox<text:bookmark-end text:name="__RefHeading___Toc571_640105787"/></text:h>
+   <text:p text:style-name="P18">Version: 5.2.8</text:p>
+   <text:p text:style-name="P18">Installation: Hämta hem senaste installationsfilen (.deb) och installera med</text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="P20">sudo dpkg -i virtualbox-5.2_5.2.8-121009~Debian~stretch_amd64.deb</text:p>
+   <text:p text:style-name="P17"><text:span text:style-name="T7"><text:line-break/></text:span><text:span text:style-name="T2">Eventuella saknade paket kan installeras med </text:span><text:span text:style-name="T3">apt-get</text:span></text:p>
    <text:p text:style-name="P6"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a2-a555-5f17-11eaee5887e1"/><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="as-char" svg:width="3.5102in" svg:height="2.2291in" draw:z-index="0"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAoEAAAGYCAIAAACyAK8hAAAgAElEQVR4AeydB3wTZR/Hn8tq
        mjRJ94bSDW1pyyjQllHK3ktZshEQGSJLQBAZIrJF3DJkiIgIIiDIXgUKFCiU7r1308y73Hg/
@@ -2145,8 +2162,8 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P11"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a3-1112-e869-cfc92803ad52"/><text:span text:style-name="T1">Väl inne i </text:span><text:span text:style-name="T3">VirtualBox </text:span><text:span text:style-name="T1">så kan man skapa sina virtuella maskiner. </text:span><text:span text:style-name="T3">Untangle</text:span><text:span text:style-name="T5">[länk]</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T1">är en Router / Gateway som är linuxbaserad och gratis att ladda hem</text:span></text:p>
-   <text:p text:style-name="P11"><text:span text:style-name="T1"/></text:p>
+   <text:p text:style-name="P12"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a3-1112-e869-cfc92803ad52"/><text:span text:style-name="T1">Väl inne i </text:span><text:span text:style-name="T3">VirtualBox </text:span><text:span text:style-name="T1">så kan man skapa sina virtuella maskiner. </text:span><text:span text:style-name="T3">Untangle</text:span><text:span text:style-name="T5">[länk]</text:span><text:span text:style-name="T4"> </text:span><text:span text:style-name="T1">är en Router / Gateway som är linuxbaserad och gratis att ladda hem</text:span></text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T1"/></text:p>
    <text:p text:style-name="P7"><text:bookmark text:name="docs-internal-guid-aa402276-a9a3-442d-5afb-d981496c3a70"/><draw:frame draw:style-name="fr1" draw:name="Image2" text:anchor-type="as-char" svg:width="4.1563in" svg:height="2.9898in" draw:z-index="1"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAskAAAIBCAIAAAA07LVjAAAgAElEQVR4AeydB1gUxxfA546j
        CkivR0dUsCDYgmBBLChNQQV7QQ1WBCXGGCv2Hoyxa/6JsQOKBVHBjogFG0pVpBcpR722+//2
@@ -2993,6 +3010,484 @@
      </draw:image>
     </draw:frame></text:p>
    <text:p text:style-name="Text_20_body"/>
+   <text:p text:style-name="P10">Notera att två stycken nätverkskort behövs i den virtuella routern</text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="P17"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a6-1083-1440-690d223a9238"/><text:bookmark-start text:name="__RefHeading___Toc573_640105787"/>GNS3<text:bookmark-end text:name="__RefHeading___Toc573_640105787"/></text:h>
+   <text:p text:style-name="P18">Version: 2.1.4</text:p>
+   <text:p text:style-name="P13"><text:soft-page-break/><text:line-break/><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a6-7403-edea-5d8432a05b34"/><text:span text:style-name="T4"><draw:frame draw:style-name="fr1" draw:name="Image3" text:anchor-type="as-char" svg:width="5in" svg:height="2.6043in" draw:z-index="2"><draw:image>
+       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAjYAAAEnCAIAAAA1tp7BAAAgAElEQVR4AeydCXxU1fn3n7vM
+        TDJJyL6zhjUQEWVXMAEKiOuf1tZWcIEifVtbUNRWbRXFWmzBF32tf7XUKGpxqRVErYCKgOwg
+        +05IIPs2WWefe+95P+ee5DJMJvtMMpM8V5yce+5zlvs9N/nNc+5ZuNzcXMADCSABJIAEkEDg
+        EeADr0pYIySABJAAEkAClABKFD4HSAAJIAEkEKAEUKICtGGwWkgACSABJIAShc8AEkACSAAJ
+        BCgBlKgAbRisFhJAAkgACaBE4TOABJAAEkACAUoAJSpAGwarhQSQABJAAihR+AwgASSABJBA
+        gBJAiQrQhsFqIQEkgASQAEoUPgNIAAkgASQQoARQogK0YbBaSAAJIAEkgBKFzwASQAJIAAkE
+        KAGUqABtGKwWEkACSAAJoEThM4AEkAASQAIBSgAlKkAbBquFBJAAEkACKFH4DCABJIAEkECA
+        EkCJCtCGwWohASSABJAAShQ+A0gACSABJBCgBFCiArRhsFpIAAkgASSAEoXPABJAAkgACQQo
+        AZSoAG0YrBYSQAJIAAmgROEzgASQABJAAgFKACUqQBsGq4UEkAASQAIoUfgMIAEkgASQQIAS
+        QIkK0IbBaiEBJIAEkABKFD4DSAAJIAEkEKAEUKICtGGwWkgACSABJIAShc8AEkACSAAJBCgB
+        lKgAbRisFhJAAkgACaBE4TOABJAAEkACAUoAJSpAGwarhQSQABJAAihR+AwgASSABJBAgBJA
+        iQrQhsFqIQEkgASQAEoUPgNIAAkgASQQoARQogK0YQK5WmnqEcg1xLohASTQMwigRAViOzbV
+        gKYxXuvdRjOvaTESCSABJBBoBFCiAq1FsD5IAAkgASTQQAAlKvgeBeYqffLJJ9OnTx8xYsRt
+        t912+PBhAEhLS2M34+FLZWdnp6WlDRkyZOLEiU899ZTFYnE3a5oPu/rxxx/PmjVrxIgRs2fP
+        /vTTTz3y1KgRQj788MM5c+ZkZGTMnDnzvffeI4RoVzGABJAAEugMAZSoztDrzrT79u3buHHj
+        3/72t9OnTz/xxBMAkJubyyqUqx5a5err67ds2XLq1KnHHnvsww8//Nvf/qZdAoCm+QDAJ598
+        8sQTT/Tt23fHjh3vvvvuZ5995p7EPbx+/fqnnnpq5MiRe/funTNnzvLlyz/44AN3AwwjASSA
+        BDpMgNP+rnU4C0zocwLMH3JvGvcYFt6zZ09SUpIkScOGDeN5PicnR3Ok3BO6102W5aFDh6ak
+        pOzatUsz9prPzTfffP78+a+//nrw4MEAcOHChdmzZ2sq6F6ZWbNm5eTkfPfddwMGDKirqxsz
+        ZszQoUO3bNniXi6GkQASQAIdIyB2LBmm6noCHMe5F5qUlAQAokhbUFEU90vu4aNHj7700kun
+        T5+ura1lZqWlpe4GXvMpKCgAgH79+jHL/v37uydxD+fn5wPAtGnTtMi8vDwtjAEkgASQQGcI
+        YEdfZ+j5K21qaioAmEwmVkBlZSUAsMj2FrlkyZLdu3evWrXq7NmzJ0+ebFnPtMyZOBUXF7MY
+        pkPaVfdAYmIiAOzZs4f1Lubm5p4/f97dAMNIAAkggQ4TQInqMDo/JrzzzjsB4OWXX65Rj5df
+        fhkA/ud//qfVIqOjowHAXVEkSQKAiIgIh8OxatWqVnNgBosWLQKAF198saKioqys7IUXXmgu
+        4QMPPAAAK1eurK6utlgs27dvv//++5szxngkgASQQLsIYEdfu3B1kfEjjzyi0+k+//zziRMn
+        sg63hx9++KGHHmq1+GXLlq1ZsyYrK0t7b/Tyyy8/99xz8+fPj4+P//Wvf91qDszgrrvukmX5
+        n//8Z1ZW1sCBA++9996dO3cKgtA0+YIFC+Li4t56663MzEwAGDduHJO3ppYYgwSQABJoLwEc
+        LtFeYr3R/vz58zfffHNaWto333zTG+8f7xkJIIFuIoAdfd0EPuCL/fWvf33y5Emn05mbm/vs
+        s88CwG9+85uArzVWEAkggR5FADv6elRz+vBm7rzzzqeeeurs2bMhISGjRo164403Zs2a5cP8
+        MSskgASQQKsEsKOvVURogASQABJAAt1DADv6uoc7looEkAASQAKtEkCJahURGiABJIAEkED3
+        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
+       </office:binary-data>
+      </draw:image>
+     </draw:frame></text:span></text:p>
+   <text:p text:style-name="P14"><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P16"><text:bookmark text:name="docs-internal-guid-2ffd06a6-a9a6-a6e5-f469-0bdb7eb0eedb"/><text:span text:style-name="T6">sudo apt-get install gns3-gui</text:span></text:p>
+   <text:p text:style-name="P16"><text:span text:style-name="T6"/></text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc575_640105787"/>Raspberry P<text:bookmark-end text:name="__RefHeading___Toc575_640105787"/></text:h>
+   <text:p text:style-name="P14"><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P14"><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P14"><text:span text:style-name="T4"/></text:p>
+   <text:p text:style-name="P14"><text:span text:style-name="T4"/></text:p>
+   <text:h text:style-name="P22" text:outline-level="1"><text:bookmark text:name="docs-internal-guid-cca4b15b-a9a7-01b3-5ea1-5bd31bd21c4f"/><text:bookmark-start text:name="__RefHeading___Toc577_640105787"/>Resultat<text:bookmark-end text:name="__RefHeading___Toc577_640105787"/></text:h>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a7-4f15-7220-21bed7f9f73d"/><text:bookmark-start text:name="__RefHeading___Toc579_640105787"/>Android<text:bookmark-end text:name="__RefHeading___Toc579_640105787"/></text:h>
+   <text:p text:style-name="P18">asd</text:p>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc581_640105787"/>VPN<text:bookmark-end text:name="__RefHeading___Toc581_640105787"/></text:h>
+   <text:p text:style-name="P18">asd</text:p>
+   <text:p text:style-name="Text_20_body"><text:line-break/></text:p>
   </office:text>
  </office:body>
 </office:document>
