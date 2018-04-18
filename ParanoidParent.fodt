@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-04-09T09:31:13.483410744</meta:creation-date><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><dc:date>2018-04-18T13:47:02.013293553</dc:date><meta:editing-duration>PT8H31M39S</meta:editing-duration><meta:editing-cycles>90</meta:editing-cycles><meta:document-statistic meta:table-count="2" meta:image-count="7" meta:object-count="0" meta:page-count="22" meta:paragraph-count="176" meta:word-count="2249" meta:character-count="15063" meta:non-whitespace-character-count="12909"/></office:meta>
+ <office:meta><meta:creation-date>2018-04-09T09:31:13.483410744</meta:creation-date><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><dc:date>2018-04-18T14:16:49.305244467</dc:date><meta:editing-duration>PT9H1M25S</meta:editing-duration><meta:editing-cycles>94</meta:editing-cycles><meta:document-statistic meta:table-count="2" meta:image-count="7" meta:object-count="0" meta:page-count="22" meta:paragraph-count="177" meta:word-count="2424" meta:character-count="16211" meta:non-whitespace-character-count="13878"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">278209</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">298318</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">30693</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">16224</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">18124</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">290516</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">8484</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">305110</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">278209</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">298318</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">30692</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">294432</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">314540</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -429,6 +429,15 @@
   <style:style style:name="Table1.C7" style:family="table-cell">
    <style:table-cell-properties fo:padding="0.0382in" fo:border-left="0.05pt solid #000000" fo:border-right="0.05pt solid #000000" fo:border-top="none" fo:border-bottom="0.05pt solid #000000"/>
   </style:style>
+  <style:style style:name="Table1.A8" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.0382in" fo:border-left="0.05pt solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.05pt solid #000000"/>
+  </style:style>
+  <style:style style:name="Table1.B8" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.0382in" fo:border-left="0.05pt solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.05pt solid #000000"/>
+  </style:style>
+  <style:style style:name="Table1.C8" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.0382in" fo:border-left="0.05pt solid #000000" fo:border-right="0.05pt solid #000000" fo:border-top="none" fo:border-bottom="0.05pt solid #000000"/>
+  </style:style>
   <style:style style:name="Table2" style:family="table">
    <style:table-properties style:width="6.925in" table:align="margins"/>
   </style:style>
@@ -479,6 +488,15 @@
    <style:table-cell-properties fo:padding="0.0382in" fo:border-left="0.05pt solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.05pt solid #000000"/>
   </style:style>
   <style:style style:name="Table2.C4" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.0382in" fo:border-left="0.05pt solid #000000" fo:border-right="0.05pt solid #000000" fo:border-top="none" fo:border-bottom="0.05pt solid #000000"/>
+  </style:style>
+  <style:style style:name="Table2.A5" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.0382in" fo:border-left="0.05pt solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.05pt solid #000000"/>
+  </style:style>
+  <style:style style:name="Table2.B5" style:family="table-cell">
+   <style:table-cell-properties fo:padding="0.0382in" fo:border-left="0.05pt solid #000000" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.05pt solid #000000"/>
+  </style:style>
+  <style:style style:name="Table2.C5" style:family="table-cell">
    <style:table-cell-properties fo:padding="0.0382in" fo:border-left="0.05pt solid #000000" fo:border-right="0.05pt solid #000000" fo:border-top="none" fo:border-bottom="0.05pt solid #000000"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
@@ -939,7 +957,7 @@
   </style:style>
   <style:style style:name="P116" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false"/>
-   <style:text-properties officeooo:rsid="002c7f72" officeooo:paragraph-rsid="002c7f72"/>
+   <style:text-properties officeooo:rsid="002e8921" officeooo:paragraph-rsid="002e8921"/>
   </style:style>
   <style:style style:name="P117" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
@@ -1010,7 +1028,10 @@
   <style:style style:name="P135" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:text-properties officeooo:rsid="0029a3c5" officeooo:paragraph-rsid="0029a3c5"/>
   </style:style>
-  <style:style style:name="P136" style:family="paragraph" style:parent-style-name="Object_20_index_20_heading">
+  <style:style style:name="P136" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="002e8921" officeooo:paragraph-rsid="002e8921"/>
+  </style:style>
+  <style:style style:name="P137" style:family="paragraph" style:parent-style-name="Object_20_index_20_heading">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -1509,7 +1530,7 @@
       <text:p text:style-name="P134">DNS</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.B4" office:value-type="string">
-      <text:p text:style-name="P134">Dynamic Name Server</text:p>
+      <text:p text:style-name="P134">D<text:span text:style-name="T63">omain</text:span> Name S<text:span text:style-name="T63">ystem</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.C4" office:value-type="string">
       <text:p text:style-name="P134">Omvandlar en url ”<text:a xlink:type="simple" xlink:href="http://www.sunet.se/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">www.sunet.se</text:a>” till ett ip ”192.36.171.231”</text:p>
@@ -1517,12 +1538,23 @@
     </table:table-row>
     <table:table-row table:style-name="Table2.4">
      <table:table-cell table:style-name="Table2.A4" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents"/>
+      <text:p text:style-name="P136">PAT</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.B4" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.C4" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents"/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table2.4">
+     <table:table-cell table:style-name="Table2.A5" office:value-type="string">
+      <text:p text:style-name="P136"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.B5" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.C5" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
      </table:table-cell>
     </table:table-row>
@@ -1641,12 +1673,23 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table1.A7" office:value-type="string">
-      <text:p text:style-name="P135"/>
+      <text:p text:style-name="P136"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.B7" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.C7" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents"/>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table1.A8" office:value-type="string">
+      <text:p text:style-name="P136"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.B8" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.C8" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
      </table:table-cell>
     </table:table-row>
@@ -2654,23 +2697,26 @@
    <text:p text:style-name="P113">VPN står för <text:span text:style-name="T37">virtual private network</text:span> med vilket menas att en länk mellan två enheter (dator, telefon, router mm) skapas. På denna länk krypteras all trafik så att utomstående inte kan se vad det är för trafik som flödar igenom förbindelsen. Denna teknik används vanligtvis om man vill knyta samman flera interna nätverk med varandra över internet. De kan med fördel även användas för att kunna surfa säkert på obetrodda internetanslutningar så som på internetcaféer och liknande. </text:p>
    <text:p text:style-name="P57"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>Port <text:span text:style-name="T62">forwarding</text:span></text:h>
-   <text:p text:style-name="P114">För privatpersoner så har man vanligtvis en publik adress som man kan använda sig utav när man surfar på internet. Detta räcker för de mesta för den genomsnittlige användaren. Datorerna på det interna nätverket göms bakom routern som ser till att rätt information hamnar på rätt dator på de interna nätverket. Detta görs genom någonting som kallas NAT (se nedan). För att mans kall kuna komma åt en service på de interna nätverket så måste man därför berätta för routern att all trafik som kommer in på en specifik port skall </text:p>
+   <text:p text:style-name="P114">För privatpersoner så har man vanligtvis en publik adress som man kan använda sig utav när man surfar på internet. Detta räcker för de mesta för den genomsnittlige användaren. Datorerna på det interna nätverket göms bakom routern som ser till att rätt information hamnar på rätt dator på de interna nätverket. Detta görs genom någonting som kallas <text:span text:style-name="T37">PAT</text:span> (se nedan). För att mans kall kunna komma åt en service på de interna nätverket så måste man därför berätta för routern att all trafik som kommer in på en specifik port skall skickas vidare till en lokal dator (<text:span text:style-name="T37">port forwarding</text:span>).</text:p>
    <text:p text:style-name="P57"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">NAT</text:h>
-   <text:p text:style-name="P114">asd</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">DNS / <text:span text:style-name="T63">DDNS</text:span></text:h>
-   <text:p text:style-name="P112">asd</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:span text:style-name="T63">P</text:span>AT</text:h>
+   <text:p text:style-name="P114">För att datorer på de interna nätverket skall kunna kommunicera på internet med bara en publik internetadress så krävs de att de interna adresserna ”översätts” <text:span text:style-name="T37">Port Address Translation</text:span> till den publika adressen som routern har. För att routern skall hålla reda på vilken av de interna datorerna som skall ha informationen så ger routern den aktuella förbindelsen en unik port som den använder sig utav när den kommunicerar på internet. När informationen kommer tillbaka så <text:s/>ser routern vilken lokal dator som informationen kom ifrån och anger sedan rätt lokala adress och skickar vidare informationen. <text:s text:c="3"/></text:p>
+   <text:p text:style-name="P114"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">DNS / <text:span text:style-name="T63">DynDNS</text:span></text:h>
+   <text:p text:style-name="P114">DNS, <text:span text:style-name="T37">Domain Name System</text:span>, är en tjänst som internetleverantören vanligtvis tillhandahåller. Det finns även gratis tjänster som tillhandahålles av Google, CloudFlare och OpenDNS. Det fungerar på så vis att när man anger t.ex. en webbadress i sin webbläsare (<text:a xlink:type="simple" xlink:href="http://www.sunet.se/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">www.sunet.se</text:a>) så skickas en förfrågan till den DNS-server som man har angivit. Denna server svara med en ip-adress (192.36.171.231) som datorn sedan använder för att kommunicera på internet. </text:p>
+   <text:p text:style-name="P114"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Content Filter</text:h>
-   <text:p text:style-name="P112">asd</text:p>
+   <text:p text:style-name="P112">Asd</text:p>
+   <text:p text:style-name="P112"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc939_1085115739"/>Tillvägagångssätt <text:bookmark-end text:name="__RefHeading___Toc939_1085115739"/></text:h>
    <text:p text:style-name="P48">ToDo</text:p>
    <text:p text:style-name="P18"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="docs-internal-guid-298880b8-a99f-e05e-fb57-159941012cf8"/><text:bookmark-start text:name="__RefHeading___Toc557_640105787"/>Testmiljö <text:span text:style-name="T60">1 - Virtuell</text:span><text:bookmark-end text:name="__RefHeading___Toc557_640105787"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="docs-internal-guid-298880b8-a99f-e05e-fb57-159941012cf8"/><text:bookmark-start text:name="__RefHeading___Toc557_640105787"/><text:soft-page-break/>Testmiljö <text:span text:style-name="T60">1 - Virtuell</text:span><text:bookmark-end text:name="__RefHeading___Toc557_640105787"/></text:h>
    <text:p text:style-name="P50"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a0-be80-4d7b-65742933e2b6"/><text:span text:style-name="T2">För att testa alla dessa krav </text:span><text:span text:style-name="T3">har vi använt oss av </text:span><text:span text:style-name="T2">en testmiljö i </text:span><text:span text:style-name="T5">Linux</text:span><text:span text:style-name="T8"> </text:span><text:span text:style-name="T2">(</text:span><text:span text:style-name="T5">Debian 9 “Stretch”</text:span><text:span text:style-name="T10">[länk]</text:span><text:span text:style-name="T2">), bestående utav </text:span><text:span text:style-name="T5">GNS3</text:span><text:span text:style-name="T10">[länk]</text:span><text:span text:style-name="T8"> </text:span><text:span text:style-name="T2">( emulerar en nätverksmiljö ),</text:span><text:span text:style-name="T8"> </text:span><text:span text:style-name="T5">VirtualBox</text:span><text:span text:style-name="T10">[länk]</text:span><text:span text:style-name="T8"> </text:span><text:span text:style-name="T2">( Emulerar datorer ) </text:span><text:span text:style-name="T3">och </text:span><text:span text:style-name="T5">Wireshark</text:span><text:span text:style-name="T10">[länk] . </text:span><text:span text:style-name="T12">W</text:span><text:span text:style-name="T13">i</text:span><text:span text:style-name="T12">reshark</text:span><text:span text:style-name="T8"> </text:span><text:span text:style-name="T2">används för att analysera trafiken som vi skapar i den virtuella miljön. På detta vis kan vi prova funktionaliteten utan att införskaffa särskild hårdvara eller påverka de de befintliga system som vi har hemma idag. </text:span><text:span text:style-name="T9">Utöver detta har vi även satt upp en VPN-tunnel mot en openVPN-server i Raspberry Pi. Tanken är just att en Raspberry Pi används för vpn-hantering och innehållsfiltrering i den färdiga lösningen.</text:span></text:p>
    <text:p text:style-name="P18"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a1-00e0-05bf-b73494504116"/><text:bookmark-start text:name="__RefHeading___Toc559_640105787"/>Linux<text:bookmark-end text:name="__RefHeading___Toc559_640105787"/></text:h>
    <text:p text:style-name="P18">Version: Debian 9 “Stretch”</text:p>
-   <text:p text:style-name="P51"><text:soft-page-break/>Val av linuxversion är inte av så stor betydelse då detta bör fungera med de flesta system. Valet föll på debian för att det fanns färdiga installationsfiler för de mjukvaror som används i denna undersökning.</text:p>
+   <text:p text:style-name="P51">Val av linuxversion är inte av så stor betydelse då detta bör fungera med de flesta system. Valet föll på debian för att det fanns färdiga installationsfiler för de mjukvaror som används i denna undersökning.</text:p>
    <text:p text:style-name="P51">Debian GNU/Linux är en av de största och äldsta linuxdistributionerna och skapades 1993. Debian skiljer sig från många andra stora linuxdistributioner genom att organisationen bakom distributionen är en ideell organisation och inte ett företag. Utvecklarna deltar som enskilda frivilliga. Det hindrar inte att Debian används också kommersiellt och att en del av utvecklarna arbetar med Debian som del av sitt lönearbete. Debianprojektet har strängare krav på programvarans frihet än många andra distributioner.<text:span text:style-name="T35">[https://sv.wikipedia.org/wiki/Debian_GNU/Linux [2018-03-26]]</text:span></text:p>
    <text:p text:style-name="P51">Debian har alltid åtminstone tre utgåvor som aktivt underhålls: den stabila utgåvan (stable), uttestningsutgåvan (testing) samt den instabila utgåvan (unstable).</text:p>
    <text:p text:style-name="P51">Debian 9 kallas ”Stretch” och är den aktuella stabila (stable) utgåvan. Debian 8 kallas ”Jessie” och är alltså en gammal stabil utgåva (oldstable). För närvarande är det en version som kallas ”Buster” som är uttestnings-versionen.<text:span text:style-name="T35">[https://www.debian.org/releases/ [2018-03-26]]</text:span></text:p>
@@ -2680,7 +2726,7 @@
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P61">sudo dpkg -i virtualbox-5.2_5.2.8-121009~Debian~stretch_amd64.deb</text:p>
    <text:p text:style-name="P18"><text:span text:style-name="T23"><text:line-break/></text:span><text:span text:style-name="T4">Eventuella saknade paket kan installeras med </text:span><text:span text:style-name="T5">apt-get</text:span></text:p>
-   <text:p text:style-name="P5"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a2-a555-5f17-11eaee5887e1"/><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="as-char" svg:width="3.5102in" draw:z-index="3">
+   <text:p text:style-name="P5"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a2-a555-5f17-11eaee5887e1"/><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="as-char" svg:width="3.5102in" draw:z-index="3">
      <draw:text-box fo:min-height="2.2291in">
       <text:p text:style-name="P82"><draw:frame draw:style-name="fr2" draw:name="Frame3" text:anchor-type="as-char" svg:width="3.5102in" style:rel-width="100%" svg:height="2.2291in" style:rel-height="scale-min" draw:z-index="4">
         <draw:text-box>
@@ -4199,7 +4245,7 @@
     </draw:frame></text:p>
    <text:p text:style-name="P5"/>
    <text:p text:style-name="P5"/>
-   <text:p text:style-name="P22"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a3-1112-e869-cfc92803ad52"/><text:soft-page-break/><text:span text:style-name="T6">Väl inne i </text:span><text:span text:style-name="T7">VirtualBox </text:span><text:span text:style-name="T6">så kan man skapa sina virtuella maskiner. </text:span><text:span text:style-name="T7">Untangle</text:span><text:span text:style-name="T11">[länk]</text:span><text:span text:style-name="T8"> </text:span><text:span text:style-name="T6">är en Router / Gateway som är linuxbaserad och gratis att ladda hem</text:span></text:p>
+   <text:p text:style-name="P22"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a3-1112-e869-cfc92803ad52"/><text:span text:style-name="T6">Väl inne i </text:span><text:span text:style-name="T7">VirtualBox </text:span><text:span text:style-name="T6">så kan man skapa sina virtuella maskiner. </text:span><text:span text:style-name="T7">Untangle</text:span><text:span text:style-name="T11">[länk]</text:span><text:span text:style-name="T8"> </text:span><text:span text:style-name="T6">är en Router / Gateway som är linuxbaserad och gratis att ladda hem</text:span></text:p>
    <text:p text:style-name="P14"/>
    <text:p text:style-name="P6"><text:bookmark text:name="docs-internal-guid-aa402276-a9a3-442d-5afb-d981496c3a70"/><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="as-char" svg:width="4.1563in" draw:z-index="6">
      <draw:text-box fo:min-height="2.9898in">
@@ -5049,7 +5095,7 @@
              AQjoI4DcQh81tIEABCAAAQhAgEvgfxSOEmvrAUu5AAAAAElFTkSuQmCC
             </office:binary-data>
            </draw:image>
-          </draw:frame><text:line-break/>Illustration <text:sequence text:ref-name="refIllustration1" text:name="Illustration" text:formula="ooow:Illustration+1" style:num-format="1">2</text:sequence>: Två st<text:span text:style-name="T58">ycken</text:span> nätverkskort är nödvändigt</text:p>
+          </draw:frame><text:line-break/>Illustration <text:sequence text:ref-name="refIllustration1" text:name="Illustration" text:formula="ooow:Illustration+1" style:num-format="1">2</text:sequence>: Två st<text:span text:style-name="T58">ycken</text:span> nätverkskort är nödvändigt <text:span text:style-name="T63">för att kunna använda datorn som en router.</text:span></text:p>
         </draw:text-box>
        </draw:frame></text:p>
      </draw:text-box>
@@ -5058,11 +5104,11 @@
    <text:p text:style-name="P18">Notera att två stycken nätverkskort behövs i den virtuella routern</text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="Text_20_body"/>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc573_640105787"/><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a6-1083-1440-690d223a9238"/>GNS3 <text:span text:style-name="T35">för Linux-distro</text:span><text:bookmark-end text:name="__RefHeading___Toc573_640105787"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc573_640105787"/><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a6-1083-1440-690d223a9238"/><text:soft-page-break/>GNS3 <text:span text:style-name="T35">för Linux-distro</text:span><text:bookmark-end text:name="__RefHeading___Toc573_640105787"/></text:h>
    <text:p text:style-name="P93">GNS3 eller Graphical Netword Simulator-3 är en nätverks-mjukvaru-emulator som först släpptes 2008. Det tillåter kombinerandet av virtuella och verkliga enheter och används för att simulera komplexa nätverk. Det använder Dynamips emulations-mjukvara för att simulera Cisco IOS. GNS3 används av många stora företag som t.ex. Exxon, Walmart, AT&amp;T och NASA.<text:span text:style-name="T35">[https://en.wikipedia.org/wiki/Graphical_Network_Simulator-3 [2018-03-26]]</text:span></text:p>
    <text:p text:style-name="P18"/>
    <text:p text:style-name="P53">Version: 2.1.4</text:p>
-   <text:p text:style-name="P52"><text:soft-page-break/><text:line-break/><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a6-7403-edea-5d8432a05b34"/><text:span text:style-name="T8"><draw:frame draw:style-name="fr1" draw:name="Frame5" text:anchor-type="as-char" svg:width="5in" draw:z-index="9">
+   <text:p text:style-name="P52"><text:line-break/><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a6-7403-edea-5d8432a05b34"/><text:span text:style-name="T8"><draw:frame draw:style-name="fr1" draw:name="Frame5" text:anchor-type="as-char" svg:width="5in" draw:z-index="9">
       <draw:text-box fo:min-height="2.6043in">
        <text:p text:style-name="Illustration"><draw:frame draw:style-name="fr4" draw:name="Image3" text:anchor-type="as-char" svg:width="5in" style:rel-width="100%" svg:height="2.6043in" style:rel-height="scale" draw:z-index="10"><draw:image>
           <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAjYAAAEnCAIAAAA1tp7BAAAgAElEQVR4AeydCXxU1fn3n7vM
@@ -5529,11 +5575,11 @@
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1249_1085115739"/>Testmiljö <text:span text:style-name="T60">2 - Fysisk</text:span><text:bookmark-end text:name="__RefHeading___Toc1249_1085115739"/></text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc575_640105787"/>Raspberry P<text:span text:style-name="T24">i</text:span><text:bookmark-end text:name="__RefHeading___Toc575_640105787"/></text:h>
    <text:p text:style-name="P49">Raspberry Pi är en enkortsdator som har utvecklats av det brittiska företaget Raspberry Pi Foundation. Processorn är från Broadcom och har ARM-arkitektur, liknande vad som används i många smartphones. Raspberry Pi har inge inbyggt minne för operativsystem och filer, istället används ett externt SD-kort för fillagring.</text:p>
-   <text:p text:style-name="P49">Raspberry Pi 3 model B, vilket är den version som vi använt oss av, släpptes 29 februari 2016, har en 1200 MHz fyrkärnig ARM Cortex-A53 och 1 GB Ram och har för lagringen en MicroSDHC-slot [https://sv.wikipedia.org/wiki/Raspberry_Pi [2018-03-28]]</text:p>
+   <text:p text:style-name="P49"><text:soft-page-break/>Raspberry Pi 3 model B, vilket är den version som vi använt oss av, släpptes 29 februari 2016, har en 1200 MHz fyrkärnig ARM Cortex-A53 och 1 GB Ram och har för lagringen en MicroSDHC-slot [https://sv.wikipedia.org/wiki/Raspberry_Pi [2018-03-28]]</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc632_2943713897"/>Raspbian (OS)<text:bookmark-end text:name="__RefHeading___Toc632_2943713897"/></text:h>
    <text:p text:style-name="P94">Raspbian är ett Debian-baserat operativsystem för Raspberry Pi. Raspbian skapades av Mike Thompson och Peter Green som en ett oberoende projekt och det första bygget var färdigt i juni 2012. <text:span text:style-name="T35">[https://en.wikipedia.org/wiki/Raspbian [2018-03-28]]</text:span></text:p>
    <text:p text:style-name="P97">Använd version: <text:span text:style-name="T36">2018-03-13 Raspbian Stretch</text:span> <text:span text:style-name="T36">with desktop, </text:span><text:span text:style-name="T38">vilken kan hämtas hem </text:span>från https://www.raspberrypi.org/downloads/raspbian/ </text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1251_1085115739"/><text:soft-page-break/>Mjukvaror / <text:span text:style-name="T60">Tjänster</text:span><text:bookmark-end text:name="__RefHeading___Toc1251_1085115739"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1251_1085115739"/>Mjukvaror / <text:span text:style-name="T60">Tjänster</text:span><text:bookmark-end text:name="__RefHeading___Toc1251_1085115739"/></text:h>
    <text:p text:style-name="Text_20_body"/>
    <text:h text:style-name="P100" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc634_2943713897"/>OpenVPN<text:bookmark-end text:name="__RefHeading___Toc634_2943713897"/></text:h>
    <text:p text:style-name="P91">Virtuellt privat nätverk (Virtua<text:span text:style-name="T35">L</text:span> Private Network) är en teknik som används för att skapa en säker förbindelse eller ”tunnel” mellan två punkter i ett icke-säkert datanätverk, så som Internet. I en typisk VPN-tillämpning initierar klienten en virtuell punkt-till-punkt-anslutning till en fjärråtkomstserver via Internet. Fjärråtkomstservern svarar på anropet, autentiserar anroparen och hanterar därefter överföringen av data mellan VPN-klienten och det privata nätverket.<text:span text:style-name="T35">[https://sv.wikipedia.org/wiki/Virtual_private_network [2018-03-28]]</text:span></text:p>
@@ -5544,10 +5590,10 @@
    <text:p text:style-name="P99">Vid installation på Raspberry Pi: PiVPN / The PiVPN Project</text:p>
    <text:p text:style-name="P99">curl -L https://install.pivpn.io | bash</text:p>
    <text:p text:style-name="P96"/>
-   <text:h text:style-name="P102" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc636_2943713897"/>Dynamisk DNS<text:bookmark-end text:name="__RefHeading___Toc636_2943713897"/></text:h>
+   <text:h text:style-name="P102" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc636_2943713897"/><text:soft-page-break/>Dynamisk DNS<text:bookmark-end text:name="__RefHeading___Toc636_2943713897"/></text:h>
    <text:p text:style-name="P92">Dynamisk DNS (DDNS eller DynDNS) är en metod för att automatiskt uppdatera en namnserver i DNS med den aktuella DDNS-konfigurationen hos dess konfigurerade värdnamn, adresser och annan information.<text:span text:style-name="T39">[https://en.wikipedia.org/wiki/Dynamic_DNS [2018-03-30]]</text:span></text:p>
    <text:p text:style-name="P98">Använd tjänst: noip.com, vilket är ett gratis alternativ. En klient installerades på Raspberry Pi, vilken uppdaterar webbtjänsten med aktuell publik IP-adress vid ändring av denna.</text:p>
-   <text:p text:style-name="P98">Vitalwerks LLC är föräldraföretaget för No-IP, vilken är en leverantör av dynamsik DNS-tjänster, både i betald och i gratis form. För DNS-delen länkas ett dynamiskt värdnamn till användarens dynamiska IP-adress. När IP-adressen ändras skickar den dynamiska DNS-klienten <text:soft-page-break/>en uppdatering till No-IP med den aktuella IP-adressen och sedan propagerar No-IP DNS-ändringen till Internet.<text:span text:style-name="T40">[https://en.wikipedia.org/wiki/No-IP [2018-04-13]]</text:span></text:p>
+   <text:p text:style-name="P98">Vitalwerks LLC är föräldraföretaget för No-IP, vilken är en leverantör av dynamsik DNS-tjänster, både i betald och i gratis form. För DNS-delen länkas ett dynamiskt värdnamn till användarens dynamiska IP-adress. När IP-adressen ändras skickar den dynamiska DNS-klienten en uppdatering till No-IP med den aktuella IP-adressen och sedan propagerar No-IP DNS-ändringen till Internet.<text:span text:style-name="T40">[https://en.wikipedia.org/wiki/No-IP [2018-04-13]]</text:span></text:p>
    <text:h text:style-name="P103" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc638_2943713897"/>OpenDNS<text:bookmark-end text:name="__RefHeading___Toc638_2943713897"/></text:h>
    <text:p text:style-name="P63">OpenDNS är ett företag och en tjänst som utökar DNS genom att lägga till funktioner såsom phising-skydd och valbar innehållsfiltrering (content filtering) utöver DNS-uppslag om dess DNS-servrar används.<text:span text:style-name="T41">[https://en.wikipedia.org/wiki/OpenDNS [2018-04-13]]</text:span></text:p>
    <text:p text:style-name="P71"/>
