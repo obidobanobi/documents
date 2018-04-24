@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-04-09T09:31:13.483410744</meta:creation-date><meta:generator>LibreOffice/6.0.3.2$Windows_X86_64 LibreOffice_project/8f48d515416608e3a835360314dac7e47fd0b821</meta:generator><dc:date>2018-04-24T23:38:02.802000000</dc:date><meta:editing-duration>PT15H37M15S</meta:editing-duration><meta:editing-cycles>102</meta:editing-cycles><meta:document-statistic meta:table-count="2" meta:image-count="16" meta:object-count="0" meta:page-count="32" meta:paragraph-count="239" meta:word-count="3414" meta:character-count="23351" meta:non-whitespace-character-count="20081"/></office:meta>
+ <office:meta><meta:creation-date>2018-04-09T09:31:13.483410744</meta:creation-date><meta:generator>LibreOffice/6.0.3.2$Windows_X86_64 LibreOffice_project/8f48d515416608e3a835360314dac7e47fd0b821</meta:generator><dc:date>2018-04-24T23:39:47.113000000</dc:date><meta:editing-duration>PT15H38M59S</meta:editing-duration><meta:editing-cycles>103</meta:editing-cycles><meta:document-statistic meta:table-count="2" meta:image-count="16" meta:object-count="0" meta:page-count="32" meta:paragraph-count="239" meta:word-count="3414" meta:character-count="23388" meta:non-whitespace-character-count="20082"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">220433</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">55333</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">36373</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">28718</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">10642</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">252361</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">13197</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">65050</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">220433</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">55333</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">36371</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">249149</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">84049</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -1072,31 +1072,32 @@
    <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="120%" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
    <style:text-properties officeooo:paragraph-rsid="00368189"/>
   </style:style>
-  <style:style style:name="P142" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="0029a3c5" officeooo:paragraph-rsid="0029a3c5"/>
-  </style:style>
-  <style:style style:name="P143" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P142" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
   </style:style>
-  <style:style style:name="P144" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P143" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties officeooo:rsid="0026dbf9" officeooo:paragraph-rsid="0026dbf9"/>
+  </style:style>
+  <style:style style:name="P144" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
    <style:text-properties officeooo:rsid="0026dbf9" officeooo:paragraph-rsid="0026dbf9"/>
   </style:style>
   <style:style style:name="P145" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
-   <style:text-properties officeooo:rsid="0026dbf9" officeooo:paragraph-rsid="0026dbf9"/>
-  </style:style>
-  <style:style style:name="P146" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
    <style:text-properties officeooo:rsid="0029a3c5" officeooo:paragraph-rsid="0026dbf9"/>
   </style:style>
-  <style:style style:name="P147" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P146" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
    <style:text-properties officeooo:rsid="0029a3c5" officeooo:paragraph-rsid="0026dbf9"/>
   </style:style>
-  <style:style style:name="P148" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P147" style:family="paragraph" style:parent-style-name="Text_20_body">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="120%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P148" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="120%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
   </style:style>
   <style:style style:name="P149" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
    <loext:graphic-properties draw:fill="none"/>
@@ -1110,70 +1111,90 @@
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="120%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
   </style:style>
-  <style:style style:name="P152" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
-   <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:margin-left="1.199cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="120%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
-  </style:style>
-  <style:style style:name="P153" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P152" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
   </style:style>
-  <style:style style:name="P154" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P153" style:family="paragraph" style:parent-style-name="Text_20_body">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="120%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
   </style:style>
-  <style:style style:name="P155" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+  <style:style style:name="P154" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="1.3cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="120%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
   </style:style>
-  <style:style style:name="P156" style:family="paragraph" style:parent-style-name="Bibliography_20_Heading">
+  <style:style style:name="P155" style:family="paragraph" style:parent-style-name="Bibliography_20_Heading">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P157" style:family="paragraph" style:parent-style-name="Illustration_20_Index_20_Heading">
+  <style:style style:name="P156" style:family="paragraph" style:parent-style-name="Contents_20_3">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="16.591cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P157" style:family="paragraph" style:parent-style-name="Contents_20_Heading">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P158" style:family="paragraph" style:parent-style-name="Object_20_index_20_heading">
+  <style:style style:name="P158" style:family="paragraph" style:parent-style-name="Illustration_20_Index_20_Heading">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P159" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P159" style:family="paragraph" style:parent-style-name="Object_20_index_20_heading">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P160" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="P160" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name="">
+  <style:style style:name="P161" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name="">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="P161" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P162" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P162" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P163" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P163" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P164" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P164" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="001e2ccb" officeooo:paragraph-rsid="001e2ccb"/>
+  <style:style style:name="P165" style:family="paragraph" style:parent-style-name="Contents_20_1">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17.59cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P165" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="001eebc4" officeooo:paragraph-rsid="001eebc4"/>
-  </style:style>
-  <style:style style:name="P166" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="001fabad" officeooo:paragraph-rsid="001fabad"/>
+  <style:style style:name="P166" style:family="paragraph" style:parent-style-name="Contents_20_2">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17.09cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
   </style:style>
   <style:style style:name="P167" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:paragraph-rsid="003176e5"/>
+   <style:text-properties officeooo:rsid="001e2ccb" officeooo:paragraph-rsid="001e2ccb"/>
   </style:style>
   <style:style style:name="P168" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="003502ca" officeooo:paragraph-rsid="003502ca"/>
+   <style:text-properties officeooo:rsid="001eebc4" officeooo:paragraph-rsid="001eebc4"/>
   </style:style>
   <style:style style:name="P169" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="001fabad" officeooo:paragraph-rsid="001fabad"/>
+  </style:style>
+  <style:style style:name="P170" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="003176e5"/>
+  </style:style>
+  <style:style style:name="P171" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="003502ca" officeooo:paragraph-rsid="003502ca"/>
+  </style:style>
+  <style:style style:name="P172" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="00368189" officeooo:paragraph-rsid="00368189"/>
   </style:style>
-  <style:style style:name="P170" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P173" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="0008c6df"/>
   </style:style>
-  <style:style style:name="P171" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P174" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="0025bba7" officeooo:paragraph-rsid="0025bba7"/>
   </style:style>
-  <style:style style:name="P172" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P175" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="000ca279" officeooo:paragraph-rsid="00330913"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -1604,43 +1625,43 @@
      <text:p text:style-name="P106"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1117_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Illustrationsförteckning<text:tab/>4</text:a></text:p>
      <text:p text:style-name="P106"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1119_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Bilageförteckning<text:tab/>5</text:a></text:p>
      <text:p text:style-name="P106"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1121_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Ordlista<text:tab/>6</text:a></text:p>
-     <text:p text:style-name="P106"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc326_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1 Inledning<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc537_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.1 Bakgrund<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1330_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.2 Arbetsfördelning<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc549_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.3 Syfte<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc551_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.4 Avgränsningar<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1243_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.5 Frågeställningar<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1245_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.6 Etiska och juridiska överväganden<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1247_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.7 Verktyg / Program<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P106"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc553_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2 Metod och Genomförande<text:tab/>10</text:a></text:p>
-     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc555_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1 Teori<text:tab/>10</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1118_1006080182" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.1 VPN<text:tab/>10</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1539_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.2 Port forwarding<text:tab/>11</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1541_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.3 PAT<text:tab/>11</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1543_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.4 DNS / DynDNS<text:tab/>11</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1545_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.5 Content Filter<text:tab/>11</text:a></text:p>
-     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc939_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2 Tillvägagångssätt<text:tab/>12</text:a></text:p>
-     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc557_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.3 Testmiljö 1 - Virtuell<text:tab/>12</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc559_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.3.1 Linux<text:tab/>12</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc571_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.3.2 VirtualBox för Linux-distro<text:tab/>12</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc573_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.3.3 GNS3 för Linux-distro<text:tab/>14</text:a></text:p>
-     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1249_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.4 Testmiljö 2 - Fysisk<text:tab/>14</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc575_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.4.1 Raspberry Pi<text:tab/>14</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc632_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.4.2 Raspbian (OS)<text:tab/>15</text:a></text:p>
-     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1251_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5 Mjukvaror / Tjänster<text:tab/>15</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc634_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.1 OpenVPN<text:tab/>15</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc636_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.2 Dynamisk DNS<text:tab/>16</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc638_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.3 OpenDNS<text:tab/>16</text:a></text:p>
-     <text:p text:style-name="P106"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc577_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3 Resultat och Analys<text:tab/>17</text:a></text:p>
-     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc579_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.1 Android<text:tab/>17</text:a></text:p>
-     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc581_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2 VPN<text:tab/>17</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc640_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2.2 Installationsförfarande OpenVPN-server Rasperry Pi (PiVPN)<text:tab/>17</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1547_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2.3 Installationsförfarande NOIP-klient RPI<text:tab/>19</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc642_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2.4 Installationsförfarande OpenVPN-klient Android<text:tab/>21</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1549_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2.5 Att använda OpenDNS för OpenVPN-server på RPI<text:tab/>23</text:a></text:p>
-     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1320_1102001043" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.3 Innehållsfiltrering<text:tab/>25</text:a></text:p>
-     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc449_1767216109" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.3.1 E2guardian Web filtering och Squid (web proxy)<text:tab/>25</text:a></text:p>
-     <text:p text:style-name="P106"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1268_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Litteraturförteckning<text:tab/>28</text:a></text:p>
+     <text:p text:style-name="P106"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc326_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1 <text:s/>Inledning<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc537_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.1 <text:s/>Bakgrund<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1330_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.2 <text:s/>Arbetsfördelning<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc549_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.3 <text:s/>Syfte<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc551_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.4 <text:s/>Avgränsningar<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1243_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.5 <text:s/>Frågeställningar<text:tab/>9</text:a></text:p>
+     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1245_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.6 <text:s/>Etiska och juridiska överväganden<text:tab/>9</text:a></text:p>
+     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1247_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.7 <text:s/>Verktyg / Program<text:tab/>10</text:a></text:p>
+     <text:p text:style-name="P106"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc553_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2 <text:s/>Metod och Genomförande<text:tab/>11</text:a></text:p>
+     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc555_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1 <text:s/>Teori<text:tab/>11</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1118_1006080182" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.1 <text:s/>VPN<text:tab/>11</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1539_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.2 <text:s/>Port forwarding<text:tab/>12</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1541_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.3 <text:s/>PAT<text:tab/>12</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1543_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.4 <text:s/>DNS / DynDNS<text:tab/>12</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1545_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.5 <text:s/>Content Filter<text:tab/>12</text:a></text:p>
+     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc939_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2 <text:s/>Tillvägagångssätt<text:tab/>13</text:a></text:p>
+     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc557_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.3 <text:s/>Testmiljö 1 - Virtuell<text:tab/>13</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc559_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.3.1 <text:s/>Linux<text:tab/>13</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc571_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.3.2 <text:s/>VirtualBox för Linux-distro<text:tab/>13</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc573_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.3.3 <text:s/>GNS3 för Linux-distro<text:tab/>15</text:a></text:p>
+     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1249_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.4 <text:s/>Testmiljö 2 - Fysisk<text:tab/>15</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc575_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.4.1 <text:s/>Raspberry Pi<text:tab/>15</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc632_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.4.2 <text:s/>Raspbian (OS)<text:tab/>16</text:a></text:p>
+     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1251_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5 <text:s/>Mjukvaror / Tjänster<text:tab/>16</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc634_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.1 <text:s/>OpenVPN<text:tab/>16</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc636_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.2 <text:s/>Dynamisk DNS<text:tab/>17</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc638_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.3 <text:s/>OpenDNS<text:tab/>17</text:a></text:p>
+     <text:p text:style-name="P106"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc577_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3 <text:s/>Resultat och Analys<text:tab/>18</text:a></text:p>
+     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc579_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.1 <text:s/>Android<text:tab/>18</text:a></text:p>
+     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc581_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2 <text:s/>VPN<text:tab/>18</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc640_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2.2 <text:s/>Installationsförfarande OpenVPN-server Rasperry Pi (PiVPN)<text:tab/>18</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1547_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2.3 <text:s/>Installationsförfarande NOIP-klient RPI<text:tab/>20</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc642_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2.4 <text:s/>Installationsförfarande OpenVPN-klient Android<text:tab/>25</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1549_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2.5 <text:s/>Att använda OpenDNS för OpenVPN-server på RPI<text:tab/>27</text:a></text:p>
+     <text:p text:style-name="P105"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1320_1102001043" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.3 <text:s/>Innehållsfiltrering<text:tab/>29</text:a></text:p>
+     <text:p text:style-name="P111"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc449_1767216109" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.3.1 <text:s/>E2guardian Web filtering och Squid (web proxy)<text:tab/>29</text:a></text:p>
+     <text:p text:style-name="P106"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1268_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Litteraturförteckning<text:tab/>32</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
    <text:p text:style-name="P2"/>
@@ -1663,7 +1684,7 @@
      <text:p text:style-name="P130"><text:a xlink:type="simple" xlink:href="#Illustration!2|sequence" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>Illustration 3: asdasdasd<text:tab/>10</text:a></text:p>
     </text:index-body>
    </text:illustration-index>
-   <text:h text:style-name="P160" text:outline-level="1"/>
+   <text:h text:style-name="P161" text:outline-level="1"/>
    <text:object-index text:style-name="Sect1" text:name="Table of Objects1">
     <text:object-index-source>
      <text:index-title-template text:style-name="Object_20_index_20_heading">Bilageförteckning</text:index-title-template>
@@ -1679,7 +1700,7 @@
      </text:index-title>
     </text:index-body>
    </text:object-index>
-   <text:h text:style-name="P160" text:outline-level="1"/>
+   <text:h text:style-name="P161" text:outline-level="1"/>
    <text:h text:style-name="P96" text:outline-level="1" text:is-list-header="true"><text:bookmark-start text:name="__RefHeading___Toc1121_1085115739"/>Ordlista<text:bookmark-end text:name="__RefHeading___Toc1121_1085115739"/></text:h>
    <text:p text:style-name="Text_20_body"/>
    <table:table table:name="Table2" table:style-name="Table2">
@@ -1748,42 +1769,42 @@
    <text:p text:style-name="Horizontal_20_Line"/>
    <text:h text:style-name="P107" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc537_640105787"/><text:bookmark text:name="docs-internal-guid-37de8b54-a99a-458c-89ed-96e0b2bb2c3c"/>Bakgrund<text:bookmark-end text:name="__RefHeading___Toc537_640105787"/></text:h>
    <text:p text:style-name="P57">När ens barn kommer upp i en viss ålder är det inte otänkbart att en önskan uppkommer om att få tillgång till en egen Smartphone för att kunna ringa samtal, skicka meddelanden, surfa på nätet, samt ladda ned och spela spel med mera. Den medvetne vårdnadshavaren ställs då inför ett dilemma. Skulle man tillåta barnet att handa en egen Smartphone tillgodoser man å ena sidan både barnets önskan samt får en ypperlig möjlighet till att kontakta barnet via denna enhet när man befinner sig på olika platser. Å andra sidan utsätter man barnet för alla de risker som finns både ute på Internet och som kan komma telefonledes.</text:p>
-   <text:p text:style-name="P149">Detta dilemma tas i detta arbete fasta på i form av en undersökning i hur man kan minimera de risker som förekommer dels via Internet, dels via telefon och sms. Här undersöks hur man kan begränsa och styra tillgång till webbsidor, applikationer[?], förhindra inkommande samtal från okända[?] telefonnummer och hur man kan låta all Internettrafik passera via hemmanätverket [för ökad kontroll/övervakning]. </text:p>
-   <text:p text:style-name="P148">Huvudsyftet med detta arbete är att skapa ett system/en lösning som ger en ökad kontroll över vad en Smartphone kan användas till och är i första hand tänkt som ett sätt att ge ett extra skydd till barns användande av Smartphones. De resultat som här framkommer går naturligtvis att applicera på helt andra målgrupper, och kan [beroende på utfall] ses som en generell studie i hur man kan begränsa/anpassa användandet av Smartphones i allmänhet. Dock är det just [användar]-säkerhet för barn som ligger till fokus och som också är upprinnelsen till själva arbetet.</text:p>
+   <text:p text:style-name="P148">Detta dilemma tas i detta arbete fasta på i form av en undersökning i hur man kan minimera de risker som förekommer dels via Internet, dels via telefon och sms. Här undersöks hur man kan begränsa och styra tillgång till webbsidor, applikationer[?], förhindra inkommande samtal från okända[?] telefonnummer och hur man kan låta all Internettrafik passera via hemmanätverket [för ökad kontroll/övervakning]. </text:p>
+   <text:p text:style-name="P147">Huvudsyftet med detta arbete är att skapa ett system/en lösning som ger en ökad kontroll över vad en Smartphone kan användas till och är i första hand tänkt som ett sätt att ge ett extra skydd till barns användande av Smartphones. De resultat som här framkommer går naturligtvis att applicera på helt andra målgrupper, och kan [beroende på utfall] ses som en generell studie i hur man kan begränsa/anpassa användandet av Smartphones i allmänhet. Dock är det just [användar]-säkerhet för barn som ligger till fokus och som också är upprinnelsen till själva arbetet.</text:p>
    <text:p text:style-name="P113"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1330_1085115739"/>Arbetsfördelning<text:bookmark-end text:name="__RefHeading___Toc1330_1085115739"/></text:h>
-   <text:p text:style-name="P145">Arbetsfördelningen har under första halvan av arbetstiden i grova drag tett sig som så att O i huvudsak har arbetat mot Linux-distributionerna Debian och Mint via Dual Boot-installationer på en (Windows)-PC, medan L har arbetat mot enkortsdatorn Raspberry Pi 3 B med Raspbian OS, via SSH från en Windows 10-maskin. Mjukvarorna GNS3 och Untangle har uteslutande används av O.</text:p>
-   <text:p text:style-name="P155">De (gratis)-konton som under arbetet har skapats hos diverse tjänste/service-leverantörer har, i de fall båda personerna använt sig av dessa, skett i dubbel uppsättning. Med andra ord ett konto per användare.</text:p>
-   <text:p text:style-name="P154"><text:soft-page-break/>Kontakt, examensarbetare sinsemellan, har skett via röstsamtal och skärmdelning genom IP-telefoni-applikationen Discord.</text:p>
-   <text:p text:style-name="P154">Revisionshanteringssystemet Git har använts för att gemensamt arbeta med filer.</text:p>
+   <text:p text:style-name="P144">Arbetsfördelningen har under första halvan av arbetstiden i grova drag tett sig som så att O i huvudsak har arbetat mot Linux-distributionerna Debian och Mint via Dual Boot-installationer på en (Windows)-PC, medan L har arbetat mot enkortsdatorn Raspberry Pi 3 B med Raspbian OS, via SSH från en Windows 10-maskin. Mjukvarorna GNS3 och Untangle har uteslutande används av O.</text:p>
+   <text:p text:style-name="P154">De (gratis)-konton som under arbetet har skapats hos diverse tjänste/service-leverantörer har, i de fall båda personerna använt sig av dessa, skett i dubbel uppsättning. Med andra ord ett konto per användare.</text:p>
+   <text:p text:style-name="P153"><text:soft-page-break/>Kontakt, examensarbetare sinsemellan, har skett via röstsamtal och skärmdelning genom IP-telefoni-applikationen Discord.</text:p>
+   <text:p text:style-name="P153">Revisionshanteringssystemet Git har använts för att gemensamt arbeta med filer.</text:p>
    <text:p text:style-name="P61"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="docs-internal-guid-d3044648-a99e-1d10-b3a8-ebc636fea825"/><text:bookmark-start text:name="__RefHeading___Toc549_640105787"/>Syfte<text:bookmark-end text:name="__RefHeading___Toc549_640105787"/></text:h>
    <text:p text:style-name="P57">Syftet med detta arbete är att undersöka och presentera hur man kan skapa ett heltäckande system för en mer säker användning av en Android Smartphone där man som administratör kan begränsa och styra enhetens tillgång till webbsidor, applikationer[?], förhindra inkommande samtal från okända[?] telefonnummer och hur man kan låta all Internettrafik passera via hemmanätverket [för ökad kontroll/övervakning].</text:p>
-   <text:p text:style-name="P148">Som vårdnadshavare ska man med detta system kunna kontrollera och begränsa vad ens barn har tillgång till på sina Smartphones. </text:p>
-   <text:p text:style-name="P148">Man skall kunna begränsa tillgången till både appar på enheten samt tillgången till webbsidor.</text:p>
-   <text:p text:style-name="P148">Lösningen är tänkt att vara användarvänlig i den mening att användaren/barnet inte ska behöva göra någonting speciellt för att enheten ska vara i detta säkra läge och det skall heller inte gå att frångå detta läge genom något så enkelt som till exempel ett enkelt knapptryck.</text:p>
+   <text:p text:style-name="P147">Som vårdnadshavare ska man med detta system kunna kontrollera och begränsa vad ens barn har tillgång till på sina Smartphones. </text:p>
+   <text:p text:style-name="P147">Man skall kunna begränsa tillgången till både appar på enheten samt tillgången till webbsidor.</text:p>
+   <text:p text:style-name="P147">Lösningen är tänkt att vara användarvänlig i den mening att användaren/barnet inte ska behöva göra någonting speciellt för att enheten ska vara i detta säkra läge och det skall heller inte gå att frångå detta läge genom något så enkelt som till exempel ett enkelt knapptryck.</text:p>
    <text:p text:style-name="P23"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark text:name="docs-internal-guid-dff6e8a1-a99e-775d-0b66-7847ee739f02"/><text:bookmark-start text:name="__RefHeading___Toc551_640105787"/>Avgränsningar<text:bookmark-end text:name="__RefHeading___Toc551_640105787"/></text:h>
-   <text:p text:style-name="P145">De system och tjänster som är av intresse för detta arbete skall vara applicerbara för användning mot smartphones av typen Android. De ska vidare fungera mot, i skrivande stund, aktuell Androidversion. </text:p>
-   <text:p text:style-name="P149">I första hand ligger intresset hos icke-rootade Androidenheter [men i jämförande syfte kan egenskaper hos rootade Androidenheter komma att beröras]</text:p>
-   <text:p text:style-name="P148">För serversidan/”hemmadelen” gäller att det skall fungera mot Linux i allmänhet och mot Raspberry Pi/Raspbian i synnerhet.</text:p>
-   <text:p text:style-name="P148">För samtliga tredjepartstjänster krävs att dessa kan användas för de syften som är av intresse i detta arbete utan betalning. Att behöva registrera användarkonton för att ta del av någon webbtjänst för tillgång till detta ses inte som något hinder, liksom om några tilläggstjänster utöver de primära funktioner som i arbetet tas upp kan erbjudas mot betalning.</text:p>
-   <text:p text:style-name="P148">Systemen och tjänsterna skall inte, mer än vad som kan anses nödvändigt i de olika användningsområdena, inkräkta på användarens integritet och ska inte på något annat sätt innehålla, för användaren, skadlig kod.</text:p>
-   <text:p text:style-name="P148"><text:soft-page-break/>Det färdiga systemet ska kunna fungera självständigt utan kontinuerlig manuell övervakning från administratör och det skall fungera lika bra oavsett var den ”uppsäkrade” och ”övervakade” Androidenheten befinner sig geografiskt och oavsett om den är ansluten via WiFi till ”hemmanätverket” eller något annat nätverk, samt om den är ansluten till mobilt bredband[i brist på bättre ord???]</text:p>
-   <text:p text:style-name="P148">Systemet är i första hand tänkt att användas för ”hemmabruk” och således avgränsas antalet enheter som samtidigt ska kunna använda systemet till upp till max fem enheter. </text:p>
-   <text:p text:style-name="P148">Det slutliga systemet är inte avsett att vara ”oövervinnerligt” utifrån ett användarperspektiv utan skall mer ses som ett skydd för användaren. Dock skall det ifrån användarperspektiv vara betydligt enklare att använda enheten på det ”säkra” och ”övervakade” sättet än att kringgå detta. </text:p>
+   <text:p text:style-name="P144">De system och tjänster som är av intresse för detta arbete skall vara applicerbara för användning mot smartphones av typen Android. De ska vidare fungera mot, i skrivande stund, aktuell Androidversion. </text:p>
+   <text:p text:style-name="P148">I första hand ligger intresset hos icke-rootade Androidenheter [men i jämförande syfte kan egenskaper hos rootade Androidenheter komma att beröras]</text:p>
+   <text:p text:style-name="P147">För serversidan/”hemmadelen” gäller att det skall fungera mot Linux i allmänhet och mot Raspberry Pi/Raspbian i synnerhet.</text:p>
+   <text:p text:style-name="P147">För samtliga tredjepartstjänster krävs att dessa kan användas för de syften som är av intresse i detta arbete utan betalning. Att behöva registrera användarkonton för att ta del av någon webbtjänst för tillgång till detta ses inte som något hinder, liksom om några tilläggstjänster utöver de primära funktioner som i arbetet tas upp kan erbjudas mot betalning.</text:p>
+   <text:p text:style-name="P147">Systemen och tjänsterna skall inte, mer än vad som kan anses nödvändigt i de olika användningsområdena, inkräkta på användarens integritet och ska inte på något annat sätt innehålla, för användaren, skadlig kod.</text:p>
+   <text:p text:style-name="P147"><text:soft-page-break/>Det färdiga systemet ska kunna fungera självständigt utan kontinuerlig manuell övervakning från administratör och det skall fungera lika bra oavsett var den ”uppsäkrade” och ”övervakade” Androidenheten befinner sig geografiskt och oavsett om den är ansluten via WiFi till ”hemmanätverket” eller något annat nätverk, samt om den är ansluten till mobilt bredband[i brist på bättre ord???]</text:p>
+   <text:p text:style-name="P147">Systemet är i första hand tänkt att användas för ”hemmabruk” och således avgränsas antalet enheter som samtidigt ska kunna använda systemet till upp till max fem enheter. </text:p>
+   <text:p text:style-name="P147">Det slutliga systemet är inte avsett att vara ”oövervinnerligt” utifrån ett användarperspektiv utan skall mer ses som ett skydd för användaren. Dock skall det ifrån användarperspektiv vara betydligt enklare att använda enheten på det ”säkra” och ”övervakade” sättet än att kringgå detta. </text:p>
    <text:p text:style-name="P61"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1243_1085115739"/>Frågeställningar<text:bookmark-end text:name="__RefHeading___Toc1243_1085115739"/></text:h>
-   <text:p text:style-name="P147">Frågeställningar avsedda att besvaras genom detta arbete är följande:</text:p>
-   <text:p text:style-name="P149">Vilka system och tjänster finns idag tillgängliga för att, enskilt eller tillsammans med andra system och tjänster, kunna bidra till en säkrare användning av smartphone.</text:p>
-   <text:p text:style-name="P148">Vilka system och tjänster finns idag tillgängliga för att, enskilt eller tillsammans med andra system och tjänster, kunna bidra till en mer övervakad användning av smartphone.</text:p>
-   <text:p text:style-name="P148">Är det möjligt att med en eller flera tillgängliga system och tjänster, eventuellt med egna tillägg, skapa en någorlunda säker och övervakad helhetslösning för användning av smartphone som är tillräckligt lättanvänd för att kunna implementeras av en av normalgraden teknikintresserad användare.</text:p>
-   <text:p text:style-name="P148">Kort sagt; hur pass säker och övervakad kan en Android-smartphone göras inom ramen för gratis programvara och utan ingrepp i enhetens operativsystem?</text:p>
-   <text:p text:style-name="P146"/>
+   <text:p text:style-name="P146">Frågeställningar avsedda att besvaras genom detta arbete är följande:</text:p>
+   <text:p text:style-name="P148">Vilka system och tjänster finns idag tillgängliga för att, enskilt eller tillsammans med andra system och tjänster, kunna bidra till en säkrare användning av smartphone.</text:p>
+   <text:p text:style-name="P147">Vilka system och tjänster finns idag tillgängliga för att, enskilt eller tillsammans med andra system och tjänster, kunna bidra till en mer övervakad användning av smartphone.</text:p>
+   <text:p text:style-name="P147">Är det möjligt att med en eller flera tillgängliga system och tjänster, eventuellt med egna tillägg, skapa en någorlunda säker och övervakad helhetslösning för användning av smartphone som är tillräckligt lättanvänd för att kunna implementeras av en av normalgraden teknikintresserad användare.</text:p>
+   <text:p text:style-name="P147">Kort sagt; hur pass säker och övervakad kan en Android-smartphone göras inom ramen för gratis programvara och utan ingrepp i enhetens operativsystem?</text:p>
+   <text:p text:style-name="P145"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1245_1085115739"/>Etiska och juridiska överväganden<text:bookmark-end text:name="__RefHeading___Toc1245_1085115739"/></text:h>
-   <text:p text:style-name="P147">Arbetsprocessen berör inte någon som helst personinformation. Data som presenteras handlar uteslutande om system- och tjänste-beskrivningar, installationsförfaranden, samt resultat och utvärderingar av dessa system och tjänster.</text:p>
-   <text:p text:style-name="P149">Gällande läsares egen användning av de system och tjänster som beskrivs i rapporten tas ifrån författarnas sida inget ansvar för eventuella lagöverträdelser.</text:p>
-   <text:p text:style-name="P146"/>
+   <text:p text:style-name="P146">Arbetsprocessen berör inte någon som helst personinformation. Data som presenteras handlar uteslutande om system- och tjänste-beskrivningar, installationsförfaranden, samt resultat och utvärderingar av dessa system och tjänster.</text:p>
+   <text:p text:style-name="P148">Gällande läsares egen användning av de system och tjänster som beskrivs i rapporten tas ifrån författarnas sida inget ansvar för eventuella lagöverträdelser.</text:p>
+   <text:p text:style-name="P145"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1247_1085115739"/><text:soft-page-break/>Verktyg / Program<text:bookmark-end text:name="__RefHeading___Toc1247_1085115739"/></text:h>
    <text:p text:style-name="P62">En tabell med en sammanfattning av de olika verktyg som ni avser att använda er av i arbetet, i tabellen bör framgå vilken produkt/typ det är frågan om, vilken version, samt en kort beskrivning.</text:p>
    <text:p text:style-name="P61"/>
