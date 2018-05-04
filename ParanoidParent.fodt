@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-04-09T09:31:13.483410744</meta:creation-date><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><dc:date>2018-05-04T09:04:24.153557869</dc:date><meta:editing-duration>PT15H46M31S</meta:editing-duration><meta:editing-cycles>104</meta:editing-cycles><meta:document-statistic meta:table-count="2" meta:image-count="16" meta:object-count="0" meta:page-count="29" meta:paragraph-count="246" meta:word-count="3504" meta:character-count="23941" meta:non-whitespace-character-count="20551"/></office:meta>
+ <office:meta><meta:creation-date>2018-04-09T09:31:13.483410744</meta:creation-date><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><dc:date>2018-05-04T09:11:52.306813493</dc:date><meta:editing-duration>PT15H53M59S</meta:editing-duration><meta:editing-cycles>105</meta:editing-cycles><meta:document-statistic meta:table-count="2" meta:image-count="16" meta:object-count="0" meta:page-count="32" meta:paragraph-count="246" meta:word-count="3647" meta:character-count="24776" meta:non-whitespace-character-count="21244"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">487415</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">492705</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">35116</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">16406</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">15632</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">19689</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">497390</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">11181</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">503925</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">487415</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">492705</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">35114</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">503820</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">508335</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -1366,6 +1366,9 @@
   </style:style>
   <style:style style:name="T71" style:family="text">
    <style:text-properties officeooo:rsid="00378ee0"/>
+  </style:style>
+  <style:style style:name="T72" style:family="text">
+   <style:text-properties fo:color="#800000"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none"/>
@@ -5805,13 +5808,13 @@
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Befintliga lösningar</text:h>
-   <text:p text:style-name="P150">De finns en hel del appar som delvis gör det som vi vill genomföra, men de som vi har sett hitintills har brustit i funktionalitet på ett eller annat sett. </text:p>
+   <text:p text:style-name="P150">De finns en hel del appar som delvis gör det som vi vill genomföra, men de som vi har sett hitintills har brustit i funktionalitet på ett eller annat sett. Till att börja med så undersöktes alternativ för att blockera samtal och sms. Dom flesta appar bygger på att göra en så kallad ”blacklist” som blockerar de nummer som förekommer i denna lista. Detta är inte önskvärt i vårat fall då det inte är rimligt att fylla i en sådan lista med alla nummer som man inte vill skall kunna kontakta telefonen, så vad vi eftersträvar är ett program som använder sig utav en ”whitelist” vilket istället för att blockera de samtal som finns i listan, endast tillåter de numer som finns i ”whitelist” och blockerar allt annat. Det finns även en del appar som har denna funktionalitet, men då brister de istället på andra saker, så som att funktionen är alldeles för lätt att stänga av. Vidare så har det i senare Android-versioner <text:span text:style-name="T72">[android version]</text:span> tillkommit en begränsning med användningen av sms-appar</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc581_640105787"/>VPN<text:bookmark-end text:name="__RefHeading___Toc581_640105787"/></text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"/>
    <text:p text:style-name="P26">OpenVPN <text:bibliography-mark text:identifier="oenvpn" text:bibliography-type="www" text:address="openvpn" text:title="OpenVPN" text:year="2018">[1]</text:bibliography-mark></text:p>
    <text:h text:style-name="P126" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc640_2943713897"/>Installationsförfarande OpenVPN-server Rasperry Pi (PiVPN)<text:bookmark-end text:name="__RefHeading___Toc640_2943713897"/></text:h>
    <text:p text:style-name="P74">Ett sätt att skapa en OpenVPN-server på RPI är att använda PiVPN vilket är ett installationsskript[?] med syftet att höra installationen så enkel som möjligt för RPI. </text:p>
-   <text:p text:style-name="P74">Genom kommandot curl -L https://install.pivpn.io | bash startas installationen, i vilken man anger Interface, enhetens IPv4-adress, gateway, användare, protokoll (UDP eller TCP), OpenVPN-port. Samt skapar nycklar baserat på vald storlek. Publik IP-adress eller publik DNS kan väljas mellan. Det senare är en fördel om IP-adress riskerar att ändras utanför ens egen kontroll. Se avsnitt NOIP.</text:p>
+   <text:p text:style-name="P74"><text:soft-page-break/>Genom kommandot curl -L https://install.pivpn.io | bash startas installationen, i vilken man anger Interface, enhetens IPv4-adress, gateway, användare, protokoll (UDP eller TCP), OpenVPN-port. Samt skapar nycklar baserat på vald storlek. Publik IP-adress eller publik DNS kan väljas mellan. Det senare är en fördel om IP-adress riskerar att ändras utanför ens egen kontroll. Se avsnitt NOIP.</text:p>
    <text:p text:style-name="P75"/>
    <text:h text:style-name="P126" text:outline-level="3" text:is-list-header="true"><draw:frame draw:style-name="fr6" draw:name="Bild1" text:anchor-type="paragraph" svg:width="17.59cm" svg:height="11.34cm" draw:z-index="12"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAApsAAAGuCAIAAAEnqGomAAAAAXNSR0IArs4c6QAAAARnQU1B
@@ -9362,7 +9365,7 @@
      </draw:image>
     </draw:frame><text:soft-page-break/></text:p>
    <text:p text:style-name="P143">En klient för automatisk uppdatering med aktuell IP-adress, när denna ändras, kan laddas ned från webben.</text:p>
-   <text:p text:style-name="P143"><draw:frame draw:style-name="fr4" draw:name="Bild6" text:anchor-type="paragraph" svg:width="16.29cm" svg:height="7.107cm" draw:z-index="17"><draw:image>
+   <text:p text:style-name="P143"><draw:frame draw:style-name="fr7" draw:name="Bild6" text:anchor-type="paragraph" svg:width="16.29cm" svg:height="7.107cm" draw:z-index="17"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABOEAAAIhCAIAAAHweAmkAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+lSURBVHhe7P1vVBzXme+L+915cd/4
        7X05r7KW38yaNz7rt+5ac8+a5Zyszrqe7jUBwqUTxj2a23c4ZnQM0WGkc5F8FmOPgi1igkxC
@@ -17472,9 +17475,9 @@
        WxCeKh0mIYQoyf8DyNNAwE1IHQMAAAAASUVORK5CYII=
       </office:binary-data>
      </draw:image>
-    </draw:frame></text:p>
+    </draw:frame><text:soft-page-break/></text:p>
    <text:p text:style-name="P44"/>
-   <text:p text:style-name="P44"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P44"/>
    <text:p text:style-name="P44"/>
    <text:p text:style-name="P44"/>
    <text:p text:style-name="P44"/>
@@ -20567,7 +20570,7 @@
        AABJRU5ErkJggg==
       </office:binary-data>
      </draw:image>
-    </draw:frame></text:p>
+    </draw:frame><text:soft-page-break/></text:p>
    <text:p text:style-name="P44"><draw:frame draw:style-name="fr4" draw:name="Image4" text:anchor-type="paragraph" svg:width="16.339cm" svg:height="3.447cm" draw:z-index="0"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA3sAAAC8CAYAAADByLdyAADbyUlEQVR4nOydB3wURRfA/3eX
        SyENCIQWhCAo0osgoggIIk1FOiJNUCIEEJDeQZCOIhKUjlIM5QOkCAjSDB1CLwmEhEBCGuk9
@@ -21616,11 +21619,11 @@
      </draw:image>
     </draw:frame></text:p>
    <text:p text:style-name="P39"/>
-   <text:p text:style-name="P38"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P38"/>
    <text:p text:style-name="P35"><text:span text:style-name="T44">sudo iptables -t nat -A PREROUTING -i tun0 -p tcp --dport 80 -j DNAT --to-destination 127.0.0.1:3128<text:line-break/>sudo iptables -t nat -A PREROUTING -i tun0 -p tcp --dport 443 -j DNAT --to-destination 127.0.0.1:312</text:span><text:span text:style-name="T49">8</text:span><text:span text:style-name="T44"><text:line-break/>sudo iptables -t nat -A POSTROUTING -o tun</text:span><text:span text:style-name="T48">0</text:span><text:span text:style-name="T44"> -j MASQUERADE</text:span></text:p>
    <text:p text:style-name="P52"/>
    <text:p text:style-name="P52"/>
-   <text:p text:style-name="P36">sudo iptables -t nat -A PREROUTING -i tun0 -p tcp --dport 80 -j REDIRECT --to-ports 3128<text:line-break/>sudo iptables -t nat -A PREROUTING -i tun0 -p tcp --dport 443 -j REDIRECT --to-ports 312<text:span text:style-name="T58">8</text:span><text:line-break/>sudo iptables -t nat -A POSTROUTING -o tun0 -j MASQUERADE</text:p>
+   <text:p text:style-name="P36"><text:soft-page-break/>sudo iptables -t nat -A PREROUTING -i tun0 -p tcp --dport 80 -j REDIRECT --to-ports 3128<text:line-break/>sudo iptables -t nat -A PREROUTING -i tun0 -p tcp --dport 443 -j REDIRECT --to-ports 312<text:span text:style-name="T58">8</text:span><text:line-break/>sudo iptables -t nat -A POSTROUTING -o tun0 -j MASQUERADE</text:p>
    <text:p text:style-name="P36"/>
    <text:p text:style-name="P83"># Generated by iptables-save v1.6.0 on Fri Apr 20 13:42:52 2018</text:p>
    <text:p text:style-name="P83">*filter</text:p>
