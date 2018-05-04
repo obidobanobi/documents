@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-04-09T09:31:13.483410744</meta:creation-date><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><dc:date>2018-05-04T09:11:52.306813493</dc:date><meta:editing-duration>PT15H53M59S</meta:editing-duration><meta:editing-cycles>105</meta:editing-cycles><meta:document-statistic meta:table-count="2" meta:image-count="16" meta:object-count="0" meta:page-count="32" meta:paragraph-count="246" meta:word-count="3647" meta:character-count="24776" meta:non-whitespace-character-count="21244"/></office:meta>
+ <office:meta><meta:creation-date>2018-04-09T09:31:13.483410744</meta:creation-date><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><dc:date>2018-05-04T09:23:15.243671383</dc:date><meta:editing-duration>PT16H5M20S</meta:editing-duration><meta:editing-cycles>109</meta:editing-cycles><meta:document-statistic meta:table-count="2" meta:image-count="16" meta:object-count="0" meta:page-count="35" meta:paragraph-count="257" meta:word-count="3817" meta:character-count="25757" meta:non-whitespace-character-count="22091"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">492705</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">525076</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">35116</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">15632</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16406</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">11181</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">503925</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">8763</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">116688</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">492705</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">525076</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">35114</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">508335</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">541480</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -279,6 +279,13 @@
   </style:style>
   <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
    <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Contents_20_4" style:display-name="Contents 4" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.498cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.092cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
   </style:style>
   <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
    <style:text-properties fo:color="#000080" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
@@ -1127,32 +1134,70 @@
   <style:style style:name="P158" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="000ca279" officeooo:paragraph-rsid="00330913"/>
   </style:style>
-  <style:style style:name="P159" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="001e2ccb" officeooo:paragraph-rsid="001e2ccb"/>
+  <style:style style:name="P159" style:family="paragraph" style:parent-style-name="Contents_20_1">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17.59cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P160" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="001eebc4" officeooo:paragraph-rsid="001eebc4"/>
+  <style:style style:name="P160" style:family="paragraph" style:parent-style-name="Contents_20_Heading">
+   <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P161" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="001fabad" officeooo:paragraph-rsid="001fabad"/>
+  <style:style style:name="P161" style:family="paragraph" style:parent-style-name="Contents_20_2">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17.09cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
   </style:style>
   <style:style style:name="P162" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:paragraph-rsid="003176e5"/>
+   <style:text-properties officeooo:rsid="001e2ccb" officeooo:paragraph-rsid="001e2ccb"/>
   </style:style>
   <style:style style:name="P163" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:text-properties officeooo:rsid="003502ca" officeooo:paragraph-rsid="003502ca"/>
+   <style:text-properties officeooo:rsid="001eebc4" officeooo:paragraph-rsid="001eebc4"/>
   </style:style>
   <style:style style:name="P164" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="001fabad" officeooo:paragraph-rsid="001fabad"/>
+  </style:style>
+  <style:style style:name="P165" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:paragraph-rsid="003176e5"/>
+  </style:style>
+  <style:style style:name="P166" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="003502ca" officeooo:paragraph-rsid="003502ca"/>
+  </style:style>
+  <style:style style:name="P167" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:text-properties officeooo:rsid="00368189" officeooo:paragraph-rsid="00368189"/>
   </style:style>
-  <style:style style:name="P165" style:family="paragraph" style:parent-style-name="Illustration_20_Index_20_Heading">
+  <style:style style:name="P168" style:family="paragraph" style:parent-style-name="Contents_20_3">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="16.591cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P169" style:family="paragraph" style:parent-style-name="Illustration_20_Index_20_Heading">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P166" style:family="paragraph" style:parent-style-name="Object_20_index_20_heading">
+  <style:style style:name="P170" style:family="paragraph" style:parent-style-name="Object_20_index_20_heading">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P167" style:family="paragraph" style:parent-style-name="Bibliography_20_Heading">
+  <style:style style:name="P171" style:family="paragraph" style:parent-style-name="Bibliography_20_Heading">
    <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P172" style:family="paragraph" style:parent-style-name="Illustration_20_Index_20_1">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17.59cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P173" style:family="paragraph" style:parent-style-name="Contents_20_4">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="16.092cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="0008c6df"/>
@@ -1368,6 +1413,9 @@
    <style:text-properties officeooo:rsid="00378ee0"/>
   </style:style>
   <style:style style:name="T72" style:family="text">
+   <style:text-properties officeooo:rsid="003a62fa"/>
+  </style:style>
+  <style:style style:name="T73" style:family="text">
    <style:text-properties fo:color="#800000"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
@@ -1582,46 +1630,51 @@
      </text:index-title>
      <text:p text:style-name="P109"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc115_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Sammanfattning<text:tab/>1</text:a></text:p>
      <text:p text:style-name="P109"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc113_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Abstract<text:tab/>2</text:a></text:p>
-     <text:p text:style-name="P109"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1117_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Illustrationsförteckning<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P109"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1119_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Bilageförteckning<text:tab/>5</text:a></text:p>
-     <text:p text:style-name="P109"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1121_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Ordlista<text:tab/>6</text:a></text:p>
-     <text:p text:style-name="P109"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc326_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1 <text:s/>Inledning<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc537_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.1 <text:s/>Bakgrund<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1330_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.2 <text:s/>Arbetsfördelning<text:tab/>7</text:a></text:p>
-     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc549_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.3 <text:s/>Syfte<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc551_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.4 <text:s/>Avgränsningar<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1243_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.5 <text:s/>Frågeställningar<text:tab/>9</text:a></text:p>
-     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1245_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.6 <text:s/>Etiska och juridiska överväganden<text:tab/>9</text:a></text:p>
-     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1247_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.7 <text:s/>Verktyg / Program<text:tab/>10</text:a></text:p>
-     <text:p text:style-name="P109"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc553_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2 <text:s/>Metod och Genomförande<text:tab/>11</text:a></text:p>
-     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc555_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1 <text:s/>Teori<text:tab/>11</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1118_1006080182" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.1 <text:s/>VPN<text:tab/>11</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1539_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.2 <text:s/>Port forwarding<text:tab/>12</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1541_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.3 <text:s/>PAT<text:tab/>12</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1543_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.4 <text:s/>DNS / DynDNS<text:tab/>12</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1545_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.5 <text:s/>Content Filter<text:tab/>12</text:a></text:p>
-     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc939_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2 <text:s/>Tillvägagångssätt<text:tab/>13</text:a></text:p>
-     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc557_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.3 <text:s/>Testmiljö 1 - Virtuell<text:tab/>13</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc559_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.3.1 <text:s/>Linux<text:tab/>13</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc571_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.3.2 <text:s/>VirtualBox för Linux-distro<text:tab/>13</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc573_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.3.3 <text:s/>GNS3 för Linux-distro<text:tab/>15</text:a></text:p>
-     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1249_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.4 <text:s/>Testmiljö 2 - Fysisk<text:tab/>15</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc575_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.4.1 <text:s/>Raspberry Pi<text:tab/>15</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc632_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.4.2 <text:s/>Raspbian (OS)<text:tab/>16</text:a></text:p>
-     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1251_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5 <text:s/>Mjukvaror / Tjänster<text:tab/>16</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc634_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.1 <text:s/>OpenVPN<text:tab/>16</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc636_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.2 <text:s/>Dynamisk DNS<text:tab/>17</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc638_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.3 <text:s/>OpenDNS<text:tab/>17</text:a></text:p>
-     <text:p text:style-name="P109"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc577_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3 <text:s/>Resultat och Analys<text:tab/>18</text:a></text:p>
-     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc579_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.1 <text:s/>Android<text:tab/>18</text:a></text:p>
-     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc581_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2 <text:s/>VPN<text:tab/>18</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc640_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2.2 <text:s/>Installationsförfarande OpenVPN-server Rasperry Pi (PiVPN)<text:tab/>18</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1547_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2.3 <text:s/>Installationsförfarande NOIP-klient RPI<text:tab/>20</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc642_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2.4 <text:s/>Installationsförfarande OpenVPN-klient Android<text:tab/>25</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1549_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2.5 <text:s/>Att använda OpenDNS för OpenVPN-server på RPI<text:tab/>27</text:a></text:p>
-     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1320_1102001043" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.3 <text:s/>Innehållsfiltrering<text:tab/>29</text:a></text:p>
-     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc449_1767216109" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.3.1 <text:s/>E2guardian Web filtering och Squid (web proxy)<text:tab/>29</text:a></text:p>
-     <text:p text:style-name="P109"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1268_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Litteraturförteckning<text:tab/>32</text:a></text:p>
+     <text:p text:style-name="P109"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1117_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Illustrationsförteckning<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P109"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1119_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Bilageförteckning<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P109"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1121_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Ordlista<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P109"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc326_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1 Inledning<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc537_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.1 Bakgrund<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1330_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.2 Arbetsfördelning<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc549_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.3 Syfte<text:tab/>9</text:a></text:p>
+     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc551_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.4 Avgränsningar<text:tab/>9</text:a></text:p>
+     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1243_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.5 Frågeställningar<text:tab/>10</text:a></text:p>
+     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1245_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.6 Etiska och juridiska överväganden<text:tab/>10</text:a></text:p>
+     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1247_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>1.7 Verktyg / Program<text:tab/>11</text:a></text:p>
+     <text:p text:style-name="P109"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc553_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2 Metod och Genomförande<text:tab/>12</text:a></text:p>
+     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc555_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1 Teori<text:tab/>12</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1118_1006080182" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.1 VPN<text:tab/>12</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1539_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.2 Port forwarding<text:tab/>13</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1541_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.3 PAT<text:tab/>13</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1543_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.4 DNS / DynDNS<text:tab/>13</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1545_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.1.5 Content Filter<text:tab/>13</text:a></text:p>
+     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc939_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.2 Tillvägagångssätt<text:tab/>14</text:a></text:p>
+     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc557_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.3 Testmiljö 1 - Virtuell<text:tab/>14</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc559_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.3.1 Linux<text:tab/>14</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc571_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.3.2 VirtualBox för Linux-distro<text:tab/>14</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc573_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.3.3 GNS3 för Linux-distro<text:tab/>16</text:a></text:p>
+     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1249_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.4 Testmiljö 2 - Fysisk<text:tab/>16</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc575_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.4.1 Raspberry Pi<text:tab/>16</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc632_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.4.2 Raspbian (OS)<text:tab/>17</text:a></text:p>
+     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1251_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5 Mjukvaror / Tjänster<text:tab/>17</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc634_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.1 OpenVPN<text:tab/>17</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc636_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.2 Dynamisk DNS<text:tab/>18</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc638_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>2.5.3 OpenDNS<text:tab/>18</text:a></text:p>
+     <text:p text:style-name="P109"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc577_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3 Resultat och Analys<text:tab/>19</text:a></text:p>
+     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc579_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.1 Android<text:tab/>19</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1414_1453175734" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.1.1 Kravspecifikationer<text:tab/>19</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1416_1453175734" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.1.2 Befintliga lösningar<text:tab/>19</text:a></text:p>
+     <text:p text:style-name="P173"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1418_1453175734" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.1.2.1 SMS / Samtal<text:tab/>19</text:a></text:p>
+     <text:p text:style-name="P173"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1450_1453175734" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.1.2.2 Förhindra att appar stängs ner<text:tab/>20</text:a></text:p>
+     <text:p text:style-name="P173"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1452_1453175734" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.1.2.3 Förhindra kör otillåtna program / ändrar inställningar<text:tab/>20</text:a></text:p>
+     <text:p text:style-name="P108"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc581_640105787" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2 VPN<text:tab/>20</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc640_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2.2 Installationsförfarande OpenVPN-server Rasperry Pi (PiVPN)<text:tab/>20</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1547_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2.3 Installationsförfarande NOIP-klient RPI<text:tab/>23</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc642_2943713897" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2.4 Installationsförfarande OpenVPN-klient Android<text:tab/>25</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1549_899685330" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.2.5 Att använda OpenDNS för OpenVPN-server på RPI<text:tab/>29</text:a></text:p>
+     <text:p text:style-name="P108"><text:soft-page-break/><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1320_1102001043" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.3 Innehållsfiltrering<text:tab/>31</text:a></text:p>
+     <text:p text:style-name="P114"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc449_1767216109" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>3.3.1 E2guardian Web filtering och Squid (web proxy)<text:tab/>31</text:a></text:p>
+     <text:p text:style-name="P109"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1268_1085115739" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Litteraturförteckning<text:tab/>35</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
    <text:p text:style-name="P2"/>
@@ -1637,11 +1690,11 @@
     </text:illustration-index-source>
     <text:index-body>
      <text:index-title text:style-name="Sect1" text:name="Illustration Index1_Head">
-      <text:h text:style-name="P105" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1117_1085115739"/>Illustrationsförteckning<text:bookmark-end text:name="__RefHeading___Toc1117_1085115739"/></text:h>
+      <text:p text:style-name="P105">Illustrationsförteckning</text:p>
      </text:index-title>
-     <text:p text:style-name="P133"><text:a xlink:type="simple" xlink:href="#Illustration!0|sequence" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>Illustration 1: Två stycken virtuella datorer<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P133"><text:a xlink:type="simple" xlink:href="#Illustration!1|sequence" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>Illustration 2: Två stycken nätverkskort är nödvändigt<text:tab/>9</text:a></text:p>
-     <text:p text:style-name="P133"><text:a xlink:type="simple" xlink:href="#Illustration!2|sequence" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>Illustration 3: asdasdasd<text:tab/>10</text:a></text:p>
+     <text:p text:style-name="P133"><text:s/>Illustration 1: Två stycken virtuella datorer<text:tab/>15</text:p>
+     <text:p text:style-name="P133"><text:s/>Illustration 2: Två stycken nätverkskort är nödvändigt för att kunna använda datorn som en router.<text:tab/>15</text:p>
+     <text:p text:style-name="P133"><text:s/>Illustration 3: asdasdasd<text:tab/>16</text:p>
     </text:index-body>
    </text:illustration-index>
    <text:h text:style-name="P152" text:outline-level="1"/>
@@ -5791,7 +5844,7 @@
    <text:h text:style-name="P99" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc577_640105787"/><text:bookmark text:name="docs-internal-guid-cca4b15b-a9a7-01b3-5ea1-5bd31bd21c4f"/>Resultat <text:span text:style-name="T59">och Analys</text:span><text:bookmark-end text:name="__RefHeading___Toc577_640105787"/></text:h>
    <text:p text:style-name="Horizontal_20_Line"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc579_640105787"/><text:bookmark text:name="docs-internal-guid-dff6e8a1-a9a7-4f15-7220-21bed7f9f73d"/>Android<text:bookmark-end text:name="__RefHeading___Toc579_640105787"/></text:h>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">Kravspecifikationer </text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1414_1453175734"/>Kravspecifikationer <text:bookmark-end text:name="__RefHeading___Toc1414_1453175734"/></text:h>
    <text:p text:style-name="P150">För att får till den funktionalitet som vi eftersträvar så kommer här en rad med specifikationer som skall implementeras i lösningen. </text:p>
    <text:list xml:id="list2774491829910792363" text:style-name="L1">
     <text:list-item>
@@ -5807,14 +5860,21 @@
      <text:p text:style-name="P149">asd</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">Befintliga lösningar</text:h>
-   <text:p text:style-name="P150">De finns en hel del appar som delvis gör det som vi vill genomföra, men de som vi har sett hitintills har brustit i funktionalitet på ett eller annat sett. Till att börja med så undersöktes alternativ för att blockera samtal och sms. Dom flesta appar bygger på att göra en så kallad ”blacklist” som blockerar de nummer som förekommer i denna lista. Detta är inte önskvärt i vårat fall då det inte är rimligt att fylla i en sådan lista med alla nummer som man inte vill skall kunna kontakta telefonen, så vad vi eftersträvar är ett program som använder sig utav en ”whitelist” vilket istället för att blockera de samtal som finns i listan, endast tillåter de numer som finns i ”whitelist” och blockerar allt annat. Det finns även en del appar som har denna funktionalitet, men då brister de istället på andra saker, så som att funktionen är alldeles för lätt att stänga av. Vidare så har det i senare Android-versioner <text:span text:style-name="T72">[android version]</text:span> tillkommit en begränsning med användningen av sms-appar</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1416_1453175734"/>Befintliga lösningar<text:bookmark-end text:name="__RefHeading___Toc1416_1453175734"/></text:h>
+   <text:p text:style-name="P150">De finns en hel del appar som delvis gör det som vi vill genomföra, men de som vi har sett hitintills har brustit i funktionalitet på ett eller annat sett. </text:p>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc1418_1453175734"/>SMS / Samtal<text:bookmark-end text:name="__RefHeading___Toc1418_1453175734"/></text:h>
+   <text:p text:style-name="P150">Till att börja med så undersöktes alternativ för att blockera samtal och sms. Dom flesta appar bygger på att göra en så kallad ”blacklist” som blockerar de nummer som förekommer i denna lista. Detta är inte önskvärt i vårat fall då det inte är rimligt att fylla i en sådan lista med alla nummer som man inte vill skall kunna kontakta telefonen, så vad vi eftersträvar är ett program som använder sig utav en ”whitelist” vilket istället för att blockera de samtal som finns i listan, endast tillåter de numer som finns i ”whitelist” och blockerar allt annat. Det finns även en del appar som har denna funktionalitet, men då brister de istället på andra saker, så som att funktionen är alldeles för lätt att stänga av. Vidare så har det i senare Android-versioner <text:span text:style-name="T73">[android version]</text:span> tillkommit en begränsning med användningen av sms-appar: man kan bara ha en sms-app igång som kan ta emot sms åt gången. Detta betyder att man inte längre kan göra en app som blockerar sms ifrån angivna nummer och överlåter ansvaret för läsning och skrivning av sms till tillåtna nummer via en annan app. Resultatet av de är att om man vill kunna blockera sms och samtidigt använda sig utav sms-funktionaliteten så är man tvungen att skapa en fullt fungerande sms-app för just detta ändamål. Då bristerna i de befintliga apparna som finns på marknaden idag gör så att vi är tvungna att implementera en egen lösning så får vi i detta fall begränsa oss till att helt blockera sms-funktionaliteten.</text:p>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc1450_1453175734"/><text:soft-page-break/>Förhindra att appar stängs ner<text:bookmark-end text:name="__RefHeading___Toc1450_1453175734"/></text:h>
+   <text:p text:style-name="P150">To do… </text:p>
+   <text:p text:style-name="P150"/>
+   <text:h text:style-name="Heading_20_4" text:outline-level="4"><text:bookmark-start text:name="__RefHeading___Toc1452_1453175734"/>Förhindra kör otillåtna program / <text:span text:style-name="T72">ändrar inställningar</text:span><text:bookmark-end text:name="__RefHeading___Toc1452_1453175734"/></text:h>
+   <text:p text:style-name="P150">To do.. </text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc581_640105787"/>VPN<text:bookmark-end text:name="__RefHeading___Toc581_640105787"/></text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"/>
    <text:p text:style-name="P26">OpenVPN <text:bibliography-mark text:identifier="oenvpn" text:bibliography-type="www" text:address="openvpn" text:title="OpenVPN" text:year="2018">[1]</text:bibliography-mark></text:p>
    <text:h text:style-name="P126" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc640_2943713897"/>Installationsförfarande OpenVPN-server Rasperry Pi (PiVPN)<text:bookmark-end text:name="__RefHeading___Toc640_2943713897"/></text:h>
    <text:p text:style-name="P74">Ett sätt att skapa en OpenVPN-server på RPI är att använda PiVPN vilket är ett installationsskript[?] med syftet att höra installationen så enkel som möjligt för RPI. </text:p>
-   <text:p text:style-name="P74"><text:soft-page-break/>Genom kommandot curl -L https://install.pivpn.io | bash startas installationen, i vilken man anger Interface, enhetens IPv4-adress, gateway, användare, protokoll (UDP eller TCP), OpenVPN-port. Samt skapar nycklar baserat på vald storlek. Publik IP-adress eller publik DNS kan väljas mellan. Det senare är en fördel om IP-adress riskerar att ändras utanför ens egen kontroll. Se avsnitt NOIP.</text:p>
+   <text:p text:style-name="P74">Genom kommandot curl -L https://install.pivpn.io | bash startas installationen, i vilken man anger Interface, enhetens IPv4-adress, gateway, användare, protokoll (UDP eller TCP), OpenVPN-port. Samt skapar nycklar baserat på vald storlek. Publik IP-adress eller publik DNS kan väljas mellan. Det senare är en fördel om IP-adress riskerar att ändras utanför ens egen kontroll. Se avsnitt NOIP.</text:p>
    <text:p text:style-name="P75"/>
    <text:h text:style-name="P126" text:outline-level="3" text:is-list-header="true"><draw:frame draw:style-name="fr6" draw:name="Bild1" text:anchor-type="paragraph" svg:width="17.59cm" svg:height="11.34cm" draw:z-index="12"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAApsAAAGuCAIAAAEnqGomAAAAAXNSR0IArs4c6QAAAARnQU1B
@@ -7938,7 +7998,7 @@
    <text:p text:style-name="P97">Kommandot pivpn add används sedan för att skapa ovpn-profiler. Genererad fil laddas sedan ned till klientenheten.</text:p>
    <text:p text:style-name="P97">Port-forward krävs vid NAT:ad router. <text:span text:style-name="T67">En statisk IP-adress för RPI kan också rekommenderas för att Port-forward ska riktas mot rätt enhet.</text:span></text:p>
    <text:p text:style-name="P98">För konfigurering i efterhand kan ändringar göras i filen etc/openvpn/server.conf</text:p>
-   <text:h text:style-name="P131" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1547_899685330"/>Installationsförfarande NOIP-klient RPI<text:bookmark-end text:name="__RefHeading___Toc1547_899685330"/></text:h>
+   <text:h text:style-name="P131" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1547_899685330"/><text:soft-page-break/>Installationsförfarande NOIP-klient RPI<text:bookmark-end text:name="__RefHeading___Toc1547_899685330"/></text:h>
    <text:p text:style-name="P141">Vissa hemmaroutrar stödjer dynamiska DNS-tjänster men alla är inte ett gratis att använda. Ett gratis-alternativ är NO-IP (noip.com). På webbsidan kan man registrera sig för ett gratis konto.</text:p>
    <text:p text:style-name="P143"/>
    <text:p text:style-name="P143"><draw:frame draw:style-name="fr7" draw:name="Bild5" text:anchor-type="paragraph" svg:width="16.29cm" svg:height="9.435cm" draw:z-index="16"><draw:image>
@@ -9363,7 +9423,7 @@
        uUs1d9eB/z/q9oDP009daQAAAABJRU5ErkJggg==
       </office:binary-data>
      </draw:image>
-    </draw:frame><text:soft-page-break/></text:p>
+    </draw:frame></text:p>
    <text:p text:style-name="P143">En klient för automatisk uppdatering med aktuell IP-adress, när denna ändras, kan laddas ned från webben.</text:p>
    <text:p text:style-name="P143"><draw:frame draw:style-name="fr7" draw:name="Bild6" text:anchor-type="paragraph" svg:width="16.29cm" svg:height="7.107cm" draw:z-index="17"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABOEAAAIhCAIAAAHweAmkAAAAAXNSR0IArs4c6QAAAARnQU1B
@@ -10589,10 +10649,10 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P144">För insallation sudo tar xzf noip-duc-linux.tar.gz följt av sudo make install. Nätverksenhet, inloggningsuppgifter och vilken ”host” man vill använda väljs. Tjänsten startas med noip2.</text:p>
+   <text:p text:style-name="P144"><text:soft-page-break/>För insallation sudo tar xzf noip-duc-linux.tar.gz följt av sudo make install. Nätverksenhet, inloggningsuppgifter och vilken ”host” man vill använda väljs. Tjänsten startas med noip2.</text:p>
    <text:p text:style-name="P143"/>
    <text:p text:style-name="P143"/>
-   <text:p text:style-name="P143"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P143"/>
    <text:p text:style-name="P143"><draw:frame draw:style-name="fr4" draw:name="Bild7" text:anchor-type="paragraph" svg:width="16.29cm" svg:height="9.991cm" draw:z-index="18"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAoQAAAGLCAIAAAGmbCTGAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAFMcSURBVHhe7Z1LctswEoZzB9/AS628
@@ -10992,7 +11052,7 @@
        AADAymAwBgAAAFYGgzEAAACwMhiMAQAAgJXhwfh///s/i197MB2+fz0AAAAASUVORK5CYII=
       </office:binary-data>
      </draw:image>
-    </draw:frame></text:p>
+    </draw:frame><text:soft-page-break/></text:p>
    <text:p text:style-name="P143"/>
    <text:p text:style-name="P144">För att försäkra sig om att noip2 även startar efter en omstart av RPI kan man till exempel lägga till denna tjänst i crontab: @reboot sleep 25 &amp;&amp; noip2</text:p>
    <text:p text:style-name="P143"/>
@@ -17475,9 +17535,9 @@
        WxCeKh0mIYQoyf8DyNNAwE1IHQMAAAAASUVORK5CYII=
       </office:binary-data>
      </draw:image>
-    </draw:frame><text:soft-page-break/></text:p>
+    </draw:frame></text:p>
    <text:p text:style-name="P44"/>
-   <text:p text:style-name="P44"/>
+   <text:p text:style-name="P44"><text:soft-page-break/></text:p>
    <text:p text:style-name="P44"/>
    <text:p text:style-name="P44"/>
    <text:p text:style-name="P44"/>
