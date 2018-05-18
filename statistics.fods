@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2018-05-18T07:51:57.943971306</meta:creation-date><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><dc:date>2018-05-18T08:43:25.210127766</dc:date><meta:editing-duration>PT14M3S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:document-statistic meta:table-count="1" meta:cell-count="444" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2018-05-18T07:51:57.943971306</meta:creation-date><meta:generator>LibreOffice/6.0.3.2$Windows_X86_64 LibreOffice_project/8f48d515416608e3a835360314dac7e47fd0b821</meta:generator><dc:date>2018-05-18T10:29:16.768000000</dc:date><meta:editing-duration>PT22M7S</meta:editing-duration><meta:editing-cycles>7</meta:editing-cycles><meta:document-statistic meta:table-count="1" meta:cell-count="579" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">451</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">2257</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">68596</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">21675</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">24384</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Blad1">
        <config:config-item config:name="CursorPositionX" config:type="int">6</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">16</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">3</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">1</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">5</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
@@ -28,10 +28,11 @@
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
      <config:config-item config:name="ActiveTable" config:type="string">Blad1</config:config-item>
-     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1859</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1840</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -52,39 +53,49 @@
      <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
      <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
      <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
-   <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
-   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
    <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RasterResolutionX" config:type="int">1000</config:config-item>
    <config:config-item config:name="RasterResolutionY" config:type="int">1000</config:config-item>
-   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
-   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
-   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
    <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
-   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">kAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAtgAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6TGV0dGVyAAASAENPTVBBVF9EVVBMRVhfTU9ERQoARFVQTEVYX09GRg==</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Canon MG6800 series Printer WS</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">VQb+/0Nhbm9uIE1HNjgwMCBzZXJpZXMgUHJpbnRlciBXUwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ2Fub24gSW5ramV0IFR5cGU0IENsYXNzIERyaXZlcgAWAAEAdgUAAAAAAAAIAFZUAAAkbQAAM1ROVwAAAAAKAEMAYQBuAG8AbgAgAE0ARwA2ADgAMAAwACAAcwBlAHIAaQBlAHMAIABQAHIAaQBuAHQAZQByACAAVwBTAAAAAAABBAMG3ACQBEO/AAIBAAEA6gpvCGQAAQAPAFgCAgABAFgCAwABAEwAZQB0AHQAZQByAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAIAAAABAAAA/////0dJUzQAAAAAAAAAAAAAAABESU5VIgAYAnQEHAAtWjQGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAAEAAAAAAAEAAAACAAEAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAIAAFNNVEoAAAAAEAAIAnsAQgBFADEAQgAxAEMAMQA3AC0AOABGADYAMgAtADQAQwA5AEEALQA5AEIAOQA3AC0AOAAxADAAOABFAEEAQgBFAEIARQAwAEMAfQAAAElucHV0QmluAEZPUk1TT1VSQ0UAUkVTRExMAFVuaXJlc0RMTABKb2JOVXBBbGxEb2N1bWVudHNDb250aWd1b3VzbHkAMQBPcmllbnRhdGlvbgBQT1JUUkFJVABDb2xsYXRlAE9OAER1cGxleABOT05FAEpvYkR1cGxleE1vZGUAQXV0b21hdGljAFJlc29sdXRpb24AcjYwMHg2MDAAQ29sb3JNb2RlAENvbG9yAFBhcGVyU2l6ZQBBNABQYWdlQm9yZGVybGVzcwBOb25lAE1lZGlhVHlwZQBTVEFOREFSRABIYWxmdG9uZQBIVF9QQVRTSVpFX0FVVE8AUGFnZU91dHB1dFF1YWxpdHkAQXV0b21hdGljAFBhZ2VSZWR1Y2VTcG9vbFNpemUAT0ZGAEpvYlBhZ2VPcmRlcgBSZXZlcnNlAEpvYkRyaXZlclR5cGUAQ2xhc3NEcml2ZXIASm9iTWFyZ2luVHlwZQBNYXJnaW5UeXBlMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAAVjRETQEAAAAAAAAAAAAAAAAAAAAAAAAAEgBDT01QQVRfRFVQTEVYX01PREUPAER1cGxleE1vZGU6Ok9mZg==</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">sv</config:config-item>
+     <config:config-item config:name="Country" config:type="string">SE</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -98,6 +109,8 @@
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Segoe UI" svg:font-family="&apos;Segoe UI&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="WenQuanYi Micro Hei" svg:font-family="&apos;WenQuanYi Micro Hei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
@@ -123,6 +136,60 @@
   </number:currency-style>
   <style:style style:name="Default" style:family="table-cell">
    <style:text-properties style:font-name-asian="WenQuanYi Micro Hei" style:font-family-asian="&apos;WenQuanYi Micro Hei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Heading_20__28_user_29_" style:display-name="Heading (user)" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:color="#000000" fo:font-size="24pt" fo:font-style="normal" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="table-cell" style:parent-style-name="Heading_20__28_user_29_">
+   <style:text-properties fo:color="#000000" fo:font-size="18pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="table-cell" style:parent-style-name="Heading_20__28_user_29_">
+   <style:text-properties fo:color="#000000" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Text" style:family="table-cell" style:parent-style-name="Default"/>
+  <style:style style:name="Note" style:family="table-cell" style:parent-style-name="Text">
+   <style:table-cell-properties fo:background-color="#ffffcc" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border="0.74pt solid #808080"/>
+   <style:text-properties fo:color="#333333" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="table-cell" style:parent-style-name="Text">
+   <style:text-properties fo:color="#808080" fo:font-size="10pt" fo:font-style="italic" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Hyperlink" style:family="table-cell" style:parent-style-name="Text">
+   <style:text-properties fo:color="#0000ee" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="#0000ee" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Status" style:family="table-cell" style:parent-style-name="Default"/>
+  <style:style style:name="Good" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ccffcc"/>
+   <style:text-properties fo:color="#006600" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Neutral" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffffcc"/>
+   <style:text-properties fo:color="#996600" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Bad" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffcccc"/>
+   <style:text-properties fo:color="#cc0000" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Warning" style:family="table-cell" style:parent-style-name="Status">
+   <style:text-properties fo:color="#cc0000" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Error" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#cc0000"/>
+   <style:text-properties fo:color="#ffffff" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Accent" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:color="#000000" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Accent_20_1" style:display-name="Accent 1" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#000000"/>
+   <style:text-properties fo:color="#ffffff" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Accent_20_2" style:display-name="Accent 2" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#808080"/>
+   <style:text-properties fo:color="#ffffff" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Accent_20_3" style:display-name="Accent 3" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#dddddd"/>
   </style:style>
   <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default">
    <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold"/>
@@ -220,6 +287,9 @@
     </style:header-footer-properties>
    </style:footer-style>
   </style:page-layout>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="10pt" fo:font-weight="normal" style:text-underline-style="none" style:text-underline-color="font-color" style:text-line-through-type="none" fo:font-style="normal" style:text-outline="false" fo:text-shadow="none" style:text-line-through-mode="continuous" fo:language="sv" fo:country="SE" style:language-asian="zh" style:country-asian="CN" style:language-complex="hi" style:country-complex="IN" style:font-name-asian="WenQuanYi Micro Hei" style:font-name-complex="Lohit Devanagari" style:font-size-asian="10pt" style:font-size-complex="10pt" style:font-weight-asian="normal" style:font-weight-complex="normal" style:font-style-asian="normal" style:font-style-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
  </office:automatic-styles>
  <office:master-styles>
   <style:master-page style:name="Default" style:page-layout-name="pm1">
@@ -235,15 +305,15 @@
   <style:master-page style:name="Report" style:page-layout-name="pm2">
    <style:header>
     <style:region-left>
-     <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
+     <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2018-05-18">0000-00-00</text:date>, <text:time style:data-style-name="N2" text:time-value="08:43:07.214783021">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2018-05-18">0000-00-00</text:date>, <text:time style:data-style-name="N2" text:time-value="09:55:58.506000000">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
    <style:footer>
-    <text:p>Sida <text:page-number>1</text:page-number> / <text:page-count>99</text:page-count></text:p>
+    <text:p>Sida <text:page-number>1</text:page-number><text:s/>/ <text:page-count>99</text:page-count></text:p>
    </style:footer>
    <style:footer-left style:display="false"/>
   </style:master-page>
@@ -395,13 +465,13 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Wifi</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce11" table:formula="of:=[.C17]" office:value-type="float" office:value="33.605" calcext:value-type="float">
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.C18]" office:value-type="float" office:value="33.605" calcext:value-type="float">
       <text:p>33,61</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce11" table:formula="of:=[.D17]" office:value-type="float" office:value="36.51" calcext:value-type="float">
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.D18]" office:value-type="float" office:value="36.51" calcext:value-type="float">
       <text:p>36,51</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce11" table:formula="of:=[.E17]" office:value-type="float" office:value="20.195" calcext:value-type="float">
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.E18]" office:value-type="float" office:value="20.195" calcext:value-type="float">
       <text:p>20,20</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -418,13 +488,13 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Wifi</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce11" table:formula="of:=[.M17]" office:value-type="float" office:value="49.74" calcext:value-type="float">
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.M18]" office:value-type="float" office:value="49.74" calcext:value-type="float">
       <text:p>49,74</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce11" table:formula="of:=[.N17]" office:value-type="float" office:value="54.8925" calcext:value-type="float">
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.N18]" office:value-type="float" office:value="54.8925" calcext:value-type="float">
       <text:p>54,89</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce11" table:formula="of:=[.O17]" office:value-type="float" office:value="11.6" calcext:value-type="float">
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.O18]" office:value-type="float" office:value="11.6" calcext:value-type="float">
       <text:p>11,60</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -441,13 +511,13 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Wifi</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce11" table:formula="of:=[.W17]" office:value-type="float" office:value="29.565" calcext:value-type="float">
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.W18]" office:value-type="float" office:value="29.565" calcext:value-type="float">
       <text:p>29,57</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce11" table:formula="of:=[.X17]" office:value-type="float" office:value="36.7675" calcext:value-type="float">
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.X18]" office:value-type="float" office:value="36.7675" calcext:value-type="float">
       <text:p>36,77</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce11" table:formula="of:=[.Y17]" office:value-type="float" office:value="28.125" calcext:value-type="float">
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.Y18]" office:value-type="float" office:value="28.125" calcext:value-type="float">
       <text:p>28,13</text:p>
      </table:table-cell>
     </table:table-row>
@@ -466,13 +536,13 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Mobilt VPN PI</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.C25]" office:value-type="float" office:value="17.7575" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.C27]" office:value-type="float" office:value="17.7575" calcext:value-type="float">
       <text:p>17,76</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.D25]" office:value-type="float" office:value="9.24" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.D27]" office:value-type="float" office:value="9.24" calcext:value-type="float">
       <text:p>9,24</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.E25]" office:value-type="float" office:value="61.8575" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.E27]" office:value-type="float" office:value="61.8575" calcext:value-type="float">
       <text:p>61,86</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -489,13 +559,13 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Mobilt VPN PI</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.M25]" office:value-type="float" office:value="15.7775" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.M27]" office:value-type="float" office:value="15.7775" calcext:value-type="float">
       <text:p>15,78</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.N25]" office:value-type="float" office:value="8.6925" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.N27]" office:value-type="float" office:value="8.6925" calcext:value-type="float">
       <text:p>8,69</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.O25]" office:value-type="float" office:value="61.055" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.O27]" office:value-type="float" office:value="61.055" calcext:value-type="float">
       <text:p>61,06</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -506,13 +576,13 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Mobilt VPN PI</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.W25]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.W27]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0,00</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.X25]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.X27]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0,00</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.Y25]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.Y27]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0,00</text:p>
      </table:table-cell>
     </table:table-row>
@@ -531,13 +601,13 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Wifi VPN Pi</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.C33]" office:value-type="float" office:value="17.5225" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.C36]" office:value-type="float" office:value="17.5225" calcext:value-type="float">
       <text:p>17,52</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.D33]" office:value-type="float" office:value="24.25" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.D36]" office:value-type="float" office:value="24.25" calcext:value-type="float">
       <text:p>24,25</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.E33]" office:value-type="float" office:value="48.665" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.E36]" office:value-type="float" office:value="48.665" calcext:value-type="float">
       <text:p>48,67</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -554,13 +624,13 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Wifi VPN Pi</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.M33]" office:value-type="float" office:value="36.4975" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.M36]" office:value-type="float" office:value="36.4975" calcext:value-type="float">
       <text:p>36,50</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.N33]" office:value-type="float" office:value="38.985" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.N36]" office:value-type="float" office:value="38.985" calcext:value-type="float">
       <text:p>38,99</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.O33]" office:value-type="float" office:value="15.325" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.O36]" office:value-type="float" office:value="15.325" calcext:value-type="float">
       <text:p>15,33</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -571,13 +641,13 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Wifi VPN Pi</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.W33]" office:value-type="float" office:value="17.135" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.W36]" office:value-type="float" office:value="17.135" calcext:value-type="float">
       <text:p>17,14</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.X33]" office:value-type="float" office:value="22.335" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.X36]" office:value-type="float" office:value="22.335" calcext:value-type="float">
       <text:p>22,34</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.Y33]" office:value-type="float" office:value="16.4675" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.Y36]" office:value-type="float" office:value="16.4675" calcext:value-type="float">
       <text:p>16,47</text:p>
      </table:table-cell>
     </table:table-row>
@@ -596,13 +666,13 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Mobilt VPN ”snabb</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.C41]" office:value-type="float" office:value="19.8475" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.C45]" office:value-type="float" office:value="19.8475" calcext:value-type="float">
       <text:p>19,85</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.D41]" office:value-type="float" office:value="12.69" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.D45]" office:value-type="float" office:value="12.69" calcext:value-type="float">
       <text:p>12,69</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.E41]" office:value-type="float" office:value="61.3625" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.E45]" office:value-type="float" office:value="61.3625" calcext:value-type="float">
       <text:p>61,36</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -619,13 +689,13 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Mobilt VPN ”snabb</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.M41]" office:value-type="float" office:value="20.0475" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.M45]" office:value-type="float" office:value="20.0475" calcext:value-type="float">
       <text:p>20,05</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.N41]" office:value-type="float" office:value="4.9925" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.N45]" office:value-type="float" office:value="4.9925" calcext:value-type="float">
       <text:p>4,99</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.O41]" office:value-type="float" office:value="59.08" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.O45]" office:value-type="float" office:value="59.08" calcext:value-type="float">
       <text:p>59,08</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -636,13 +706,13 @@
      <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
       <text:p>Mobilt VPN ”snabb</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.W41]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.W45]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0,00</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.X41]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.X45]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0,00</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce12" table:formula="of:=[.Y41]" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.Y45]" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0,00</text:p>
      </table:table-cell>
     </table:table-row>
@@ -661,13 +731,13 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Wifi VPN ”snabb”</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.C49]" office:value-type="float" office:value="23.275" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.C54]" office:value-type="float" office:value="23.275" calcext:value-type="float">
       <text:p>23,28</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.D49]" office:value-type="float" office:value="27.475" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.D54]" office:value-type="float" office:value="27.475" calcext:value-type="float">
       <text:p>27,48</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.E49]" office:value-type="float" office:value="28.945" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.E54]" office:value-type="float" office:value="28.945" calcext:value-type="float">
       <text:p>28,95</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -684,13 +754,13 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Wifi VPN ”snabb”</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.M49]" office:value-type="float" office:value="34.91" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.M54]" office:value-type="float" office:value="34.91" calcext:value-type="float">
       <text:p>34,91</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.N49]" office:value-type="float" office:value="37.015" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.N54]" office:value-type="float" office:value="37.015" calcext:value-type="float">
       <text:p>37,02</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.O49]" office:value-type="float" office:value="13.32" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.O54]" office:value-type="float" office:value="13.32" calcext:value-type="float">
       <text:p>13,32</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
@@ -701,13 +771,13 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Wifi VPN ”snabb”</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.W49]" office:value-type="float" office:value="18.0725" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.W54]" office:value-type="float" office:value="18.0725" calcext:value-type="float">
       <text:p>18,07</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.X49]" office:value-type="float" office:value="23.9825" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.X54]" office:value-type="float" office:value="23.9825" calcext:value-type="float">
       <text:p>23,98</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce13" table:formula="of:=[.Y49]" office:value-type="float" office:value="19.9225" calcext:value-type="float">
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.Y54]" office:value-type="float" office:value="19.9225" calcext:value-type="float">
       <text:p>19,92</text:p>
      </table:table-cell>
     </table:table-row>
@@ -725,7 +795,20 @@
      <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.E5:.E8])/4" office:value-type="float" office:value="32.5475" calcext:value-type="float">
       <text:p>32,55</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="6"/>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>3:Mobilt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.C10]" office:value-type="float" office:value="45.8866666666667" calcext:value-type="float">
+      <text:p>45,89</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.D10]" office:value-type="float" office:value="14.9466666666667" calcext:value-type="float">
+      <text:p>14,95</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.E10]" office:value-type="float" office:value="33.0966666666667" calcext:value-type="float">
+      <text:p>33,10</text:p>
+     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Snitt</text:p>
      </table:table-cell>
@@ -738,7 +821,19 @@
      <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.O5:.O8])/4" office:value-type="float" office:value="58.0125" calcext:value-type="float">
       <text:p>58,01</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="6"/>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T1">3:</text:span>Mobilt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.M10]" office:value-type="float" office:value="30.6933333333333" calcext:value-type="float">
+      <text:p>30,69</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.N10]" office:value-type="float" office:value="7.10333333333333" calcext:value-type="float">
+      <text:p>7,10</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.O10]" office:value-type="float" office:value="65.0166666666667" calcext:value-type="float">
+      <text:p>65,02</text:p>
+     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Snitt</text:p>
      </table:table-cell>
@@ -751,16 +846,135 @@
      <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.Y5:.Y8])/4" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0,00</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>3:Mobilt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.W10]" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0,00</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.X10]" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0,00</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.Y10]" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0,00</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C5:.C7])/3" office:value-type="float" office:value="45.8866666666667" calcext:value-type="float">
+      <text:p>45,89</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.D5:.D7])/3" office:value-type="float" office:value="14.9466666666667" calcext:value-type="float">
+      <text:p>14,95</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.E5:.E7])/3" office:value-type="float" office:value="33.0966666666667" calcext:value-type="float">
+      <text:p>33,10</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>3:Wifi</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.C19]" office:value-type="float" office:value="35.5366666666667" calcext:value-type="float">
+      <text:p>35,54</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.D19]" office:value-type="float" office:value="36.0666666666667" calcext:value-type="float">
+      <text:p>36,07</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.E19]" office:value-type="float" office:value="24.26" calcext:value-type="float">
+      <text:p>24,26</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.M5:.M7])/3" office:value-type="float" office:value="30.6933333333333" calcext:value-type="float">
+      <text:p>30,69</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.N5:.N7])/3" office:value-type="float" office:value="7.10333333333333" calcext:value-type="float">
+      <text:p>7,10</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.O5:.O7])/3" office:value-type="float" office:value="65.0166666666667" calcext:value-type="float">
+      <text:p>65,02</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T1">3:</text:span>Wifi</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.M19]" office:value-type="float" office:value="48.6766666666667" calcext:value-type="float">
+      <text:p>48,68</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.N19]" office:value-type="float" office:value="53.2333333333333" calcext:value-type="float">
+      <text:p>53,23</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.O19]" office:value-type="float" office:value="12.1333333333333" calcext:value-type="float">
+      <text:p>12,13</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="3"/>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>3:Wifi</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.W19]" office:value-type="float" office:value="30.1566666666667" calcext:value-type="float">
+      <text:p>30,16</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.X19]" office:value-type="float" office:value="32.3966666666667" calcext:value-type="float">
+      <text:p>32,40</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:formula="of:=[.Y19]" office:value-type="float" office:value="34.8333333333333" calcext:value-type="float">
+      <text:p>34,83</text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="3"/>
-     <table:table-cell table:number-columns-repeated="7"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T1">3:</text:span>Mobilt VPN PI</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.C28]" office:value-type="float" office:value="14.7133333333333" calcext:value-type="float">
+      <text:p>14,71</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.D28]" office:value-type="float" office:value="3.89" calcext:value-type="float">
+      <text:p>3,89</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.E28]" office:value-type="float" office:value="64.1433333333333" calcext:value-type="float">
+      <text:p>64,14</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="3"/>
-     <table:table-cell table:number-columns-repeated="7"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T1">3:</text:span>Mobilt VPN PI</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.M28]" office:value-type="float" office:value="14.03" calcext:value-type="float">
+      <text:p>14,03</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.N28]" office:value-type="float" office:value="8.37" calcext:value-type="float">
+      <text:p>8,37</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.O28]" office:value-type="float" office:value="61.74" calcext:value-type="float">
+      <text:p>61,74</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="3"/>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>3:Mobilt VPN PI</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.W28]" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0,00</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.X28]" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0,00</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.Y28]" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0,00</text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
@@ -769,19 +983,55 @@
      </table:table-cell>
      <table:covered-table-cell table:style-name="ce7"/>
      <table:covered-table-cell table:style-name="ce8"/>
-     <table:table-cell table:number-columns-repeated="7"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T1">3:</text:span>Wifi VPN Pi</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.C37]" office:value-type="float" office:value="16.13" calcext:value-type="float">
+      <text:p>16,13</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.D37]" office:value-type="float" office:value="23.43" calcext:value-type="float">
+      <text:p>23,43</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.E37]" office:value-type="float" office:value="27.8866666666667" calcext:value-type="float">
+      <text:p>27,89</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
       <text:p>Wifi</text:p>
      </table:table-cell>
      <table:covered-table-cell table:style-name="ce7"/>
      <table:covered-table-cell table:style-name="ce8"/>
-     <table:table-cell table:number-columns-repeated="7"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T1">3:</text:span>Wifi VPN Pi</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.M37]" office:value-type="float" office:value="33.59" calcext:value-type="float">
+      <text:p>33,59</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.N37]" office:value-type="float" office:value="38.6433333333333" calcext:value-type="float">
+      <text:p>38,64</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.O37]" office:value-type="float" office:value="15.4333333333333" calcext:value-type="float">
+      <text:p>15,43</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
       <text:p>Wifi</text:p>
      </table:table-cell>
      <table:covered-table-cell table:style-name="ce7"/>
      <table:covered-table-cell table:style-name="ce8"/>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>3:Wifi VPN Pi</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.W37]" office:value-type="float" office:value="15.8233333333333" calcext:value-type="float">
+      <text:p>15,82</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.X37]" office:value-type="float" office:value="18.83" calcext:value-type="float">
+      <text:p>18,83</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.Y37]" office:value-type="float" office:value="18.6233333333333" calcext:value-type="float">
+      <text:p>18,62</text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
@@ -794,7 +1044,19 @@
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Svarstid</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="7"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T1">3:</text:span>Mobilt VPN ”snabb</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.C46]" office:value-type="float" office:value="17.2666666666667" calcext:value-type="float">
+      <text:p>17,27</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.D46]" office:value-type="float" office:value="9.96666666666667" calcext:value-type="float">
+      <text:p>9,97</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.E46]" office:value-type="float" office:value="61.15" calcext:value-type="float">
+      <text:p>61,15</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Ner</text:p>
      </table:table-cell>
@@ -804,7 +1066,19 @@
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Svarstid</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="7"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T1">3:</text:span>Mobilt VPN ”snabb</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.M46]" office:value-type="float" office:value="17.3433333333333" calcext:value-type="float">
+      <text:p>17,34</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.N46]" office:value-type="float" office:value="5.61333333333333" calcext:value-type="float">
+      <text:p>5,61</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.O46]" office:value-type="float" office:value="58.1066666666667" calcext:value-type="float">
+      <text:p>58,11</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Ner</text:p>
      </table:table-cell>
@@ -814,7 +1088,19 @@
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>Svarstid</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>3:Mobilt VPN ”snabb</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.W46]" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0,00</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.X46]" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0,00</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:formula="of:=[.Y46]" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0,00</text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
@@ -827,7 +1113,19 @@
      <table:table-cell office:value-type="float" office:value="17.13" calcext:value-type="float">
       <text:p>17,13</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="7"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T1">3:</text:span>Wifi VPN ”snabb”</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.C55]" office:value-type="float" office:value="20.8966666666667" calcext:value-type="float">
+      <text:p>20,90</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.D55]" office:value-type="float" office:value="29.21" calcext:value-type="float">
+      <text:p>29,21</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.E55]" office:value-type="float" office:value="18.5933333333333" calcext:value-type="float">
+      <text:p>18,59</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="float" office:value="53.04" calcext:value-type="float">
       <text:p>53,04</text:p>
      </table:table-cell>
@@ -837,7 +1135,20 @@
      <table:table-cell office:value-type="float" office:value="10.78" calcext:value-type="float">
       <text:p>10,78</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="7"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>3:Wifi VPN ”snabb”</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.M55]" office:value-type="float" office:value="32.8966666666667" calcext:value-type="float">
+      <text:p>32,90</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.N55]" office:value-type="float" office:value="34.19" calcext:value-type="float">
+      <text:p>34,19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.O55]" office:value-type="float" office:value="14.0933333333333" calcext:value-type="float">
+      <text:p>14,09</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="float" office:value="32.59" calcext:value-type="float">
       <text:p>32,59</text:p>
      </table:table-cell>
@@ -847,7 +1158,19 @@
      <table:table-cell office:value-type="float" office:value="33.21" calcext:value-type="float">
       <text:p>33,21</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>3:Wifi VPN ”snabb”</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.W55]" office:value-type="float" office:value="16.5866666666667" calcext:value-type="float">
+      <text:p>16,59</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.X55]" office:value-type="float" office:value="20.6133333333333" calcext:value-type="float">
+      <text:p>20,61</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13" table:formula="of:=[.Y55]" office:value-type="float" office:value="23.23" calcext:value-type="float">
+      <text:p>23,23</text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="2"/>
@@ -953,40 +1276,82 @@
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Snitt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C13:.C16])/4" office:value-type="float" office:value="33.605" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C14:.C17])/4" office:value-type="float" office:value="33.605" calcext:value-type="float">
       <text:p>33,61</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.D13:.D16])/4" office:value-type="float" office:value="36.51" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.D14:.D17])/4" office:value-type="float" office:value="36.51" calcext:value-type="float">
       <text:p>36,51</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.E13:.E16])/4" office:value-type="float" office:value="20.195" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.E14:.E17])/4" office:value-type="float" office:value="20.195" calcext:value-type="float">
       <text:p>20,20</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Snitt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.M13:.M16])/4" office:value-type="float" office:value="49.74" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.M14:.M17])/4" office:value-type="float" office:value="49.74" calcext:value-type="float">
       <text:p>49,74</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.N13:.N16])/4" office:value-type="float" office:value="54.8925" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.N14:.N17])/4" office:value-type="float" office:value="54.8925" calcext:value-type="float">
       <text:p>54,89</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.O13:.O16])/4" office:value-type="float" office:value="11.6" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.O14:.O17])/4" office:value-type="float" office:value="11.6" calcext:value-type="float">
       <text:p>11,60</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Snitt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.W13:.W16])/4" office:value-type="float" office:value="29.565" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.W14:.W17])/4" office:value-type="float" office:value="29.565" calcext:value-type="float">
       <text:p>29,57</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.X13:.X16])/4" office:value-type="float" office:value="36.7675" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.X14:.X17])/4" office:value-type="float" office:value="36.7675" calcext:value-type="float">
       <text:p>36,77</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.Y13:.Y16])/4" office:value-type="float" office:value="28.125" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.Y14:.Y17])/4" office:value-type="float" office:value="28.125" calcext:value-type="float">
       <text:p>28,13</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C14:.C16])/3" office:value-type="float" office:value="35.5366666666667" calcext:value-type="float">
+      <text:p>35,54</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.D14:.D16])/3" office:value-type="float" office:value="36.0666666666667" calcext:value-type="float">
+      <text:p>36,07</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.E14:.E16])/3" office:value-type="float" office:value="24.26" calcext:value-type="float">
+      <text:p>24,26</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.M14:.M16])/3" office:value-type="float" office:value="48.6766666666667" calcext:value-type="float">
+      <text:p>48,68</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.N14:.N16])/3" office:value-type="float" office:value="53.2333333333333" calcext:value-type="float">
+      <text:p>53,23</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.O14:.O16])/3" office:value-type="float" office:value="12.1333333333333" calcext:value-type="float">
+      <text:p>12,13</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.W14:.W16])/3" office:value-type="float" office:value="30.1566666666667" calcext:value-type="float">
+      <text:p>30,16</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.X14:.X16])/3" office:value-type="float" office:value="32.3966666666667" calcext:value-type="float">
+      <text:p>32,40</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.Y14:.Y16])/3" office:value-type="float" office:value="34.8333333333333" calcext:value-type="float">
+      <text:p>34,83</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
@@ -1166,41 +1531,75 @@
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Snitt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C21:.C24])/4" office:value-type="float" office:value="17.7575" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C23:.C26])/4" office:value-type="float" office:value="17.7575" calcext:value-type="float">
       <text:p>17,76</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.D21:.D24])/4" office:value-type="float" office:value="9.24" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.D23:.D26])/4" office:value-type="float" office:value="9.24" calcext:value-type="float">
       <text:p>9,24</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.E21:.E24])/4" office:value-type="float" office:value="61.8575" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.E23:.E26])/4" office:value-type="float" office:value="61.8575" calcext:value-type="float">
       <text:p>61,86</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Snitt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.M21:.M24])/4" office:value-type="float" office:value="15.7775" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.M23:.M26])/4" office:value-type="float" office:value="15.7775" calcext:value-type="float">
       <text:p>15,78</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.N21:.N24])/4" office:value-type="float" office:value="8.6925" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.N23:.N26])/4" office:value-type="float" office:value="8.6925" calcext:value-type="float">
       <text:p>8,69</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.O21:.O24])/4" office:value-type="float" office:value="61.055" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.O23:.O26])/4" office:value-type="float" office:value="61.055" calcext:value-type="float">
       <text:p>61,06</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Snitt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.W21:.W24])/4" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.W23:.W26])/4" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0,00</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.X21:.X24])/4" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.X23:.X26])/4" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0,00</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.Y21:.Y24])/4" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.Y23:.Y26])/4" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0,00</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C23:.C25])/3" office:value-type="float" office:value="14.7133333333333" calcext:value-type="float">
+      <text:p>14,71</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.D23:.D25])/3" office:value-type="float" office:value="3.89" calcext:value-type="float">
+      <text:p>3,89</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.E23:.E25])/3" office:value-type="float" office:value="64.1433333333333" calcext:value-type="float">
+      <text:p>64,14</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.M23:.M25])/3" office:value-type="float" office:value="14.03" calcext:value-type="float">
+      <text:p>14,03</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.N23:.N25])/3" office:value-type="float" office:value="8.37" calcext:value-type="float">
+      <text:p>8,37</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.O23:.O25])/3" office:value-type="float" office:value="61.74" calcext:value-type="float">
+      <text:p>61,74</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="3"/>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1403,40 +1802,82 @@
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Snitt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C29:.C32])/4" office:value-type="float" office:value="17.5225" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C32:.C35])/4" office:value-type="float" office:value="17.5225" calcext:value-type="float">
       <text:p>17,52</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.D29:.D32])/4" office:value-type="float" office:value="24.25" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.D32:.D35])/4" office:value-type="float" office:value="24.25" calcext:value-type="float">
       <text:p>24,25</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.E29:.E32])/4" office:value-type="float" office:value="48.665" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.E32:.E35])/4" office:value-type="float" office:value="48.665" calcext:value-type="float">
       <text:p>48,67</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Snitt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.M29:.M32])/4" office:value-type="float" office:value="36.4975" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.M32:.M35])/4" office:value-type="float" office:value="36.4975" calcext:value-type="float">
       <text:p>36,50</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.N29:.N32])/4" office:value-type="float" office:value="38.985" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.N32:.N35])/4" office:value-type="float" office:value="38.985" calcext:value-type="float">
       <text:p>38,99</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.O29:.O32])/4" office:value-type="float" office:value="15.325" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.O32:.O35])/4" office:value-type="float" office:value="15.325" calcext:value-type="float">
       <text:p>15,33</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Snitt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.W29:.W32])/4" office:value-type="float" office:value="17.135" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.W32:.W35])/4" office:value-type="float" office:value="17.135" calcext:value-type="float">
       <text:p>17,14</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.X29:.X32])/4" office:value-type="float" office:value="22.335" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.X32:.X35])/4" office:value-type="float" office:value="22.335" calcext:value-type="float">
       <text:p>22,34</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.Y29:.Y32])/4" office:value-type="float" office:value="16.4675" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.Y32:.Y35])/4" office:value-type="float" office:value="16.4675" calcext:value-type="float">
       <text:p>16,47</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C32:.C34])/3" office:value-type="float" office:value="16.13" calcext:value-type="float">
+      <text:p>16,13</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.D32:.D34])/3" office:value-type="float" office:value="23.43" calcext:value-type="float">
+      <text:p>23,43</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.E32:.E34])/3" office:value-type="float" office:value="27.8866666666667" calcext:value-type="float">
+      <text:p>27,89</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.M32:.M34])/3" office:value-type="float" office:value="33.59" calcext:value-type="float">
+      <text:p>33,59</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.N32:.N34])/3" office:value-type="float" office:value="38.6433333333333" calcext:value-type="float">
+      <text:p>38,64</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.O32:.O34])/3" office:value-type="float" office:value="15.4333333333333" calcext:value-type="float">
+      <text:p>15,43</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.W32:.W34])/3" office:value-type="float" office:value="15.8233333333333" calcext:value-type="float">
+      <text:p>15,82</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.X32:.X34])/3" office:value-type="float" office:value="18.83" calcext:value-type="float">
+      <text:p>18,83</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.Y32:.Y34])/3" office:value-type="float" office:value="18.6233333333333" calcext:value-type="float">
+      <text:p>18,62</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
@@ -1616,41 +2057,75 @@
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Snitt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C37:.C40])/4" office:value-type="float" office:value="19.8475" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C41:.C44])/4" office:value-type="float" office:value="19.8475" calcext:value-type="float">
       <text:p>19,85</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.D37:.D40])/4" office:value-type="float" office:value="12.69" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.D41:.D44])/4" office:value-type="float" office:value="12.69" calcext:value-type="float">
       <text:p>12,69</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.E37:.E40])/4" office:value-type="float" office:value="61.3625" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.E41:.E44])/4" office:value-type="float" office:value="61.3625" calcext:value-type="float">
       <text:p>61,36</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Snitt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.M37:.M40])/4" office:value-type="float" office:value="20.0475" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.M41:.M44])/4" office:value-type="float" office:value="20.0475" calcext:value-type="float">
       <text:p>20,05</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.N37:.N40])/4" office:value-type="float" office:value="4.9925" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.N41:.N44])/4" office:value-type="float" office:value="4.9925" calcext:value-type="float">
       <text:p>4,99</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.O37:.O40])/4" office:value-type="float" office:value="59.08" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.O41:.O44])/4" office:value-type="float" office:value="59.08" calcext:value-type="float">
       <text:p>59,08</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Snitt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.W37:.W40])/4" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.W41:.W44])/4" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0,00</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.X37:.X40])/4" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.X41:.X44])/4" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0,00</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.Y37:.Y40])/4" office:value-type="float" office:value="0" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.Y41:.Y44])/4" office:value-type="float" office:value="0" calcext:value-type="float">
       <text:p>0,00</text:p>
      </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C41:.C43])/3" office:value-type="float" office:value="17.2666666666667" calcext:value-type="float">
+      <text:p>17,27</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.D41:.D43])/3" office:value-type="float" office:value="9.96666666666667" calcext:value-type="float">
+      <text:p>9,97</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.E41:.E43])/3" office:value-type="float" office:value="61.15" calcext:value-type="float">
+      <text:p>61,15</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.M41:.M43])/3" office:value-type="float" office:value="17.3433333333333" calcext:value-type="float">
+      <text:p>17,34</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.N41:.N43])/3" office:value-type="float" office:value="5.61333333333333" calcext:value-type="float">
+      <text:p>5,61</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.O41:.O43])/3" office:value-type="float" office:value="58.1066666666667" calcext:value-type="float">
+      <text:p>58,11</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="3"/>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -1853,40 +2328,82 @@
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Snitt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C45:.C48])/4" office:value-type="float" office:value="23.275" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C50:.C53])/4" office:value-type="float" office:value="23.275" calcext:value-type="float">
       <text:p>23,28</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.D45:.D48])/4" office:value-type="float" office:value="27.475" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.D50:.D53])/4" office:value-type="float" office:value="27.475" calcext:value-type="float">
       <text:p>27,48</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.E45:.E48])/4" office:value-type="float" office:value="28.945" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.E50:.E53])/4" office:value-type="float" office:value="28.945" calcext:value-type="float">
       <text:p>28,95</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Snitt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.M45:.M48])/4" office:value-type="float" office:value="34.91" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.M50:.M53])/4" office:value-type="float" office:value="34.91" calcext:value-type="float">
       <text:p>34,91</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.N45:.N48])/4" office:value-type="float" office:value="37.015" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.N50:.N53])/4" office:value-type="float" office:value="37.015" calcext:value-type="float">
       <text:p>37,02</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.O45:.O48])/4" office:value-type="float" office:value="13.32" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.O50:.O53])/4" office:value-type="float" office:value="13.32" calcext:value-type="float">
       <text:p>13,32</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="6"/>
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
       <text:p>Snitt</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.W45:.W48])/4" office:value-type="float" office:value="18.0725" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.W50:.W53])/4" office:value-type="float" office:value="18.0725" calcext:value-type="float">
       <text:p>18,07</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.X45:.X48])/4" office:value-type="float" office:value="23.9825" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.X50:.X53])/4" office:value-type="float" office:value="23.9825" calcext:value-type="float">
       <text:p>23,98</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.Y45:.Y48])/4" office:value-type="float" office:value="19.9225" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.Y50:.Y53])/4" office:value-type="float" office:value="19.9225" calcext:value-type="float">
       <text:p>19,92</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.C50:.C52])/3" office:value-type="float" office:value="20.8966666666667" calcext:value-type="float">
+      <text:p>20,90</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.D50:.D52])/3" office:value-type="float" office:value="29.21" calcext:value-type="float">
+      <text:p>29,21</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.E50:.E52])/3" office:value-type="float" office:value="18.5933333333333" calcext:value-type="float">
+      <text:p>18,59</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.M50:.M52])/3" office:value-type="float" office:value="32.8966666666667" calcext:value-type="float">
+      <text:p>32,90</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.N50:.N52])/3" office:value-type="float" office:value="34.19" calcext:value-type="float">
+      <text:p>34,19</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.O50:.O52])/3" office:value-type="float" office:value="14.0933333333333" calcext:value-type="float">
+      <text:p>14,09</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>3-Snitt</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.W50:.W52])/3" office:value-type="float" office:value="16.5866666666667" calcext:value-type="float">
+      <text:p>16,59</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.X50:.X52])/3" office:value-type="float" office:value="20.6133333333333" calcext:value-type="float">
+      <text:p>20,61</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=SUM([.Y50:.Y52])/3" office:value-type="float" office:value="23.23" calcext:value-type="float">
+      <text:p>23,23</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
