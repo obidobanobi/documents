@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-05-30T09:47:44.281034822</meta:creation-date><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><dc:date>2018-05-30T12:17:11.719832256</dc:date><meta:editing-duration>PT1H22M29S</meta:editing-duration><meta:editing-cycles>21</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="49" meta:word-count="1093" meta:character-count="6934" meta:non-whitespace-character-count="5865"/></office:meta>
+ <office:meta><meta:creation-date>2018-05-30T09:47:44.281034822</meta:creation-date><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><dc:date>2018-05-30T13:09:30.925937331</dc:date><meta:editing-duration>PT2H14M43S</meta:editing-duration><meta:editing-cycles>32</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="5" meta:paragraph-count="57" meta:word-count="1493" meta:character-count="9371" meta:non-whitespace-character-count="7901"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">33101</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">14</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">35116</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">16406</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">12291</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">46299</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">21631</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">121292</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">33101</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">14</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">35114</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">49505</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">16418</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -555,7 +555,15 @@
    <style:paragraph-properties fo:margin-left="0.741cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
    <style:text-properties officeooo:rsid="00012ceb" officeooo:paragraph-rsid="00012ceb"/>
   </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single" officeooo:rsid="0000b1c3" officeooo:paragraph-rsid="0003043d"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.251cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties officeooo:rsid="0003043d" officeooo:paragraph-rsid="0003043d"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:paragraph-rsid="0000b1c3"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -619,46 +627,56 @@
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
    <text:h text:style-name="P4" text:outline-level="1">Sida <text:span text:style-name="T1">5 - Syfte och målsättning - Nätverksdel</text:span></text:h>
-   <text:p text:style-name="P6">Detta arbete är uppdelat i två större delar som sedan knyts ihop till en helhetslösning, vilka är en Nätverksdel och en Androiddel. I nätverksdelen så har arbetet gått ut på att få all internet trafik att passera ifrån android-enheten via vpn-tunnel till de egna nätverket som man har i hemmet. Där slussas trafiken vidare ut på nätet och ger en möjlighet för att ställa vissa restriktioner på trafiken. </text:p>
-   <text:p text:style-name="P6">Icke önskvärda hemsidor skall blockeras dns-anrop med OpenDNS. De går till på så vis att man skriver in den adress som man vill komma åt, t.ex. du.se. <text:s/>Då man använder sig av de publika dns-adresser som OpenDNS erhåller så skickas förfrågan till deras servrar. Där har man skapat ett konto som man kan ställa in vilken typ av webinnehåll som skall blockeras. När den får ett anrop ifrån oss så kan den se på den publika adressen som förfrågan kom ifrån om den skall skicka den giltiga ip-adressen eller inte. </text:p>
-   <text:p text:style-name="P6">Då det hela tiden kommer nya sidor med olämplig innehåll så är det svårt för en tjänst som OpenDNS att filtrera bort allt olämpligt innehåll på internet. Vi ansåg därför att ett komplement till OpenDNS vore på sin plats. Därför undersöktes även ett Content Filter (e2guardian), vilket det är möjligt att filtrera bort hemsidor baserat på vad för slags innehåll som finns på sidan, t.ex svordomar mm. </text:p>
+   <text:p text:style-name="P6">Detta arbete är uppdelat i två större delar som sedan knyts ihop till en helhetslösning, vilka är en Nätverksdel och en Androiddel. </text:p>
+   <text:p text:style-name="P6">I nätverksdelen så har arbetet gått ut på att få all internet trafik att passera ifrån android-enheten via vpn-tunnel till de egna nätverket som man har i hemmet. Där slussas trafiken vidare ut på nätet och ger en möjlighet för att ställa vissa restriktioner på trafiken. </text:p>
+   <text:p text:style-name="P6">Icke önskvärda hemsidor skall blockeras redan med <text:s/>dns-anropen. Vilket betyder att om man försöker få tillgång till en sida som ej är godkänd så får man aldrig adressen till den sidan via dns-anropet utan slussas vidare till en sida som förklarar att den är spärrad.</text:p>
+   <text:p text:style-name="P6">Då det hela tiden kommer nya sidor med olämplig innehåll så är det svårt för en tjänst som tillhandahåller DNS-filtrering att filtrera bort allt olämpligt innehåll på internet. Vi ansåg därför att ett komplement till vore på sin plats. Därför undersöktes även ett Content Filter med vilket det är möjligt att filtrera bort hemsidor baserat på vad för slags innehåll som finns på sidan, t.ex svordomar mm. </text:p>
    <text:p text:style-name="P1"/>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P1">Nätverksdel som berör den säkerhet som man kan skapa på internet via filtrering och vpn</text:p>
-   <text:p text:style-name="P1">Säkra internet genom att skicka all trafik vpn</text:p>
-   <text:p text:style-name="P1">Tillgängliga sidor filtreras</text:p>
+   <text:p text:style-name="P8">Nätverksdel som berör den säkerhet som man kan skapa på internet via filtrering och vpn</text:p>
+   <text:p text:style-name="P8">Säkra internet genom att skicka all trafik vpn</text:p>
+   <text:p text:style-name="P8">Tillgängliga sidor filtreras</text:p>
    <text:p text:style-name="P1"/>
-   <text:h text:style-name="P4" text:outline-level="1">Sida <text:span text:style-name="T1">6 - Syfte och målsättning – Androiddel </text:span></text:h>
-   <text:p text:style-name="P1">Android del som berör den säkerhet man kan skapa på telefonen</text:p>
-   <text:p text:style-name="P1">Hindra samtal och sms som inte finns angivna i den egna telefonboken</text:p>
-   <text:p text:style-name="P1"><text:soft-page-break/>Förhindra att användaren inte kan ändra inställningar genom att blockera den appen.</text:p>
-   <text:p text:style-name="P1">Förhindra att andra icke önskvärda appar går att starta</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"/>
+   <text:h text:style-name="P4" text:outline-level="1"><text:soft-page-break/>Sida <text:span text:style-name="T1">6 - Syfte och målsättning – Androiddel </text:span></text:h>
+   <text:p text:style-name="P6">I android delen så har vi fokuserat på att kunna säkra upp telefonen så långt det går. Först och främst ser vi ett behov av att kunna blockera samtal och sms ifrån okända personer: allt ifrån försäljare till potentiellt farliga personer. Detta </text:p>
+   <text:p text:style-name="P6">Det skall även gå att förhindra att barnet/användaren kan gör a inställningar i telefonen som potentiellt gör att alla dessa säkerhetsanordningar kringgås. </text:p>
+   <text:p text:style-name="P6">Även begränsning i vilka appar som barnet får använda bör finnas i den slutliga produkten. </text:p>
+   <text:p text:style-name="P11"/>
    <text:h text:style-name="P4" text:outline-level="1">Sida <text:span text:style-name="T1">7 – Metodval och tillvägagångssätt </text:span></text:h>
    <text:p text:style-name="P1">Använt olika testsystem för att prova funktioner och prestanda</text:p>
-   <text:p text:style-name="P1"/>
    <text:p text:style-name="P1">Rasperry PI – tänkt som ”slutprodukt” <text:span text:style-name="T2">(pga. dess praktiska (storleks)-format och låga strömförbrukning, samt lämplig att alltid vara påslagen/igång</text:span></text:p>
    <text:p text:style-name="P1">Core I7 – Referens för att se hur snabbt de går. ”<text:span text:style-name="T2">Räcker verkligen en RPI till för normal surfning/användning etc.”?</text:span></text:p>
    <text:p text:style-name="P1"/>
+   <text:p text:style-name="P6">Android:</text:p>
+   <text:p text:style-name="P12">Filtreringen av sms och samtal har vi lös med en egenutvecklad app som blockerar samtal ifrån telefonnummer som inte finns med i den egna adressboken. Dessa samtal avbryts direkt utan att användaren skall behöva gör a någon åtgärd. </text:p>
+   <text:p text:style-name="P12">Att förhindra att man kan göra ändringar i inställningar och blockera vissa program kan man lösa med en så kallad appLocker som kräver ett lösenord om ett program med restriktioner försöker köras.</text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P6">Närtverk:</text:p>
+   <text:p text:style-name="P12">VPN-lösningen föll naturligt på OpenVPN vilket är ett välkänt, öppet och gratis system för att skapa vpn-tunnlar. När en klient kopplat upp sig till vpn-servern så skickas inställningar så som dns-adresser och instruktioner om att all trafik skall gå genom vpn-anslutningen, till klienten. På så vis så går all trafik ifrån telefonen till de egna nätverket som man har hemma så att trafiken kan övervakas och filtreras. </text:p>
+   <text:p text:style-name="P12">För att filtrera bort oönskade websidor så använder vi av en gratis webb-tjänst som heter OpenDNS. Den fungerar som så att man skriver in den adress som man vill komma åt, t.ex. du.se. <text:s/>Då man använder sig av de publika dns-adresser som OpenDNS erhåller (dom som skickades till klienten med openVPN) så skickas förfrågan till deras servrar. Där har man skapat <text:soft-page-break/>ett konto som man kan ställa in vilket typ av webinnehåll som skall blockeras. När den får ett anrop ifrån oss så kan den se på den publika adressen som förfrågan kom ifrån om den skall skicka den giltiga ip-adressen eller inte. </text:p>
+   <text:p text:style-name="P12">Som ett komplement till DNS-filtreringen undersökte vi även möjligheten att filtrera websidor baserat på innehåll. Valet av programvara föll då på E2guardian vilket även det är ett gratis och öppenkällkod projekt. </text:p>
    <text:h text:style-name="P4" text:outline-level="1">Sida <text:span text:style-name="T1">8 – resultat och slutsattser</text:span></text:h>
    <text:p text:style-name="P3">Lyckats med att:</text:p>
    <text:p text:style-name="P3">(All) internettrafik slussas via OpenVPN till hemmanätverket</text:p>
-   <text:p text:style-name="P3">Via inställningar på serversidan / hemmanätverket sker en anpassningsbar innehållsfiltreringen via OpenDNS.</text:p>
-   <text:p text:style-name="P3">Samtal och SMS blockeras via vitlistning <text:span text:style-name="T5">// det som INTE funkar fullt ut kommer ju sen… förbättra SMS-app etc.</text:span></text:p>
+   <text:p text:style-name="P3">Via inställningar på <text:span text:style-name="T6">openDNS-hemsidan så </text:span><text:span text:style-name="T7">serversidan / hemmanätverket</text:span> sker en anpassningsbar <text:span text:style-name="T6">websideblockering.</text:span> <text:span text:style-name="T7">via OpenDNS.</text:span></text:p>
+   <text:p text:style-name="P3">Samtal och SMS blockeras via vitlistning <text:span text:style-name="T6">i den skapade applikationen </text:span><text:s/><text:span text:style-name="T5">// det som INTE funkar fullt ut kommer ju sen… förbättra SMS-app etc.</text:span></text:p>
    <text:p text:style-name="P3">Tillgång till (vissa) applikationer kräver lösenord genom applocker → förhindrar att barnet använder olämpliga appar.</text:p>
-   <text:p text:style-name="P3"/>
-   <text:p text:style-name="P6">Raspberry Pi räcker… </text:p>
+   <text:p text:style-name="P6">Raspberry Pi räcker till för att slussa den nödvändiga trafiken, I våra tester så höll det snabbare systemet en något högre hastighet, men ingen nämnvärt stor skillnad som på något vis utesluter en RPI för detta ändamål.</text:p>
    <text:h text:style-name="P4" text:outline-level="1">Sida <text:span text:style-name="T1">9 – Nyttan med detta</text:span></text:h>
    <text:p text:style-name="P2">Utöver att VPN-tunneln som skickar all trafik till hemmanätverket kan användas för att sedan filtrera Internettrafiken med DNS-filtrering ger också tunneln ett ökat skydd mot attacker / minskad attackyta.</text:p>
    <text:p text:style-name="P3">DNS-filtreringen i sig själv kan anpassas efter egna behov / preferenser (via ett enkelt webbgränssnitt)</text:p>
    <text:p text:style-name="P3">Inga samtal och SMS tas emot på enheten som inte i förhand är inlagda i telefonboken (vitlistning). Inte bara en trygghet för föräldrar utan även för barnet själv som slipper allehanda märkliga kontakförfrågningar. De nummer som ska släppas igenom kan <text:span text:style-name="T3">enkelt</text:span><text:span text:style-name="T4"> läggas till i telefonboken (t.ex. familjemedlemmar etc).</text:span></text:p>
-   <text:p text:style-name="P5"><text:soft-page-break/>Applocker skyddar effektivt mot att icke lämpliga appar körs då befintliga appar kan lösenordsskyddas. Detta förhindrar också att (enhets-)inställningar ändras avsiktligt eller oavsiktligt och på så sätt sätter övriga skydd ur spel.</text:p>
+   <text:p text:style-name="P5">Applocker skyddar effektivt mot att icke lämpliga appar körs då befintliga appar kan lösenordsskyddas. Detta förhindrar också att (enhets-)inställningar ändras avsiktligt eller oavsiktligt och på så sätt sätter övriga skydd ur spel.</text:p>
    <text:p text:style-name="P3"><text:span text:style-name="T4">Slutsatsen är att </text:span><text:span text:style-name="T3">både</text:span><text:span text:style-name="T4"> barn och föräldrar bör kunna känna sig mindre otrygga med att låta barnet använda enheten med detta system.</text:span></text:p>
-   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P1"><text:soft-page-break/></text:p>
    <text:h text:style-name="P4" text:outline-level="1">Sida 1<text:span text:style-name="T1">0 – Förbättringspotential </text:span></text:h>
    <text:p text:style-name="P3">Vi har funnit att VPN-klienten går att stänga av på Androidenheten. Detta skulle med mer tid/”ansträngning” teoretiskt gå att åtgärda genom….. modifiering av VPN-klienten</text:p>
    <text:p text:style-name="P3">Skapa ett enklare installationsförfarande (för hela prototypen/systemet). Som det är just nu är det många enskilda komponenter som initialt behöver installaleras/konfigureras. (Dock handlar det oftast om engångsinställningar). Tex: OpenVPN-server, OpenDNS på serverdel, div. IP-uppdaterare (om man har varierande publika IP-adresser på hemmanätverket).</text:p>
    <text:p text:style-name="P3">Bygga ut SMS-applikationen till en fullgod funktionell ”standard”-app som kan användas både för mottagande och sändande av SMS (samt blockering). (Av tidsbrist har vi inte utvecklat en sådan, utan enbart siktat in oss på just huruvida blockering är möjlig).</text:p>
    <text:p text:style-name="P3">Att integrera e2guardian i helhetslösningen för ytterligare lager av säkerhet. (Har fungerat ”separat”).</text:p>
+   <text:p text:style-name="P6">Systeme inte ett vattentätt system (man kan t.ex. kringgå blockeringen av websidor igenom att skriva in ip-nummret.) men de försvarar vi oss med att det inte går att skydda barnet till 100%. Vill barnet kringgå de restriktioner som satts så kommer denne att lyckas med de. Det är bara att låna en annan telefon eller dator för att söka rätt på vad man vill. <text:span text:style-name="T7">Men att totalt låsa in barnet är inte heller vad vi är ute efter. ..i första han till för att barnen inte av misstag skall komma över innehåll som kan vara olämpligt. Uppfosrtan?… </text:span></text:p>
    <text:p text:style-name="P1"/>
    <text:h text:style-name="P4" text:outline-level="1">Sida 1<text:span text:style-name="T1">1 – Tack för oss </text:span></text:h>
    <text:p text:style-name="P1">”<text:span text:style-name="T2">Frågor på det?” :D</text:span></text:p>
